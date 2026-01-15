@@ -1,0 +1,1019 @@
+zdish_id,name,cuisine,ingredients,ingredient_count,cooking_time,difficulty,rating,calories,servings,spicy,sweet,sour,salty,umami,fresh,creamy,smoky,diet_type,meal_type,region,description
+1,Butter Chicken,Indian,"chicken, tomatoes, cream, butter, onions, garlic, ginger, garam masala, cumin, coriander",10,45,Medium,4.7,520,4,3,2,1,2,4,2,5,3,Non-Vegetarian,Dinner,North India,Rich and creamy tomato-based curry with tender chicken pieces
+2,Masala Dosa,Indian,"rice, black gram, fenugreek seeds, potatoes, onions, mustard seeds, curry leaves, turmeric, green chilies",9,120,Hard,4.8,280,2,2,1,2,3,2,3,1,1,Vegetarian,Breakfast,South India,Crispy fermented crepe filled with spiced potato curry
+3,Chicken Biryani,Indian,"basmati rice, chicken, yogurt, onions, saffron, cardamom, cinnamon, bay leaves, mint, ghee, ginger, garlic",10,90,Hard,4.9,650,6,3,1,1,4,4,2,2,4,Non-Vegetarian,Lunch,Hyderabad,Fragrant layered rice dish with marinated meat and aromatic spices
+4,Dal Makhani,Indian,"black lentils, kidney beans, cream, butter, tomatoes, onions, garlic, ginger, cumin, garam masala",10,180,Medium,4.6,380,4,2,1,1,2,4,2,4,2,Vegetarian,Dinner,Punjab,Slow-cooked creamy black lentil curry with rich butter and cream
+5,Samosa,Indian,"flour, potatoes, peas, onions, cumin seeds, coriander seeds, garam masala, green chilies, oil",9,60,Medium,4.5,250,4,3,1,2,3,2,3,1,1,Vegetarian,Snack,North India,Crispy triangular pastry filled with spiced potato and pea mixture
+6,Tandoori Chicken,Indian,"chicken, yogurt, lemon juice, garlic, ginger, red chili powder, turmeric, garam masala, cumin",9,240,Medium,4.7,320,4,4,1,2,2,3,2,1,5,Non-Vegetarian,Dinner,Punjab,Marinated chicken cooked in traditional clay oven with smoky flavor
+7,Palak Paneer,Indian,"spinach, paneer, onions, tomatoes, garlic, ginger, cumin, coriander, garam masala, cream",10,30,Easy,4.4,290,4,2,1,1,2,3,4,3,1,Vegetarian,Lunch,North India,Creamy spinach curry with soft cottage cheese cubes
+8,Chole Bhature,Indian,"chickpeas, flour, yogurt, onions, tomatoes, ginger, garlic, cumin, coriander, amchur, oil",11,90,Medium,4.6,550,4,3,1,2,3,3,2,2,1,Vegetarian,Lunch,Punjab,Spicy chickpea curry served with fluffy deep-fried bread
+9,Fish Curry,Indian,"fish, coconut milk, onions, tomatoes, green chilies, ginger, garlic, turmeric, red chili powder, curry leaves",10,25,Easy,4.5,340,4,3,1,2,2,3,3,4,1,Non-Vegetarian,Lunch,Kerala,Tangy coconut-based fish curry with aromatic spices
+10,Rajma,Indian,"kidney beans, onions, tomatoes, ginger, garlic, cumin, coriander, garam masala, red chili powder",9,120,Medium,4.3,320,4,2,1,1,2,4,2,2,1,Vegetarian,Lunch,North India,Hearty red kidney bean curry in spiced tomato gravy
+11,Pani Puri,Indian,"semolina, flour, potatoes, chickpeas, tamarind, mint, coriander, black salt, chaat masala",9,30,Easy,4.8,45,6,2,3,4,4,2,4,1,1,Vegetarian,Snack,Western India,Crispy hollow shells filled with spiced water and tangy chutneys
+12,Vindaloo,Indian,"pork, vinegar, red chilies, garlic, ginger, cumin, coriander, turmeric, onions, jaggery",10,90,Hard,4.4,420,4,5,2,4,2,3,2,1,2,Non-Vegetarian,Dinner,Goa,Fiery Portuguese-influenced curry with vinegar and intense spices
+13,Idli,Indian,"rice, black gram, fenugreek seeds, salt",4,480,Medium,4.7,120,4,0,0,0,1,1,3,0,0,Vegetarian,Breakfast,South India,Soft steamed rice cakes made from fermented batter
+14,Rogan Josh,Indian,"lamb, yogurt, onions, garlic, ginger, fennel powder, garam masala, red chili powder, saffron",9,120,Hard,4.6,480,4,3,1,1,2,4,2,2,3,Non-Vegetarian,Dinner,Kashmir,Aromatic lamb curry with rich red gravy and Kashmiri spices
+15,Aloo Gobi,Indian,"potatoes, cauliflower, onions, tomatoes, ginger, garlic, turmeric, cumin, coriander, green chilies",10,25,Easy,4.2,180,4,2,1,1,2,2,3,1,1,Vegetarian,Lunch,North India,Dry curry with spiced potatoes and cauliflower
+16,Dhokla,Indian,"gram flour, semolina, yogurt, ginger, green chilies, mustard seeds, sesame seeds, curry leaves",8,45,Medium,4.5,150,6,1,2,2,2,2,3,1,1,Vegetarian,Snack,Gujarat,Steamed savory sponge cake made from fermented chickpea flour
+17,Mutton Curry,Indian,"mutton, onions, tomatoes, yogurt, ginger, garlic, red chili powder, turmeric, garam masala, coriander",10,90,Hard,4.5,520,4,3,1,1,2,5,2,2,2,Non-Vegetarian,Dinner,South India,Rich and spicy mutton curry with aromatic spices
+18,Poha,Indian,"flattened rice, onions, potatoes, peanuts, mustard seeds, turmeric, curry leaves, green chilies, lemon",9,15,Easy,4.3,220,4,1,1,2,2,2,3,1,1,Vegetarian,Breakfast,Maharashtra,Light flattened rice dish with vegetables and aromatic tempering
+19,Seekh Kebab,Indian,"minced meat, onions, ginger, garlic, mint, coriander, red chili powder, garam masala, cumin",9,30,Medium,4.6,280,4,3,0,1,2,4,2,1,4,Non-Vegetarian,Appetizer,North India,Grilled spiced minced meat skewers with smoky flavor
+20,Upma,Indian,"semolina, onions, green chilies, ginger, mustard seeds, curry leaves, cashews, ghee",8,15,Easy,4.1,200,4,1,0,1,2,2,2,2,1,Vegetarian,Breakfast,South India,Savory semolina porridge with vegetables and tempering
+21,Prawn Curry,Indian,"prawns, coconut, onions, tomatoes, ginger, garlic, red chilies, turmeric, curry leaves, tamarind",10,25,Medium,4.6,280,4,3,1,3,2,4,3,3,1,Non-Vegetarian,Lunch,Coastal India,Tangy coconut-based prawn curry with coastal spices
+22,Kadhi Pakora,Indian,"gram flour, yogurt, onions, ginger, garlic, turmeric, cumin seeds, mustard seeds, fenugreek leaves",9,45,Medium,4.4,260,4,1,1,2,2,2,2,3,1,Vegetarian,Lunch,North India,Tangy yogurt-based curry with fried gram flour dumplings
+23,Medu Vada,Indian,"black gram, ginger, green chilies, curry leaves, black pepper, cumin seeds, oil",7,30,Medium,4.5,180,4,1,0,0,2,2,3,1,1,Vegetarian,Breakfast,South India,Crispy deep-fried lentil donuts with aromatic spices
+24,Chicken Tikka,Indian,"chicken, yogurt, lemon juice, ginger, garlic, red chili powder, turmeric, garam masala",8,180,Medium,4.7,240,4,3,1,2,2,3,2,2,4,Non-Vegetarian,Appetizer,North India,Marinated grilled chicken pieces with tandoori spices
+25,Rasam,Indian,"tomatoes, tamarind, lentils, black pepper, cumin, coriander seeds, curry leaves, asafoetida, ghee",9,30,Easy,4.4,80,4,2,1,3,2,3,4,1,1,Vegetarian,Soup,South India,Tangy South Indian soup with tomatoes and aromatic spices
+26,Gulab Jamun,Indian,"milk solids, sugar, cardamom, flour, rose water, ghee",6,45,Medium,4.8,350,4,0,5,0,0,1,1,2,0,Vegetarian,Dessert,North India,"Soft, deep-fried milk dumplings soaked in a rose-flavored sugar syrup"
+27,Jalebi,Indian,"all-purpose flour, yogurt, sugar, saffron, cardamom, oil",6,30,Easy,4.6,380,4,0,5,1,0,1,1,0,0,Vegetarian,Dessert,North India,"Crispy, syrupy, spiral-shaped fritters soaked in sugar syrup"
+28,Rasgulla,Indian,"chenna, sugar, cardamom, rose water",4,60,Medium,4.7,250,4,0,4,0,0,1,1,0,0,Vegetarian,Dessert,Odisha/Bengal,Spongy cottage cheese balls soaked in a light sugar syrup
+29,Kheer,Indian,"rice, milk, sugar, cardamom, saffron, nuts",6,60,Easy,4.5,320,4,0,4,0,1,2,1,5,0,Vegetarian,Dessert,Pan-Indian,"Creamy rice pudding with milk, sugar, and aromatic spices"
+30,Malai Kofta,Indian,"paneer, potatoes, cream, cashews, tomatoes, onions, ginger, garlic, spices",9,45,Medium,4.6,450,4,2,2,1,2,4,2,5,0,Vegetarian,Dinner,North India,"Fried vegetable and paneer dumplings in a rich, creamy gravy"
+31,Mattar Paneer,Indian,"paneer, peas, tomatoes, onions, garlic, ginger, garam masala, cumin, coriander",9,30,Easy,4.3,310,4,2,1,1,2,3,2,3,1,Vegetarian,Dinner,North India,A classic curry with cottage cheese cubes and green peas
+32,Bhindi Masala,Indian,"okra, onions, tomatoes, ginger, garlic, cumin, coriander, turmeric, amchur",9,25,Easy,4.2,200,4,2,1,2,2,2,3,1,1,Vegetarian,Lunch,Pan-Indian,Stir-fried okra with a blend of aromatic spices
+33,Baingan Bharta,Indian,"eggplant, onions, tomatoes, ginger, garlic, green chilies, coriander, turmeric, cumin",9,45,Medium,4.4,280,4,2,1,1,2,3,3,1,4,Vegetarian,Dinner,Punjab,Smoky roasted eggplant mash with spiced tomato and onion gravy
+34,Papdi Chaat,Indian,"flour, yogurt, potatoes, chickpeas, tamarind, mint, coriander, spices",8,20,Easy,4.6,250,4,2,3,3,3,2,4,1,1,Vegetarian,Snack,North India,"Crispy fried dough wafers topped with potatoes, chickpeas, and chutneys"
+35,Pav Bhaji,Indian,"potatoes, tomatoes, peas, cauliflower, onions, butter, pav bhaji masala, lemon",8,45,Medium,4.5,480,4,3,1,2,3,3,2,2,1,Vegetarian,Dinner,Maharashtra,A spicy vegetable mash served with soft buttered buns
+36,Shahi Paneer,Indian,"paneer, cream, yogurt, onions, tomatoes, ginger, garlic, cashews, spices",9,40,Medium,4.6,410,4,1,2,1,2,4,2,5,0,Vegetarian,Dinner,North India,Royal and creamy curry with soft cottage cheese and a rich gravy
+37,Chicken Chettinad,Indian,"chicken, onions, tomatoes, coconut, red chilies, fennel, star anise, cinnamon",8,45,Hard,4.7,450,4,5,1,2,2,4,2,2,1,Non-Vegetarian,Dinner,Tamil Nadu,A fiery and aromatic chicken curry from the Chettinad region
+38,Chicken 65,Indian,"chicken, yogurt, ginger, garlic, red chilies, curry leaves, rice flour, spices",8,30,Medium,4.6,380,4,4,1,2,2,3,2,2,0,Non-Vegetarian,Appetizer,South India,"Spicy, deep-fried chicken appetizer with a vibrant red color"
+39,Dahi Bhalla,Indian,"black gram, yogurt, tamarind chutney, mint chutney, spices",5,120,Medium,4.5,220,4,1,3,3,2,2,4,4,0,Vegetarian,Snack,North India,Soft lentil fritters soaked in creamy yogurt and topped with chutneys
+40,Gobi Manchurian,Indian,"cauliflower, flour, cornstarch, soy sauce, garlic, ginger, green chilies, onions, vinegar",9,30,Medium,4.3,350,4,2,2,2,2,2,2,1,1,Vegetarian,Appetizer,Indian-Chinese,"Fried cauliflower florets in a spicy, tangy, and sweet sauce"
+41,Chicken Manchurian,Indian,"chicken, flour, cornstarch, soy sauce, garlic, ginger, green chilies, onions, vinegar",9,30,Medium,4.4,400,4,2,2,2,2,2,2,1,1,Non-Vegetarian,Appetizer,Indian-Chinese,"Fried chicken pieces in a spicy, tangy, and sweet sauce"
+42,Pulao,Indian,"basmati rice, vegetables, onions, ginger, garlic, cumin, cardamom, cinnamon, bay leaves",9,30,Easy,4.3,300,4,1,0,0,2,2,3,1,1,Vegetarian,Lunch,Pan-Indian,A flavorful rice dish cooked with vegetables and aromatic spices
+43,Aloo Paratha,Indian,"flour, potatoes, onions, ginger, green chilies, coriander, spices, butter",8,20,Easy,4.5,380,2,2,1,1,2,3,2,1,1,Vegetarian,Breakfast,North India,A flatbread stuffed with a spiced potato mixture
+44,Naan,Indian,"all-purpose flour, yogurt, yeast, sugar, salt, butter",6,15,Easy,4.7,250,2,0,0,0,1,2,2,1,3,Vegetarian,Side Dish,North India,"A soft, leavened flatbread typically baked in a tandoor"
+45,Pesarattu,Indian,"green gram, ginger, green chilies, cumin, onions",5,120,Easy,4.2,180,2,1,0,0,1,2,3,1,0,Vegetarian,Breakfast,Andhra Pradesh,A savory crepe made from green gram batter
+46,Thali,Indian,various,varies,60,Medium,4.8,600,1,2,2,2,2,3,4,2,2,Vegetarian/Non-Vegetarian,Lunch/Dinner,Pan-Indian,"A complete meal platter with a variety of dishes, including curries, bread, rice, and dessert"
+47,Dosa,Indian,"rice, black gram, fenugreek seeds",3,120,Hard,4.7,220,2,1,0,1,1,2,3,1,0,Vegetarian,Breakfast,South India,"A thin, crispy, and savory crepe made from fermented batter"
+48,Uttapam,Indian,"rice, black gram, onions, tomatoes, green chilies, coriander",6,120,Medium,4.4,250,2,1,0,1,1,2,3,1,0,Vegetarian,Breakfast,South India,A thick pancake-like dish made from fermented batter with vegetable toppings
+49,Sambhar,Indian,"lentils, tamarind, drumsticks, onions, tomatoes, sambar powder",6,45,Medium,4.6,180,4,2,1,3,2,3,3,1,0,Vegetarian,Soup/Side Dish,South India,A tangy and aromatic lentil and vegetable stew
+50,Raita,Indian,"yogurt, cucumber, onions, roasted cumin powder, mint, salt",6,10,Easy,4.5,120,4,0,1,1,1,2,4,3,0,Vegetarian,Side Dish,Pan-Indian,A cooling yogurt-based side dish with vegetables and spices
+51,Mysore Pak,Indian,"gram flour, sugar, ghee, cardamom powder",4,45,Medium,4.6,420,4,0,5,0,0,1,1,3,0,Vegetarian,Dessert,Karnataka,"A rich, dense, and buttery sweet made from gram flour, sugar, and ghee."
+52,Payasam,Indian,"rice, milk, jaggery, cardamom, cashews, raisins",6,40,Easy,4.5,350,4,0,4,0,1,2,1,4,0,Vegetarian,Dessert,South India,"A creamy and sweet rice pudding, often prepared with jaggery."
+53,Ras Malai,Indian,"chenna, milk, sugar, saffron, cardamom, pistachios",6,60,Medium,4.8,300,4,0,4,0,0,1,1,5,0,Vegetarian,Dessert,Bengal/Odisha,"Soft, spongy cheese discs soaked in a rich, saffron-flavored milk."
+54,Kulfi,Indian,"milk, sugar, cardamom, saffron, pistachios, almonds",6,360,Hard,4.7,280,4,0,4,0,0,1,2,5,0,Vegetarian,Dessert,North India,"A traditional Indian frozen dessert made from slowly simmered, sweetened milk."
+55,Peda,Indian,"milk solids, sugar, cardamom powder, pistachios",4,30,Medium,4.5,200,6,0,4,0,0,1,1,4,0,Vegetarian,Dessert,North India,"A dense, creamy sweet made from milk solids and sugar."
+56,Sooji Halwa,Indian,"semolina, ghee, sugar, water, cardamom, nuts",6,20,Easy,4.3,250,4,0,4,0,1,2,1,2,0,Vegetarian,Dessert,Pan-Indian,"A sweet, pudding-like dessert made from semolina, ghee, and sugar."
+57,Besan Laddu,Indian,"gram flour, ghee, sugar, cardamom powder",4,30,Easy,4.5,380,6,0,4,0,0,1,1,3,0,Vegetarian,Dessert,Pan-Indian,"Sweet, round balls made from roasted gram flour, ghee, and sugar."
+58,Ghevar,Indian,"all-purpose flour, ghee, sugar, cardamom, saffron",5,45,Hard,4.4,450,4,0,5,0,0,1,1,2,0,Vegetarian,Dessert,Rajasthan,"A disc-shaped sweet made from flour, deep-fried and soaked in sugar syrup."
+59,Jalebi with Rabri,Indian,"jalebi, thickened milk, nuts, saffron",4,45,Medium,4.7,550,4,0,5,1,0,1,1,4,0,Vegetarian,Dessert,North India,"Crispy jalebi served with a thick, sweetened milk sauce (rabri)."
+60,Barfi,Indian,"milk solids, sugar, cardamom, pistachios",4,40,Medium,4.6,300,6,0,4,0,0,1,1,4,0,Vegetarian,Dessert,Pan-Indian,"A dense milk-based sweet, often flavored with cardamom or other spices."
+61,Moong Dal Halwa,Indian,"moong lentils, ghee, sugar, milk, cardamom, nuts",6,60,Hard,4.7,420,4,0,4,0,1,2,1,4,0,Vegetarian,Dessert,Rajasthan,"A rich, sweet pudding made from yellow lentils, ghee, and sugar."
+62,Phirni,Indian,"rice, milk, sugar, cardamom, saffron, nuts",6,45,Medium,4.6,310,4,0,4,0,1,2,1,5,0,Vegetarian,Dessert,North India,"A creamy rice pudding served in earthen bowls, often chilled."
+63,Carrot Halwa,Indian,"carrots, milk, sugar, ghee, cardamom, nuts",6,60,Medium,4.5,380,4,0,4,0,1,2,1,4,0,Vegetarian,Dessert,North India,"A sweet, pudding-like dessert made from grated carrots, milk, and sugar."
+64,Lassi,Indian,"yogurt, sugar, water, cardamom powder",4,5,Easy,4.5,200,2,0,4,1,0,1,4,5,0,Vegetarian,Drink,Punjab,"A refreshing, creamy yogurt-based drink, often sweet."
+65,Nimbu Pani,Indian,"lemon juice, sugar, water, black salt, roasted cumin powder",5,5,Easy,4.3,80,2,0,2,4,2,1,5,0,0,Vegetarian,Drink,Pan-Indian,A simple and refreshing Indian lemonade.
+66,Masala Chai,Indian,"black tea, milk, water, ginger, cardamom, cloves, cinnamon",6,10,Easy,4.8,150,2,1,2,0,0,1,2,3,1,Vegetarian,Drink,Pan-Indian,A spiced tea brewed with milk and aromatic spices.
+67,Mango Lassi,Indian,"yogurt, mango pulp, sugar, cardamom powder",4,5,Easy,4.7,250,2,0,5,1,0,1,5,5,0,Vegetarian,Drink,Pan-Indian,A sweet and creamy yogurt drink blended with fresh mango.
+68,Jaljeera,Indian,"cumin, ginger, black pepper, mint, lemon juice, black salt, water",7,10,Easy,4.2,50,2,1,1,3,3,1,5,0,0,Vegetarian,Drink,North India,"A tangy and spicy cumin-based drink, often served as an appetizer."
+69,Samosa Chaat,Indian,"samosa, chickpeas, yogurt, tamarind chutney, mint chutney, spices",6,15,Medium,4.6,400,4,2,3,3,3,2,3,2,1,Vegetarian,Snack,North India,"Crushed samosas topped with spicy chickpeas, yogurt, and chutneys."
+70,Kachori,Indian,"flour, moong dal, spices, oil",4,45,Medium,4.4,300,4,3,1,1,2,2,2,1,1,Vegetarian,Snack,Rajasthan/North India,"A round, deep-fried pastry filled with spiced lentils."
+71,Bhel Puri,Indian,"puffed rice, sev, potatoes, onions, tomatoes, tamarind chutney, mint chutney",7,15,Easy,4.5,220,4,2,3,3,3,2,4,1,1,Vegetarian,Snack,Mumbai,"A crunchy and tangy street food mix of puffed rice, vegetables, and chutneys."
+72,Sev Puri,Indian,"flour, potatoes, onions, tomatoes, tamarind chutney, mint chutney, sev",7,15,Easy,4.6,250,4,2,3,3,3,2,4,1,1,Vegetarian,Snack,Mumbai,"Crispy flat puris topped with potatoes, vegetables, chutneys, and fine gram flour noodles (sev)."
+73,Vada Pav,Indian,"potatoes, gram flour, garlic, ginger, green chilies, bread roll",6,20,Easy,4.3,380,2,3,1,1,2,2,2,1,1,Vegetarian,Snack,Maharashtra,A spicy potato fritter (vada) served in a bread roll (pav).
+74,Misal Pav,Indian,"sprouts, onions, tomatoes, spices, farsan, bread roll",6,30,Medium,4.4,450,2,4,1,2,3,2,2,1,1,Vegetarian,Breakfast/Snack,Maharashtra,A spicy sprouted lentil curry topped with crispy farsan and served with bread.
+75,Dhokla Chaat,Indian,"dhokla, yogurt, tamarind chutney, mint chutney, sev",5,15,Easy,4.5,280,4,1,3,2,2,2,4,2,0,Vegetarian,Snack,Gujarat,"Steamed dhokla served with yogurt, chutneys, and crunchy toppings."
+76,Frankie,Indian,"flour, potatoes, onions, spices, chutney, cheese",6,20,Easy,4.4,480,1,2,1,1,2,3,2,2,1,Vegetarian,Snack,Mumbai,A street food roll filled with a spiced potato patty or other fillings.
+77,Dabeli,Indian,"potatoes, dabeli masala, onions, peanuts, pomegranate, bread roll",6,20,Medium,4.5,420,2,2,2,2,2,3,2,1,1,Vegetarian,Snack,Gujarat,A sweet and spicy potato filling stuffed in a bun with chutneys and toppings.
+78,Idli Sambar,Indian,"idli, sambar",2,120,Medium,4.7,250,2,2,1,2,2,3,3,1,0,Vegetarian,Breakfast,South India,Soft steamed rice cakes served with a tangy lentil and vegetable stew.
+79,Upma Pesarattu,Indian,"upma, pesarattu",2,15,Easy,4.3,280,2,1,0,1,2,2,3,1,0,Vegetarian,Breakfast,Andhra Pradesh,A savory lentil crepe filled with a semolina porridge.
+80,Poori Bhaji,Indian,"poori, potato bhaji",2,30,Easy,4.5,400,2,2,1,1,2,3,2,1,1,Vegetarian,Breakfast,North India,Deep-fried fluffy bread (poori) served with a spiced potato curry.
+81,Bonda,Indian,"potato, gram flour, spices, oil",4,20,Easy,4.2,200,4,2,1,1,2,2,2,1,1,Vegetarian,Snack,South India,A deep-fried snack with a spiced potato filling coated in a gram flour batter.
+82,Gobi 65,Indian,"cauliflower, yogurt, ginger, garlic, red chilies, curry leaves, spices",7,30,Medium,4.3,320,4,4,1,2,2,3,2,2,0,Vegetarian,Appetizer,South India,"Spicy, deep-fried cauliflower appetizer."
+83,Chicken Korma,Indian,"chicken, yogurt, cream, onions, ginger, garlic, almonds, spices",8,45,Medium,4.6,500,4,1,2,1,2,4,2,5,0,Non-Vegetarian,Dinner,North India,"A rich and mild chicken curry with a creamy, nutty gravy."
+84,Fish Fry,Indian,"fish, ginger, garlic, red chili powder, turmeric, lemon juice",6,20,Easy,4.5,280,2,3,1,2,2,3,2,1,1,Non-Vegetarian,Appetizer,Coastal India,"Marinated fish pieces, deep-fried until crispy."
+85,Lamb Seekh Kebab,Indian,"minced lamb, onions, ginger, garlic, mint, coriander, spices",7,30,Medium,4.7,320,4,3,0,1,2,4,2,1,4,Non-Vegetarian,Appetizer,North India,Grilled skewers of spiced minced lamb.
+86,Paneer Tikka,Indian,"paneer, yogurt, lemon juice, ginger, garlic, red chili powder, turmeric, spices",8,180,Medium,4.6,280,4,2,1,2,2,3,2,2,4,Vegetarian,Appetizer,North India,Marinated and grilled cubes of cottage cheese.
+87,Veg Biryani,Indian,"basmati rice, mixed vegetables, yogurt, onions, saffron, spices",9,90,Hard,4.5,450,4,2,1,1,2,4,2,2,4,Vegetarian,Lunch,Pan-Indian,Fragrant layered rice dish with mixed vegetables and aromatic spices.
+88,Lemon Rice,Indian,"rice, lemon juice, mustard seeds, curry leaves, turmeric, peanuts",6,20,Easy,4.2,250,4,1,0,3,2,2,3,1,0,Vegetarian,Lunch,South India,A tangy and flavorful rice dish with a lemon tempering.
+89,Tomato Rice,Indian,"rice, tomatoes, onions, ginger, garlic, red chili powder, spices",7,25,Easy,4.1,280,4,2,1,2,2,2,3,1,0,Vegetarian,Lunch,South India,A spiced rice dish with a tomato-based masala.
+90,Jeera Rice,Indian,"basmati rice, cumin seeds, ghee, salt",4,20,Easy,4.3,260,4,0,0,0,2,2,2,1,1,Vegetarian,Side Dish,North India,A simple and aromatic rice dish flavored with roasted cumin seeds.
+91,Palak Dal,Indian,"lentils, spinach, onions, tomatoes, garlic, ginger, spices",7,30,Easy,4.2,220,4,2,1,1,2,2,3,1,0,Vegetarian,Dinner,Pan-Indian,A nutritious curry made with lentils and spinach.
+92,Methi Paratha,Indian,"flour, fenugreek leaves, ginger, garlic, green chilies, spices",6,20,Easy,4.1,250,2,1,1,1,2,2,3,1,0,Vegetarian,Breakfast,North India,A flatbread made with fresh fenugreek leaves.
+93,Bajra Roti,Indian,"pearl millet flour, water",2,15,Easy,4,180,2,0,0,0,1,1,2,0,0,Vegetarian,Dinner,Rajasthan,A gluten-free flatbread made from pearl millet flour.
+94,Makki Roti,Indian,"maize flour, water, salt",3,15,Easy,4.1,190,2,0,0,0,1,1,2,0,0,Vegetarian,Dinner,Punjab,"A flatbread made from maize flour, often served with sarson ka saag."
+95,Sarson Ka Saag,Indian,"mustard greens, spinach, garlic, ginger, green chilies, spices",6,45,Medium,4.5,280,4,2,1,1,2,3,3,2,0,Vegetarian,Dinner,Punjab,A classic winter dish made from mustard greens and spices.
+96,Tandoori Roti,Indian,"whole wheat flour, water, salt, oil",4,10,Easy,4.3,150,2,0,0,0,1,1,2,1,3,Vegetarian,Side Dish,North India,A flatbread cooked in a tandoor (clay oven).
+97,Prawn Balchao,Indian,"prawns, onions, garlic, ginger, red chilies, vinegar, spices",7,30,Hard,4.6,350,4,4,1,4,2,3,2,2,1,Non-Vegetarian,Dinner,Goa,A spicy and tangy prawn pickle curry.
+98,Kashmiri Gushtaba,Indian,"minced mutton, yogurt, ginger, garlic, mint, spices",6,90,Hard,4.7,520,4,1,0,2,3,4,2,5,0,Non-Vegetarian,Dinner,Kashmir,"Meatballs in a rich, creamy yogurt gravy."
+99,Aloo Tikki,Indian,"potatoes, peas, spices, oil",4,30,Easy,4.5,250,4,2,1,1,2,2,2,1,1,Vegetarian,Snack,North India,"Spiced potato patties, often served with chutneys."
+100,Masala Papad,Indian,"papad, onions, tomatoes, coriander, lemon juice, chaat masala",6,10,Easy,4.2,80,2,2,1,2,2,2,4,0,0,Vegetarian,Appetizer,Pan-Indian,A crispy lentil wafer topped with a spicy and tangy vegetable mix.
+101,Dum Aloo,Indian,"baby potatoes, yogurt, onions, ginger, garlic, fennel powder, garam masala, red chili powder",8,45,Medium,4.4,320,4,3,1,1,2,3,2,3,2,Vegetarian,Dinner,Kashmir,Baby potatoes cooked in aromatic spiced yogurt gravy
+102,Chicken Changezi,Indian,"chicken, cream, tomatoes, cashews, ginger, garlic, fenugreek leaves, spices",8,60,Hard,4.6,480,4,2,2,1,2,4,2,5,3,Non-Vegetarian,Dinner,Mughlai,Rich Mughlai chicken curry with creamy tomato gravy
+103,Kosha Mangsho,Indian,"mutton, onions, ginger, garlic, bay leaves, cardamom, cinnamon, yogurt, mustard oil",9,120,Hard,4.7,550,4,3,1,1,2,5,2,2,3,Non-Vegetarian,Dinner,Bengal,Slow-cooked spicy Bengali mutton curry
+104,Laal Maas,Indian,"mutton, red chilies, garlic, curd, onions, ginger, mathania chili, spices",8,90,Hard,4.5,520,4,5,0,1,2,4,1,2,3,Non-Vegetarian,Dinner,Rajasthan,Fiery red mutton curry from Rajasthan
+105,Tunde Kabab,Indian,"minced meat, spices, papaya paste, rose water, kewra water, ghee",6,45,Hard,4.8,350,4,2,1,0,2,5,1,1,4,Non-Vegetarian,Appetizer,Lucknow,Melt-in-mouth minced meat kebabs from Lucknow
+106,Galawati Kabab,Indian,"minced lamb, papaya, spices, rose water, mint, onions",6,60,Hard,4.7,300,4,2,1,0,2,4,2,1,3,Non-Vegetarian,Appetizer,Lucknow,Tender minced lamb kebabs that melt in mouth
+107,Shami Kabab,Indian,"minced meat, chana dal, onions, ginger, garlic, mint, green chilies, spices",8,90,Medium,4.6,280,6,2,0,1,2,4,2,1,2,Non-Vegetarian,Appetizer,North India,Pan-fried patties of minced meat and lentils
+108,Kakori Kabab,Indian,"minced meat, onions, ginger, garlic, mint, coriander, spices",7,45,Hard,4.7,320,4,2,0,1,2,4,2,1,4,Non-Vegetarian,Appetizer,Lucknow,"Soft, cylindrical minced meat kebabs"
+109,Boti Kabab,Indian,"mutton pieces, yogurt, ginger, garlic, red chili powder, garam masala, lemon juice",7,180,Medium,4.5,380,4,3,1,2,2,4,1,1,4,Non-Vegetarian,Appetizer,North India,Marinated mutton pieces grilled on skewers
+110,Reshmi Kabab,Indian,"chicken, cream, cashews, cheese, ginger, garlic, green chilies, spices",8,120,Medium,4.6,340,4,1,1,1,2,3,2,4,3,Non-Vegetarian,Appetizer,Mughlai,Silky smooth chicken kebabs with creamy texture
+111,Hariyali Kabab,Indian,"chicken, mint, coriander, spinach, yogurt, ginger, garlic, green chilies",8,180,Medium,4.5,300,4,2,1,2,2,3,4,2,2,Non-Vegetarian,Appetizer,North India,Green herb-marinated chicken kebabs
+112,Malai Kabab,Indian,"chicken, cream, cheese, cashews, ginger, garlic, cardamom, white pepper",8,120,Medium,4.6,360,4,1,1,1,2,3,2,5,2,Non-Vegetarian,Appetizer,Mughlai,Creamy white chicken kebabs
+113,Ajwaini Fish Tikka,Indian,"fish, yogurt, carom seeds, ginger, garlic, lemon juice, red chili powder",7,60,Easy,4.4,250,4,2,1,2,2,3,2,1,3,Non-Vegetarian,Appetizer,North India,Fish tikka flavored with carom seeds
+114,Amritsari Fish,Indian,"fish, gram flour, rice flour, carom seeds, red chili powder, garam masala, lemon juice",7,30,Medium,4.5,280,4,3,1,2,2,3,2,1,2,Non-Vegetarian,Appetizer,Punjab,Crispy fried fish from Amritsar
+115,Koliwada Prawns,Indian,"prawns, gram flour, rice flour, ginger, garlic, red chilies, curry leaves",7,20,Medium,4.4,320,4,3,1,1,2,4,2,1,1,Non-Vegetarian,Appetizer,Maharashtra,Spicy batter-fried prawns
+116,Apollo Fish,Indian,"fish, yogurt, ginger, garlic, curry leaves, red chilies, corn flour, spices",8,25,Medium,4.3,300,4,4,1,1,2,3,2,1,1,Non-Vegetarian,Appetizer,Andhra Pradesh,Spicy South Indian fried fish
+117,Chilli Fish,Indian,"fish, bell peppers, onions, soy sauce, chili sauce, ginger, garlic, corn flour",8,20,Medium,4.2,280,4,3,2,2,3,2,3,1,1,Non-Vegetarian,Appetizer,Indian-Chinese,Indo-Chinese style spicy fish
+118,Fish Koliwada,Indian,"fish, semolina, rice flour, red chili powder, turmeric, ginger, garlic, curry leaves",8,25,Medium,4.4,290,4,3,1,1,2,3,2,1,1,Non-Vegetarian,Appetizer,Mumbai,Mumbai-style crispy fried fish
+119,Pepper Chicken,Indian,"chicken, black pepper, onions, ginger, garlic, soy sauce, corn flour, curry leaves",8,20,Medium,4.3,350,4,4,1,1,3,3,2,1,1,Non-Vegetarian,Appetizer,South India,Spicy black pepper chicken
+120,Chilli Chicken,Indian,"chicken, bell peppers, onions, soy sauce, chili sauce, ginger, garlic, corn flour",8,25,Medium,4.4,380,4,3,2,2,3,3,3,1,1,Non-Vegetarian,Appetizer,Indian-Chinese,Popular Indo-Chinese chicken dish
+121,Dragon Chicken,Indian,"chicken, bell peppers, onions, schezwan sauce, soy sauce, ginger, garlic, corn flour",8,30,Medium,4.3,400,4,4,2,2,3,3,2,1,1,Non-Vegetarian,Appetizer,Indian-Chinese,Fiery Indo-Chinese chicken preparation
+122,Schezwan Chicken,Indian,"chicken, schezwan peppers, bell peppers, onions, soy sauce, ginger, garlic, corn flour",8,25,Medium,4.2,390,4,5,1,2,3,3,2,1,1,Non-Vegetarian,Appetizer,Indian-Chinese,Spicy Schezwan-style chicken
+123,Chicken Lollipop,Indian,"chicken wings, ginger, garlic, soy sauce, corn flour, red chili sauce, egg",7,30,Medium,4.5,320,4,3,1,1,2,3,2,1,1,Non-Vegetarian,Appetizer,Indian-Chinese,Chicken wings shaped like lollipops
+124,Honey Chilli Chicken,Indian,"chicken, honey, red chilies, bell peppers, onions, soy sauce, ginger, garlic",8,25,Medium,4.4,410,4,3,4,1,2,3,2,1,1,Non-Vegetarian,Appetizer,Indian-Chinese,Sweet and spicy chicken with honey
+125,Chicken Wings,Indian,"chicken wings, yogurt, ginger, garlic, red chili powder, garam masala, lemon juice",7,45,Easy,4.3,280,4,3,1,2,2,3,2,1,3,Non-Vegetarian,Appetizer,North India,Marinated and grilled chicken wings
+126,Murgh Malai Tikka,Indian,"chicken, cream, cheese, cashews, ginger, garlic, cardamom, white pepper, yogurt",9,120,Medium,4.6,380,4,1,1,1,2,3,2,5,3,Non-Vegetarian,Appetizer,Mughlai,Creamy chicken tikka with rich flavor
+127,Achari Chicken Tikka,Indian,"chicken, yogurt, pickle masala, mustard seeds, fennel seeds, nigella seeds, ginger, garlic",8,180,Medium,4.5,320,4,3,1,3,2,3,2,2,3,Non-Vegetarian,Appetizer,North India,Chicken tikka with pickle spices
+128,Pudina Chicken Tikka,Indian,"chicken, mint, yogurt, ginger, garlic, green chilies, coriander, lemon juice",8,120,Medium,4.4,300,4,2,1,2,2,3,4,2,3,Non-Vegetarian,Appetizer,North India,Mint-flavored chicken tikka
+129,Lasooni Chicken Tikka,Indian,"chicken, garlic, yogurt, cream, ginger, red chili powder, garam masala, lemon juice",8,120,Medium,4.5,340,4,2,1,2,2,3,2,3,3,Non-Vegetarian,Appetizer,North India,Garlic-flavored chicken tikka
+130,Bharwan Chicken,Indian,"whole chicken, minced meat, onions, ginger, garlic, nuts, raisins, spices",9,180,Hard,4.7,600,6,2,2,1,2,4,2,3,3,Non-Vegetarian,Dinner,Mughlai,Whole chicken stuffed with spiced minced meat
+131,Chicken Cafreal,Indian,"chicken, coriander, mint, green chilies, ginger, garlic, lime juice, coconut",8,60,Medium,4.5,320,4,2,1,3,2,3,4,1,2,Non-Vegetarian,Dinner,Goa,Goan green masala chicken
+132,Xacuti,Indian,"chicken, coconut, red chilies, coriander seeds, cumin, cloves, cinnamon, tamarind",8,45,Hard,4.6,380,4,4,1,2,2,4,2,3,2,Non-Vegetarian,Dinner,Goa,Goan chicken curry with roasted spices
+133,Sorpotel,Indian,"pork, pork organs, vinegar, red chilies, ginger, garlic, onions, jaggery",8,120,Hard,4.4,450,4,4,2,4,2,4,1,2,2,Non-Vegetarian,Dinner,Goa,Spicy Goan pork curry
+134,Sarapatel,Indian,"pork, pork liver, blood, vinegar, red chilies, ginger, garlic, onions",8,90,Hard,4.3,420,4,4,1,4,2,5,1,2,1,Non-Vegetarian,Dinner,Goa,Traditional Goan pork and organ curry
+135,Ros Omelette,Indian,"eggs, onions, tomatoes, green chilies, coriander, spices, coconut milk",7,15,Easy,4.2,280,2,2,1,1,2,3,3,2,1,Non-Vegetarian,Breakfast,Goa,Goan spicy omelette with curry
+136,Chicken Balchao,Indian,"chicken, onions, ginger, garlic, red chilies, vinegar, jaggery, spices",8,45,Hard,4.5,380,4,4,2,4,2,3,2,2,2,Non-Vegetarian,Dinner,Goa,Spicy and tangy Goan chicken pickle
+137,Fish Recheado,Indian,"whole fish, red chilies, ginger, garlic, vinegar, turmeric, cumin, tamarind",8,45,Medium,4.6,350,4,3,1,3,2,3,2,2,3,Non-Vegetarian,Dinner,Goa,Stuffed fish with spicy red masala
+138,Bebinca,Indian,"coconut milk, egg yolks, sugar, flour, ghee, nutmeg, cardamom",7,180,Hard,4.6,420,6,0,4,0,1,2,1,4,0,Vegetarian,Dessert,Goa,Traditional Goan layered dessert
+139,Fish Ambot Tik,Indian,"fish, kokum, onions, ginger, garlic, red chilies, turmeric, tamarind",8,30,Medium,4.4,280,4,3,1,4,2,3,3,2,1,Non-Vegetarian,Dinner,Goa,Sweet and sour Goan fish curry
+140,Prawn Rissois,Indian,"prawns, potatoes, onions, ginger, garlic, breadcrumbs, flour, eggs",8,45,Medium,4.3,320,4,2,1,1,2,3,2,2,1,Non-Vegetarian,Appetizer,Goa,Goan prawn cutlets
+141,Chicken Sukka,Indian,"chicken, coconut, red chilies, coriander seeds, ginger, garlic, curry leaves, onions",8,30,Medium,4.5,350,4,3,1,1,2,3,3,2,2,Non-Vegetarian,Dinner,Mangalore,Dry roasted chicken with coconut and spices
+142,Ghee Roast Chicken,Indian,"chicken, ghee, red chilies, garlic, ginger, curry leaves, tamarind",7,25,Medium,4.6,380,4,3,1,2,2,3,2,3,3,Non-Vegetarian,Dinner,Mangalore,Chicken roasted in ghee with spices
+143,Neer Dosa,Indian,"rice, water, salt",3,30,Easy,4.3,120,4,0,0,0,1,1,3,0,0,Vegetarian,Breakfast,Karnataka,"Thin, soft rice crepes"
+144,Rava Dosa,Indian,"rice, semolina, all-purpose flour, ginger, green chilies, coriander, cumin seeds",7,30,Medium,4.4,200,2,1,0,1,1,2,3,1,1,Vegetarian,Breakfast,South India,Crispy semolina crepe
+145,Set Dosa,Indian,"rice, black gram, fenugreek seeds",3,120,Medium,4.5,180,4,0,0,0,1,2,3,1,0,Vegetarian,Breakfast,Karnataka,"Thick, soft mini dosas served in sets"
+146,Adai Dosa,Indian,"rice, toor dal, chana dal, moong dal, urad dal, red chilies, ginger",7,120,Medium,4.3,220,2,2,0,1,2,3,3,1,0,Vegetarian,Breakfast,Tamil Nadu,Mixed lentil and rice crepe
+147,Onion Rava Dosa,Indian,"rice, semolina, onions, ginger, green chilies, coriander, curry leaves, cumin seeds",8,30,Medium,4.4,230,2,1,1,1,2,2,3,1,1,Vegetarian,Breakfast,South India,Crispy semolina crepe with onions
+148,Mysore Masala Dosa,Indian,"rice, black gram, potatoes, red chutney, onions, mustard seeds, curry leaves",7,120,Hard,4.6,280,2,3,1,2,2,2,3,1,2,Vegetarian,Breakfast,Karnataka,Spicy dosa with red chutney and potato filling
+149,Cheese Dosa,Indian,"rice, black gram, cheese, onions, tomatoes, green chilies, coriander",7,120,Medium,4.3,320,2,1,1,1,2,2,3,3,1,Vegetarian,Breakfast,South India,Dosa filled with cheese and vegetables
+150,Paper Dosa,Indian,"rice, black gram, fenugreek seeds",3,120,Hard,4.7,200,1,0,0,0,1,2,3,1,0,Vegetarian,Breakfast,South India,"Ultra-thin, large crispy dosa"
+151,Uttapam Varieties,Indian,"rice, black gram, onions, tomatoes, green chilies, coriander, carrots",7,120,Medium,4.4,260,2,1,1,1,2,2,3,1,0,Vegetarian,Breakfast,South India,Thick pancakes with various vegetable toppings
+152,Pesarattu Upma,Indian,"green gram, upma, ginger, green chilies, cumin, onions",6,120,Medium,4.3,250,2,1,0,0,2,2,3,1,0,Vegetarian,Breakfast,Andhra Pradesh,Green gram crepe filled with upma
+153,Appam,Indian,"rice, coconut, yeast, sugar, salt",5,240,Medium,4.5,150,4,0,1,0,1,2,2,2,0,Vegetarian,Breakfast,Kerala,Bowl-shaped fermented rice pancakes
+154,Puttu,Indian,"rice flour, coconut, salt, water",4,20,Easy,4.4,180,4,0,0,0,1,1,2,2,0,Vegetarian,Breakfast,Kerala,Steamed rice flour and coconut cylinders
+155,Kozhukkatta,Indian,"rice flour, coconut, jaggery, cardamom, salt",5,45,Medium,4.3,220,4,0,3,0,1,2,2,3,0,Vegetarian,Snack,Kerala,Sweet rice flour dumplings with coconut filling
+156,Pathiri,Indian,"rice flour, water, salt, coconut oil",4,30,Easy,4.2,160,4,0,0,0,1,1,2,1,0,Vegetarian,Dinner,Kerala,Thin rice flour flatbread
+157,Ela Ada,Indian,"rice flour, coconut, jaggery, cardamom, banana leaves",5,45,Medium,4.4,240,4,0,4,0,1,2,2,3,0,Vegetarian,Snack,Kerala,Sweet rice parcels wrapped in banana leaves
+158,Unniyappam,Indian,"rice flour, jaggery, coconut, cardamom, sesame oil, banana",6,30,Medium,4.5,200,6,0,4,0,1,2,2,2,0,Vegetarian,Snack,Kerala,Sweet deep-fried rice balls
+159,Aviyal,Indian,"mixed vegetables, coconut, green chilies, ginger, curry leaves, coconut oil, yogurt",7,30,Easy,4.3,180,4,1,1,1,2,2,4,2,1,Vegetarian,Lunch,Kerala,Mixed vegetable curry with coconut
+160,Thoran,Indian,"cabbage, coconut, green chilies, ginger, curry leaves, mustard seeds",6,15,Easy,4.2,120,4,1,0,0,1,2,4,1,0,Vegetarian,Side Dish,Kerala,Stir-fried vegetables with coconut
+161,Kalan,Indian,"raw banana, yam, coconut, yogurt, green chilies, curry leaves",6,25,Easy,4.3,160,4,1,1,1,2,2,3,2,0,Vegetarian,Side Dish,Kerala,Yogurt-based curry with vegetables and coconut
+162,Olan,Indian,"ash gourd, black-eyed peas, coconut milk, green chilies, curry leaves",5,20,Easy,4.2,140,4,1,0,0,1,2,3,3,0,Vegetarian,Side Dish,Kerala,Mild curry with coconut milk
+163,Erissery,Indian,"pumpkin, cowpeas, coconut, green chilies, ginger, curry leaves",6,25,Easy,4.3,160,4,1,1,0,1,2,3,2,0,Vegetarian,Side Dish,Kerala,Sweet pumpkin and bean curry
+164,Pachadi,Indian,"pineapple, yogurt, coconut, green chilies, ginger, mustard seeds, curry leaves",7,15,Easy,4.4,120,4,1,3,2,2,2,4,2,0,Vegetarian,Side Dish,Kerala,Sweet and sour yogurt curry
+165,Pulissery,Indian,"yogurt, coconut, ginger, green chilies, turmeric, curry leaves",6,15,Easy,4.2,100,4,1,1,2,1,2,3,3,0,Vegetarian,Soup,Kerala,Tangy coconut and yogurt curry
+166,Moru Curry,Indian,"yogurt, coconut, ginger, green chilies, curry leaves, shallots",6,15,Easy,4.3,90,4,1,1,1,1,2,3,3,0,Vegetarian,Side Dish,Kerala,Spiced buttermilk curry
+167,Fish Molee,Indian,"fish, coconut milk, onions, ginger, garlic, green chilies, curry leaves, turmeric",8,25,Easy,4.5,280,4,2,1,1,2,3,3,4,1,Non-Vegetarian,Lunch,Kerala,Mild fish curry in coconut milk
+168,Karimeen Fry,Indian,"pearl spot fish, red chili powder, turmeric, ginger, garlic, curry leaves, coconut oil",7,20,Easy,4.6,300,4,3,0,1,2,3,2,2,3,Non-Vegetarian,Lunch,Kerala,Spicy fried pearl spot fish
+169,Meen Pollichathu,Indian,"fish, banana leaves, onions, tomatoes, ginger, garlic, red chilies, coconut oil",8,30,Medium,4.5,320,4,2,1,2,2,3,3,2,3,Non-Vegetarian,Dinner,Kerala,Fish wrapped and cooked in banana leaves
+170,Beef Ularthiyathu,Indian,"beef, coconut, shallots, ginger, garlic, red chilies, curry leaves, coconut oil",8,90,Hard,4.4,450,4,3,0,1,2,4,2,2,2,Non-Vegetarian,Dinner,Kerala,Dry roasted beef with coconut
+171,Beef Curry,Indian,"beef, coconut milk, onions, ginger, garlic, red chilies, curry leaves, spices",8,60,Medium,4.3,400,4,3,1,1,2,4,3,3,1,Non-Vegetarian,Lunch,Kerala,Traditional Kerala beef curry
+172,Duck Roast,Indian,"duck, coconut, shallots, ginger, garlic, red chilies, curry leaves, spices",8,120,Hard,4.6,480,4,2,0,1,2,4,2,3,3,Non-Vegetarian,Dinner,Kerala,Spicy roasted duck
+173,Thalassery Biryani,Indian,"rice, mutton, yogurt, onions, mint, saffron, ghee, spices, plums, ginger, garlic",9,120,Hard,4.8,650,6,2,2,1,4,4,2,3,4,Non-Vegetarian,Lunch,Kerala,Aromatic biryani with short-grain rice
+174,Malabar Fish Curry,Indian,"fish, coconut milk, kokum, shallots, ginger, garlic, red chilies, curry leaves",8,25,Medium,4.5,300,4,3,1,3,2,3,3,4,1,Non-Vegetarian,Lunch,Kerala,Tangy fish curry with kokum
+175,Prawn Curry Kerala,Indian,"prawns, coconut milk, onions, ginger, garlic, red chilies, curry leaves, kokum",8,20,Medium,4.6,280,4,3,1,3,2,4,3,4,1,Non-Vegetarian,Lunch,Kerala,Coconut-based prawn curry
+176,Chemeen Roast,Indian,"prawns, coconut, red chilies, shallots, ginger, garlic, curry leaves, coconut oil",8,15,Medium,4.5,250,4,3,0,1,2,4,3,2,2,Non-Vegetarian,Dinner,Kerala,Dry roasted prawns with coconut
+177,Squid Roast,Indian,"squid, coconut, red chilies, shallots, ginger, garlic, curry leaves, coconut oil",8,20,Medium,4.4,220,4,2,0,1,2,3,2,2,2,Non-Vegetarian,Dinner,Kerala,Spicy roasted squid
+178,Mutton Stew,Indian,"mutton, coconut milk, potatoes, onions, ginger, garlic, green chilies, curry leaves",8,60,Medium,4.4,420,4,1,1,1,2,4,3,4,1,Non-Vegetarian,Lunch,Kerala,Mild mutton curry in coconut milk
+179,Chicken Stew,Indian,"chicken, coconut milk, potatoes, onions, ginger, garlic, green chilies, curry leaves",8,45,Medium,4.5,380,4,1,1,1,2,3,3,4,1,Non-Vegetarian,Lunch,Kerala,Mild chicken curry in coconut milk
+180,Vegetable Stew,Indian,"mixed vegetables, coconut milk, onions, ginger, garlic, green chilies, curry leaves",7,25,Easy,4.3,200,4,1,1,1,2,2,4,4,1,Vegetarian,Lunch,Kerala,Mixed vegetable curry in coconut milk
+181,Banana Chips,Indian,"raw bananas, turmeric, salt, coconut oil",4,30,Easy,4.4,250,4,0,0,0,3,1,2,2,0,Vegetarian,Snack,Kerala,Crispy fried banana slices
+182,Jackfruit Chips,Indian,"raw jackfruit, salt, turmeric, coconut oil",4,30,Easy,4.2,220,4,0,1,0,2,1,2,2,0,Vegetarian,Snack,Kerala,Crispy fried jackfruit slices
+183,Tapioca Chips,Indian,"tapioca, salt, turmeric, red chili powder, coconut oil",5,25,Easy,4.1,200,4,1,0,0,2,1,2,2,0,Vegetarian,Snack,Kerala,Crispy fried tapioca slices
+184,Pazham Pori,Indian,"ripe bananas, all-purpose flour, sugar, turmeric, salt, oil",6,15,Easy,4.5,180,4,0,3,0,1,1,2,1,0,Vegetarian,Snack,Kerala,Sweet banana fritters
+185,Unnakaya,Indian,"ripe bananas, coconut, cashews, raisins, cardamom, ghee",6,30,Medium,4.6,220,4,0,4,0,1,2,2,3,0,Vegetarian,Dessert,Kerala,Stuffed banana rolls
+186,Palada Payasam,Indian,"rice flakes, milk, sugar, cashews, raisins, cardamom, ghee",7,45,Medium,4.7,320,4,0,4,0,1,2,1,5,0,Vegetarian,Dessert,Kerala,Creamy rice flake pudding
+187,Ada Pradhaman,Indian,"ada, jaggery, coconut milk, cardamom, cashews, raisins, ghee",7,60,Medium,4.6,380,4,0,4,0,1,2,2,5,0,Vegetarian,Dessert,Kerala,Traditional ada and jaggery pudding
+188,Semiya Payasam,Indian,"vermicelli, milk, sugar, cashews, raisins, cardamom, ghee",7,30,Easy,4.4,300,4,0,4,0,1,2,2,5,0,Vegetarian,Dessert,Kerala,Vermicelli pudding
+189,Carrot Payasam,Indian,"carrots, milk, sugar, cashews, cardamom, ghee",6,45,Medium,4.3,280,4,0,4,0,1,2,2,4,0,Vegetarian,Dessert,Kerala,Sweet carrot pudding
+190,Gothambu Payasam,Indian,"broken wheat, milk, jaggery, coconut milk, cardamom, cashews",6,45,Medium,4.2,350,4,0,3,0,1,2,2,4,0,Vegetarian,Dessert,Kerala,Broken wheat pudding
+191,Fish Biriyani,Indian,"fish, basmati rice, yogurt, onions, mint, saffron, spices, ghee",8,90,Hard,4.7,580,4,2,1,1,2,3,2,3,4,Non-Vegetarian,Lunch,Hyderabad,Aromatic fish biryani
+192,Mutton Biryani,Indian,"mutton, basmati rice, yogurt, onions, mint, saffron, spices, ghee, ginger, garlic",8,120,Hard,4.8,680,6,3,1,1,4,4,2,3,4,Non-Vegetarian,Lunch,Hyderabad,Rich mutton biryani
+193,Egg Biryani,Indian,"eggs, basmati rice, yogurt, onions, mint, saffron, spices, ghee",8,60,Medium,4.4,520,4,2,1,1,2,3,2,2,4,Non-Vegetarian,Lunch,Hyderabad,Aromatic egg biryani
+194,Prawn Biryani,Indian,"prawns, basmati rice, yogurt, onions, mint, saffron, spices, ghee",8,75,Medium,4.6,580,4,2,1,1,2,4,2,3,4,Non-Vegetarian,Lunch,Coastal India,Aromatic prawn biryani
+195,Keema Biryani,Indian,"minced meat, basmati rice, yogurt, onions, mint, saffron, spices, ghee",8,90,Hard,4.5,620,6,3,1,1,2,4,2,3,4,Non-Vegetarian,Lunch,North India,Spiced minced meat biryani
+196,Lucknowi Biryani,Indian,"mutton, basmati rice, yogurt, onions, saffron, kewra, rose water, spices",8,150,Hard,4.9,700,6,2,1,1,2,4,2,4,4,Non-Vegetarian,Lunch,Lucknow,Royal Awadhi-style biryani
+197,Kolkata Biryani,Indian,"mutton, basmati rice, yogurt, potatoes, onions, saffron, rose water, plums",9,120,Hard,4.7,680,6,2,2,1,2,4,2,3,4,Non-Vegetarian,Lunch,Bengal,Bengali-style biryani with potatoes
+198,Sindhi Biryani,Indian,"mutton, basmati rice, potatoes, plums, yogurt, onions, mint, saffron, spices, green chili",9,90,Hard,4.6,650,6,3,2,2,4,4,2,3,4,Non-Vegetarian,Lunch,Sindhi,Tangy Sindhi-style biryani
+199,Tahiri,Indian,"basmati rice, mixed vegetables, yogurt, onions, mint, saffron, spices, ghee",8,60,Medium,4.3,450,4,2,1,1,2,2,3,2,4,Vegetarian,Lunch,North India,Vegetable biryani
+200,Ambur Biryani,Indian,"mutton, seeraga samba rice, yogurt, mint, coriander, spices",7,90,Hard,4.6,620,4,3,1,1,2,4,2,2,4,Non-Vegetarian,Lunch,Tamil Nadu,Tamil Nadu style biryani with seeraga samba rice
+201,Dindigul Biryani,Indian,"mutton, jeera samba rice, yogurt, mint, coriander, spices, curd",7,90,Hard,4.5,600,4,3,1,2,2,4,2,3,4,Non-Vegetarian,Lunch,Tamil Nadu,Spicy biryani from Dindigul
+202,Bhatkali Biryani,Indian,"mutton, rice, onions, yogurt, mint, spices, coconut",7,90,Hard,4.4,580,4,2,1,1,2,4,2,3,4,Non-Vegetarian,Lunch,Karnataka,Coastal Karnataka biryani
+203,Memoni Biryani,Indian,"mutton, rice, potatoes, yogurt, plums, onions, spices",8,90,Hard,4.5,640,6,2,2,2,2,4,2,3,4,Non-Vegetarian,Lunch,Gujarat,Memoni community biryani
+204,Bohri Biryani,Indian,"mutton, rice, yogurt, onions, mint, spices, kewra water",7,90,Hard,4.6,610,4,2,1,1,2,4,2,3,4,Non-Vegetarian,Lunch,Mumbai,Bohri community biryani
+205,Malabar Dum Biryani,Indian,"mutton, kaima rice, coconut, onions, yogurt, spices",7,120,Hard,4.7,630,4,2,1,1,2,4,2,4,4,Non-Vegetarian,Lunch,Kerala,Kerala-style dum biryani
+206,Kacchi Biryani,Indian,"mutton, basmati rice, yogurt, onions, saffron, mint, spices, ginger, garlic, green chili",7,120,Hard,4.8,660,6,2,1,1,5,4,2,3,4,Non-Vegetarian,Lunch,Bengal,Raw meat biryani cooked together
+207,Tehari,Indian,"mutton, rice, potatoes, onions, yogurt, spices",6,75,Medium,4.4,580,4,2,1,1,2,4,2,2,4,Non-Vegetarian,Lunch,Bangladesh,Simple biryani with potatoes
+208,Yakhni Pulao,Indian,"mutton, basmati rice, yogurt, onions, whole spices, saffron",7,90,Hard,4.5,550,4,1,0,1,2,4,2,3,4,Non-Vegetarian,Lunch,Kashmir,Aromatic rice with mutton stock
+209,Chicken Pulao,Indian,"chicken, basmati rice, onions, ginger, garlic, whole spices, ghee",7,45,Medium,4.4,480,4,1,0,1,2,3,2,2,4,Non-Vegetarian,Lunch,Pan-Indian,Simple chicken and rice dish
+210,Mutton Pulao,Indian,"mutton, basmati rice, onions, ginger, garlic, whole spices, ghee",7,60,Medium,4.5,520,4,1,0,1,2,4,2,2,4,Non-Vegetarian,Lunch,Pan-Indian,Fragrant mutton and rice
+211,Soya Pulao,Indian,"soya chunks, basmati rice, onions, ginger, garlic, spices, ghee",7,30,Easy,4.2,380,4,1,0,1,2,3,2,2,4,Vegetarian,Lunch,North India,Protein-rich soya and rice
+212,Paneer Pulao,Indian,"paneer, basmati rice, onions, ginger, garlic, spices, ghee",7,30,Easy,4.3,420,4,1,0,1,2,3,2,3,4,Vegetarian,Lunch,North India,Cottage cheese and rice
+213,Peas Pulao,Indian,"green peas, basmati rice, onions, ginger, cumin, ghee, whole spices",7,25,Easy,4.3,360,4,0,1,0,2,2,3,2,4,Vegetarian,Lunch,North India,Simple peas and rice
+214,Coconut Rice,Indian,"rice, coconut, mustard seeds, curry leaves, ginger, green chilies, ghee",7,20,Easy,4.4,320,4,0,1,0,2,2,3,3,4,Vegetarian,Lunch,South India,Rice with fresh coconut
+215,Tamarind Rice,Indian,"rice, tamarind, mustard seeds, curry leaves, red chilies, peanuts, turmeric",7,20,Easy,4.3,300,4,1,1,4,2,2,3,1,0,Vegetarian,Lunch,South India,Tangy tamarind-flavored rice
+216,Bisi Bele Bath,Indian,"rice, toor dal, vegetables, tamarind, sambar powder, ghee, cashews",7,45,Medium,4.6,380,4,2,1,3,2,3,3,2,4,Vegetarian,Lunch,Karnataka,"Rice, lentil and vegetable one-pot meal"
+217,Vangi Bath,Indian,"rice, eggplant, onions, tamarind, sambar powder, peanuts, curry leaves",7,30,Medium,4.4,350,4,2,1,2,2,2,3,1,4,Vegetarian,Lunch,Karnataka,Spiced eggplant rice
+218,Chitranna,Indian,"rice, lemon juice, turmeric, mustard seeds, curry leaves, peanuts, green chilies",7,15,Easy,4.3,280,4,1,0,3,2,2,3,1,0,Vegetarian,Lunch,Karnataka,Lemon rice from Karnataka
+219,Bagala Bath,Indian,"rice, yogurt, mustard seeds, curry leaves, ginger, green chilies",6,10,Easy,4.2,250,4,0,1,1,2,2,4,3,0,Vegetarian,Lunch,Karnataka,Curd rice from Karnataka
+220,Khara Bath,Indian,"semolina, vegetables, mustard seeds, curry leaves, ginger, green chilies, ghee",7,15,Easy,4.1,220,4,1,0,1,2,2,3,1,4,Vegetarian,Breakfast,Karnataka,Spiced semolina upma
+221,Rava Kesari,Indian,"semolina, sugar, ghee, milk, saffron, cardamom, cashews, raisins",8,20,Easy,4.5,320,4,0,4,0,1,2,1,3,4,Vegetarian,Dessert,Karnataka,Sweet semolina pudding
+222,Obbattu,Indian,"flour, chana dal, jaggery, cardamom, ghee, turmeric",6,60,Medium,4.6,380,4,0,4,0,1,2,1,3,0,Vegetarian,Dessert,Karnataka,Sweet stuffed flatbread
+223,Chiroti,Indian,"all-purpose flour, ghee, sugar, cardamom powder",4,45,Medium,4.4,350,6,0,4,0,0,1,1,2,0,Vegetarian,Dessert,Karnataka,Layered sweet pastry
+224,Shavige Bath,Indian,"vermicelli, vegetables, mustard seeds, curry leaves, ginger, green chilies, ghee",7,15,Easy,4.2,240,4,1,0,1,2,2,3,1,4,Vegetarian,Breakfast,Karnataka,Spiced vermicelli upma
+225,Ragi Mudde,Indian,"finger millet flour, water, salt",3,20,Easy,4.1,180,4,0,0,0,1,2,2,0,0,Vegetarian,Lunch,Karnataka,Finger millet balls
+226,Ragi Rotti,Indian,"finger millet flour, onions, green chilies, coriander, water",5,15,Easy,4.2,150,2,1,0,0,2,2,3,0,0,Vegetarian,Breakfast,Karnataka,Finger millet flatbread
+227,Akki Rotti,Indian,"rice flour, onions, green chilies, coriander, coconut, curry leaves",6,15,Easy,4.3,180,2,1,0,0,2,2,3,1,0,Vegetarian,Breakfast,Karnataka,Rice flour flatbread
+228,Jolada Rotti,Indian,"jowar flour, water, salt, oil",4,15,Easy,4,160,2,0,0,0,1,1,2,0,0,Vegetarian,Dinner,Karnataka,Sorghum flatbread
+229,Mandakki Usli,Indian,"puffed rice, onions, green chilies, coriander, lemon juice, peanuts",6,10,Easy,4.1,180,4,1,0,2,2,2,4,1,0,Vegetarian,Snack,Karnataka,Spiced puffed rice
+230,Gojju,Indian,"mixed vegetables, tamarind, jaggery, red chilies, mustard seeds, curry leaves",6,25,Easy,4.2,160,4,2,2,3,2,2,3,1,0,Vegetarian,Side Dish,Karnataka,Sweet and sour vegetable curry
+231,Majjige Huli,Indian,"buttermilk, vegetables, ginger, green chilies, curry leaves, coconut",6,20,Easy,4.3,120,4,1,0,2,2,2,4,2,0,Vegetarian,Soup,Karnataka,Buttermilk curry
+232,Kosambari,Indian,"moong dal, cucumber, coconut, green chilies, ginger, coriander, lemon juice",7,15,Easy,4.4,140,4,1,0,2,2,2,4,1,0,Vegetarian,Salad,Karnataka,Lentil and cucumber salad
+233,Hesaru Bele Usli,Indian,"green gram, mustard seeds, curry leaves, green chilies, coconut, salt",6,30,Easy,4.2,160,4,0,0,0,2,2,3,1,0,Vegetarian,Side Dish,Karnataka,Seasoned split green gram
+234,Tovve,Indian,"toor dal, vegetables, turmeric, ghee, curry leaves, green chilies",6,25,Easy,4.1,180,4,0,0,0,2,2,3,2,0,Vegetarian,Soup,Karnataka,Simple lentil soup
+235,Menaskai,Indian,"mixed vegetables, coconut, red chilies, tamarind, jaggery, curry leaves",6,25,Medium,4.3,200,4,2,1,3,2,2,3,2,0,Vegetarian,Side Dish,Karnataka,Spicy coconut-based vegetable curry
+236,Upkari,Indian,"vegetables, coconut, mustard seeds, curry leaves, green chilies, turmeric",6,15,Easy,4.2,140,4,1,0,0,2,2,3,1,0,Vegetarian,Side Dish,Karnataka,Simple stir-fried vegetables with coconut
+237,Gassi,Indian,"vegetables, coconut milk, red chilies, tamarind, curry leaves, spices",6,25,Medium,4.4,180,4,2,0,2,2,2,3,4,0,Vegetarian,Curry,Karnataka,Coconut milk-based curry
+238,Sambar Varieties,Indian,"toor dal, vegetables, tamarind, sambar powder, mustard seeds, curry leaves",6,45,Medium,4.5,200,4,2,1,3,2,3,3,1,0,Vegetarian,Soup,South India,Various regional sambar preparations
+239,Rasam Varieties,Indian,"tomatoes, tamarind, black pepper, cumin, curry leaves, ghee, spices",7,30,Easy,4.4,100,4,2,1,3,2,3,4,1,0,Vegetarian,Soup,South India,Different types of rasam
+240,Mor Kuzhambu,Indian,"yogurt, vegetables, green chilies, ginger, curry leaves, coconut",6,20,Easy,4.2,120,4,1,0,2,2,2,4,3,0,Vegetarian,Curry,Tamil Nadu,Yogurt-based vegetable curry
+241,Kuzhambu Varieties,Indian,"vegetables, tamarind, sambar powder, coconut, curry leaves, spices",6,30,Medium,4.3,160,4,2,1,3,2,2,3,2,0,Vegetarian,Curry,Tamil Nadu,Various tamarind-based curries
+242,Kootu,Indian,"vegetables, lentils, coconut, green chilies, cumin, curry leaves",6,25,Easy,4.3,180,4,1,0,1,2,2,3,2,0,Vegetarian,Side Dish,Tamil Nadu,Mixed vegetable and lentil curry
+243,Poriyal,Indian,"vegetables, coconut, mustard seeds, curry leaves, green chilies, turmeric",6,15,Easy,4.2,120,4,1,0,0,2,2,3,1,0,Vegetarian,Side Dish,Tamil Nadu,Dry vegetable stir-fry
+244,Vathal Kuzhambu,Indian,"sun-dried vegetables, tamarind, sambar powder, sesame oil, curry leaves",5,20,Easy,4.1,140,4,2,1,3,2,2,2,1,0,Vegetarian,Curry,Tamil Nadu,Curry with sun-dried vegetables
+245,Milagu Rasam,Indian,"black pepper, cumin, tomatoes, tamarind, curry leaves, ghee",6,20,Easy,4.4,80,4,3,1,3,2,3,4,1,0,Vegetarian,Soup,Tamil Nadu,Black pepper rasam
+246,Jeera Rasam,Indian,"cumin, black pepper, tomatoes, tamarind, curry leaves, ghee",6,20,Easy,4.3,85,4,2,1,3,2,3,4,1,0,Vegetarian,Soup,Tamil Nadu,Cumin-flavored rasam
+247,Lemon Rasam,Indian,"lemon juice, black pepper, cumin, curry leaves, green chilies, ghee",6,15,Easy,4.5,70,4,1,1,4,2,3,4,1,0,Vegetarian,Soup,Tamil Nadu,Tangy lemon rasam
+248,Garlic Rasam,Indian,"garlic, tomatoes, tamarind, black pepper, cumin, curry leaves, ghee",7,20,Easy,4.4,90,4,2,1,3,2,3,4,1,0,Vegetarian,Soup,Tamil Nadu,Garlic-flavored rasam
+249,Pineapple Rasam,Indian,"pineapple, tamarind, jaggery, black pepper, cumin, curry leaves",6,20,Easy,4.3,100,4,1,3,3,2,3,4,1,0,Vegetarian,Soup,Tamil Nadu,Sweet and sour pineapple rasam
+250,Vathakozhambu,Indian,"tamarind, jaggery, sambar powder, sesame oil, mustard seeds, curry leaves",6,25,Easy,4.2,120,4,2,2,4,2,2,2,1,0,Vegetarian,Curry,Tamil Nadu,Sweet and sour tamarind curry
+251,Paruppu,Indian,"toor dal, turmeric, salt, ghee, cumin, curry leaves",6,25,Easy,4.1,160,4,0,0,0,2,2,3,2,0,Vegetarian,Side Dish,Tamil Nadu,Simple seasoned lentils
+252,Paruppu Urundai,Indian,"toor dal, red chilies, asafoetida, curry leaves, coconut oil",5,30,Medium,4.3,180,4,2,0,0,2,2,2,1,0,Vegetarian,Side Dish,Tamil Nadu,Lentil balls in curry
+253,Vendakkai Poriyal,Indian,"okra, onions, green chilies, curry leaves, mustard seeds, coconut",6,20,Easy,4.2,140,4,1,1,0,2,2,3,1,0,Vegetarian,Side Dish,Tamil Nadu,Okra stir-fry
+254,Kathirikai Gotsu,Indian,"eggplant, onions, tomatoes, green chilies, curry leaves, mustard seeds",6,25,Easy,4.3,160,4,2,1,1,2,2,3,1,0,Vegetarian,Side Dish,Tamil Nadu,Eggplant mash
+255,Cabbage Poriyal,Indian,"cabbage, coconut, green chilies, curry leaves, mustard seeds, turmeric",6,15,Easy,4.1,100,4,1,0,0,2,2,3,1,0,Vegetarian,Side Dish,Tamil Nadu,Cabbage stir-fry with coconut
+256,Beans Poriyal,Indian,"green beans, coconut, green chilies, curry leaves, mustard seeds, turmeric",6,15,Easy,4.2,110,4,1,0,0,2,2,3,1,0,Vegetarian,Side Dish,Tamil Nadu,Green beans stir-fry
+257,Carrot Poriyal,Indian,"carrots, coconut, green chilies, curry leaves, mustard seeds, turmeric",6,15,Easy,4.2,120,4,1,1,0,2,2,3,1,0,Vegetarian,Side Dish,Tamil Nadu,Carrot stir-fry with coconut
+258,Beetroot Poriyal,Indian,"beetroot, coconut, green chilies, curry leaves, mustard seeds, turmeric",6,20,Easy,4.1,130,4,1,1,0,2,2,3,1,0,Vegetarian,Side Dish,Tamil Nadu,Beetroot stir-fry
+259,Drumstick Sambar,Indian,"drumsticks, toor dal, tamarind, sambar powder, curry leaves, turmeric",6,45,Medium,4.4,180,4,2,1,3,2,3,3,1,0,Vegetarian,Soup,Tamil Nadu,Drumstick lentil curry
+260,Brinjal Sambar,Indian,"brinjal, toor dal, tamarind, sambar powder, curry leaves, turmeric",6,40,Medium,4.3,170,4,2,1,3,2,2,3,1,0,Vegetarian,Soup,Tamil Nadu,Eggplant lentil curry
+261,Okra Sambar,Indian,"okra, toor dal, tamarind, sambar powder, curry leaves, turmeric",6,40,Medium,4.2,180,4,2,1,3,2,2,3,1,0,Vegetarian,Soup,Tamil Nadu,Okra lentil curry
+262,Radish Sambar,Indian,"radish, toor dal, tamarind, sambar powder, curry leaves, turmeric",6,40,Medium,4.1,160,4,2,1,3,2,2,3,1,0,Vegetarian,Soup,Tamil Nadu,Radish lentil curry
+263,Bottle Gourd Sambar,Indian,"bottle gourd, toor dal, tamarind, sambar powder, curry leaves, turmeric",6,40,Medium,4.2,150,4,1,1,3,2,2,3,1,0,Vegetarian,Soup,Tamil Nadu,Bottle gourd lentil curry
+264,Pumpkin Sambar,Indian,"pumpkin, toor dal, tamarind, sambar powder, curry leaves, turmeric",6,40,Medium,4.3,170,4,2,2,3,2,2,3,1,0,Vegetarian,Soup,Tamil Nadu,Pumpkin lentil curry
+265,Mixed Vegetable Sambar,Indian,"mixed vegetables, toor dal, tamarind, sambar powder, curry leaves, turmeric",7,45,Medium,4.4,190,4,2,1,3,2,2,3,1,0,Vegetarian,Soup,Tamil Nadu,Multi-vegetable lentil curry
+266,Tomato Sambar,Indian,"tomatoes, toor dal, tamarind, sambar powder, curry leaves, turmeric",6,35,Medium,4.5,160,4,2,1,3,2,3,3,1,0,Vegetarian,Soup,Tamil Nadu,Tomato lentil curry
+267,Onion Sambar,Indian,"onions, toor dal, tamarind, sambar powder, curry leaves, turmeric",6,40,Medium,4.2,170,4,2,1,3,2,2,3,1,0,Vegetarian,Soup,Tamil Nadu,Onion lentil curry
+268,Potato Sambar,Indian,"potatoes, toor dal, tamarind, sambar powder, curry leaves, turmeric",6,40,Medium,4.1,200,4,2,1,3,2,2,3,1,0,Vegetarian,Soup,Tamil Nadu,Potato lentil curry
+269,Chettinad Chicken,Indian,"chicken, coconut, red chilies, coriander seeds, fennel, poppy seeds, curry leaves",8,45,Hard,4.7,420,4,5,1,2,2,4,2,3,2,Non-Vegetarian,Dinner,Tamil Nadu,Spicy chicken from Chettinad region
+270,Chettinad Mutton,Indian,"mutton, coconut, red chilies, coriander seeds, fennel, poppy seeds, curry leaves",8,60,Hard,4.6,480,4,5,1,2,2,5,2,3,2,Non-Vegetarian,Dinner,Tamil Nadu,Spicy mutton from Chettinad region
+271,Chettinad Fish,Indian,"fish, coconut, red chilies, coriander seeds, fennel, tamarind, curry leaves",8,30,Medium,4.5,320,4,4,1,3,2,3,2,3,2,Non-Vegetarian,Dinner,Tamil Nadu,Spicy fish from Chettinad region
+272,Kongunadu Chicken,Indian,"chicken, coconut, red chilies, ginger, garlic, curry leaves, coconut oil",7,40,Medium,4.4,380,4,3,1,1,2,3,3,3,2,Non-Vegetarian,Dinner,Tamil Nadu,Western Tamil Nadu style chicken
+273,Nattu Kozhi Curry,Indian,"country chicken, coconut, red chilies, ginger, garlic, curry leaves, spices",8,60,Hard,4.6,400,4,3,1,1,2,4,2,3,2,Non-Vegetarian,Dinner,Tamil Nadu,Country chicken curry
+274,Kozhi Milagu,Indian,"chicken, black pepper, coconut, ginger, garlic, curry leaves, coconut oil",7,35,Medium,4.5,360,4,4,0,1,2,3,2,3,2,Non-Vegetarian,Dinner,Tamil Nadu,Pepper chicken curry
+275,Fish Kuzhambu,Indian,"fish, tamarind, coconut, red chilies, curry leaves, fenugreek, mustard seeds",8,25,Medium,4.4,280,4,3,1,4,2,3,3,2,1,Non-Vegetarian,Lunch,Tamil Nadu,Tangy fish curry
+276,Prawn Kuzhambu,Indian,"prawns, tamarind, coconut, red chilies, curry leaves, fenugreek, mustard seeds",8,20,Medium,4.5,260,4,3,1,4,2,4,3,2,1,Non-Vegetarian,Lunch,Tamil Nadu,Tangy prawn curry
+277,Meen Varuval,Indian,"fish, red chili powder, turmeric, ginger, garlic, curry leaves, coconut oil",7,15,Easy,4.5,300,4,3,0,1,2,3,2,2,3,Non-Vegetarian,Lunch,Tamil Nadu,Spicy fried fish
+278,Eral Varuval,Indian,"prawns, red chili powder, turmeric, ginger, garlic, curry leaves, coconut oil",7,10,Easy,4.6,240,4,3,0,1,2,4,2,2,3,Non-Vegetarian,Lunch,Tamil Nadu,Spicy fried prawns
+279,Mutton Varuval,Indian,"mutton, coconut, red chilies, ginger, garlic, curry leaves, coconut oil",8,45,Medium,4.5,450,4,3,0,1,2,4,2,2,3,Non-Vegetarian,Dinner,Tamil Nadu,Dry roasted mutton
+280,Chicken Varuval,Indian,"chicken, coconut, red chilies, ginger, garlic, curry leaves, coconut oil",8,30,Medium,4.4,380,4,3,0,1,2,3,2,2,3,Non-Vegetarian,Dinner,Tamil Nadu,Dry roasted chicken
+281,Egg Curry,Indian,"eggs, onions, tomatoes, ginger, garlic, red chili powder, turmeric, coriander",8,20,Easy,4.3,280,4,2,1,1,2,3,3,2,1,Non-Vegetarian,Lunch,Tamil Nadu,Spiced egg curry
+282,Egg Roast,Indian,"eggs, onions, tomatoes, ginger, garlic, red chili powder, curry leaves",7,15,Easy,4.4,260,4,2,1,1,2,3,3,1,2,Non-Vegetarian,Breakfast,Tamil Nadu,Spicy scrambled eggs
+283,Quail Roast,Indian,"quail, coconut, red chilies, ginger, garlic, curry leaves, spices",8,30,Medium,4.5,280,4,3,0,1,2,4,2,2,3,Non-Vegetarian,Dinner,Tamil Nadu,Spicy roasted quail
+284,Rabbit Curry,Indian,"rabbit, coconut, red chilies, ginger, garlic, curry leaves, spices",8,60,Hard,4.3,350,4,3,1,1,2,4,2,3,2,Non-Vegetarian,Dinner,Tamil Nadu,Traditional rabbit curry
+285,Venison Curry,Indian,"deer meat, coconut, red chilies, ginger, garlic, curry leaves, spices",8,90,Hard,4.2,400,4,3,1,1,2,4,2,3,2,Non-Vegetarian,Dinner,Tamil Nadu,Wild game curry
+286,Crab Curry,Indian,"crab, coconut milk, red chilies, ginger, garlic, curry leaves, tamarind",8,25,Medium,4.6,220,4,3,1,3,2,4,3,4,1,Non-Vegetarian,Lunch,Tamil Nadu,Coconut-based crab curry
+287,Crab Roast,Indian,"crab, coconut, red chilies, ginger, garlic, curry leaves, pepper",8,20,Medium,4.5,200,4,4,0,1,2,4,2,2,3,Non-Vegetarian,Dinner,Tamil Nadu,Spicy dry crab
+288,Squid Curry,Indian,"squid, coconut, red chilies, ginger, garlic, curry leaves, tamarind",8,15,Medium,4.4,180,4,3,1,3,2,3,3,3,2,Non-Vegetarian,Lunch,Tamil Nadu,Tender squid curry
+289,Octopus Curry,Indian,"octopus, coconut, red chilies, ginger, garlic, curry leaves, tamarind",8,30,Medium,4.3,200,4,3,1,3,2,4,3,3,2,Non-Vegetarian,Lunch,Tamil Nadu,Spicy octopus curry
+290,Snapper Fish Curry,Indian,"red snapper, coconut, red chilies, ginger, garlic, curry leaves, tamarind",8,25,Medium,4.5,300,4,3,1,3,2,3,3,3,2,Non-Vegetarian,Lunch,Tamil Nadu,Red snapper in spicy gravy
+291,Pomfret Curry,Indian,"pomfret, coconut, red chilies, ginger, garlic, curry leaves, tamarind",8,20,Medium,4.6,280,4,3,1,3,2,3,3,3,2,Non-Vegetarian,Lunch,Tamil Nadu,Delicate pomfret in coconut curry
+292,Kingfish Curry,Indian,"kingfish, coconut, red chilies, ginger, garlic, curry leaves, tamarind",8,25,Medium,4.5,320,4,3,1,3,2,3,3,3,2,Non-Vegetarian,Lunch,Tamil Nadu,Firm kingfish in spicy gravy
+293,Sardine Curry,Indian,"sardines, coconut, red chilies, ginger, garlic, curry leaves, tamarind",8,15,Easy,4.4,240,4,3,1,3,2,3,3,3,2,Non-Vegetarian,Lunch,Tamil Nadu,Small sardines in tangy curry
+294,Mackerel Curry,Indian,"mackerel, coconut, red chilies, ginger, garlic, curry leaves, tamarind",8,15,Easy,4.5,260,4,3,1,3,2,3,3,3,2,Non-Vegetarian,Lunch,Tamil Nadu,Oily mackerel in coconut gravy
+295,Tuna Curry,Indian,"tuna, coconut, red chilies, ginger, garlic, curry leaves, tamarind",8,20,Medium,4.4,300,4,3,1,3,2,4,3,3,2,Non-Vegetarian,Lunch,Tamil Nadu,Meaty tuna in spiced curry
+296,Anchovy Curry,Indian,"anchovies, coconut, red chilies, ginger, garlic, curry leaves, tamarind",8,10,Easy,4.3,180,4,3,1,4,3,3,3,2,2,Non-Vegetarian,Lunch,Tamil Nadu,Small anchovies in tangy gravy
+297,Seer Fish Curry,Indian,"seer fish, coconut, red chilies, ginger, garlic, curry leaves, tamarind",8,20,Medium,4.6,290,4,3,1,3,2,3,3,3,2,Non-Vegetarian,Lunch,Tamil Nadu,Premium seer fish curry
+298,Barracuda Curry,Indian,"barracuda, coconut, red chilies, ginger, garlic, curry leaves, tamarind",8,25,Medium,4.3,270,4,3,1,3,2,3,3,3,2,Non-Vegetarian,Lunch,Tamil Nadu,Sharp-toothed fish curry
+299,Shark Curry,Indian,"shark, coconut, red chilies, ginger, garlic, curry leaves, tamarind",8,30,Medium,4.2,350,4,3,1,3,2,4,3,3,2,Non-Vegetarian,Lunch,Tamil Nadu,Cartilaginous fish curry
+300,Ray Fish Curry,Indian,"ray fish, coconut, red chilies, ginger, garlic, curry leaves, tamarind",8,25,Medium,4.1,250,4,3,1,3,2,3,3,3,2,Non-Vegetarian,Lunch,Tamil Nadu,Flat ray fish in curry
+301,Eel Curry,Indian,"eel, coconut, red chilies, ginger, garlic, curry leaves, tamarind",8,30,Hard,4,280,4,3,1,3,2,3,3,3,2,Non-Vegetarian,Lunch,Tamil Nadu,Snake-like eel curry
+302,Hilsa Fish Curry,Indian,"hilsa, mustard oil, panch phoron, turmeric, green chilies, ginger",6,25,Medium,4.7,320,4,2,0,1,2,4,3,2,3,Non-Vegetarian,Lunch,Bengal,Prized Bengali fish curry
+303,Rohu Fish Curry,Indian,"rohu, mustard oil, onions, ginger, garlic, turmeric, red chili powder",7,30,Medium,4.4,290,4,2,0,1,2,3,3,2,3,Non-Vegetarian,Lunch,Bengal,Common carp curry
+304,Katla Fish Curry,Indian,"katla, mustard oil, onions, ginger, garlic, turmeric, red chili powder",7,30,Medium,4.3,300,4,2,0,1,2,3,3,2,3,Non-Vegetarian,Lunch,Bengal,Large carp curry
+305,Mrigel Fish Curry,Indian,"mrigel, mustard oil, onions, ginger, garlic, turmeric, red chili powder",7,25,Medium,4.2,280,4,2,0,1,2,3,3,2,3,Non-Vegetarian,Lunch,Bengal,Sweet water fish curry
+306,Chitol Fish Curry,Indian,"chitol, mustard oil, onions, ginger, garlic, turmeric, green chilies",7,35,Hard,4.5,310,4,2,0,1,2,3,3,2,3,Non-Vegetarian,Lunch,Bengal,Featherback fish curry
+307,Bekti Fish Curry,Indian,"bekti, mustard oil, onions, ginger, garlic, turmeric, green chilies",7,20,Medium,4.6,270,4,2,0,1,2,3,3,2,3,Non-Vegetarian,Lunch,Bengal,Barramundi curry
+308,Tangra Fish Curry,Indian,"tangra, mustard oil, onions, ginger, garlic, turmeric, green chilies",7,15,Easy,4.3,200,4,2,0,1,2,3,3,2,3,Non-Vegetarian,Lunch,Bengal,Small catfish curry
+309,Magur Fish Curry,Indian,"magur, mustard oil, onions, ginger, garlic, turmeric, green chilies",7,25,Medium,4.2,260,4,2,0,1,2,3,3,2,3,Non-Vegetarian,Lunch,Bengal,Walking catfish curry
+310,Koi Fish Curry,Indian,"koi fish, mustard oil, onions, ginger, garlic, turmeric, green chilies",7,20,Medium,4.1,220,4,2,0,1,2,3,3,2,3,Non-Vegetarian,Lunch,Bengal,Climbing perch curry
+311,Pabda Fish Curry,Indian,"pabda, mustard oil, onions, ginger, garlic, turmeric, green chilies",7,15,Easy,4.4,210,4,2,0,1,2,3,3,2,3,Non-Vegetarian,Lunch,Bengal,Butter catfish curry
+312,Shol Fish Curry,Indian,"shol, mustard oil, onions, ginger, garlic, turmeric, green chilies",7,30,Medium,4.3,290,4,2,0,1,2,4,3,2,3,Non-Vegetarian,Lunch,Bengal,Snakehead fish curry
+313,Boal Fish Curry,Indian,"boal, mustard oil, onions, ginger, garlic, turmeric, green chilies",7,35,Medium,4.2,320,4,2,0,1,2,4,3,2,3,Non-Vegetarian,Lunch,Bengal,Large catfish curry
+314,Ayre Fish Curry,Indian,"ayre, mustard oil, onions, ginger, garlic, turmeric, green chilies",7,20,Medium,4.1,250,4,2,0,1,2,3,3,2,3,Non-Vegetarian,Lunch,Bengal,Long whiskered catfish
+315,Parshe Shak,Indian,"purslane, mustard oil, panch phoron, green chilies, turmeric",5,15,Easy,4,80,4,1,0,0,2,2,4,1,0,Vegetarian,Side Dish,Bengal,Purslane greens stir-fry
+316,Palong Shak,Indian,"spinach, mustard oil, garlic, green chilies, turmeric",5,10,Easy,4.2,90,4,1,0,0,2,3,4,1,0,Vegetarian,Side Dish,Bengal,Bengali spinach preparation
+317,Lau Shak,Indian,"bottle gourd leaves, mustard oil, garlic, green chilies, turmeric",5,15,Easy,4.1,70,4,1,0,0,2,2,4,1,0,Vegetarian,Side Dish,Bengal,Bottle gourd leaves stir-fry
+318,Kumro Shak,Indian,"pumpkin leaves, mustard oil, garlic, green chilies, turmeric",5,15,Easy,4,60,4,1,0,0,2,2,4,1,0,Vegetarian,Side Dish,Bengal,Pumpkin leaves preparation
+319,Data Shak,Indian,"amaranth leaves, mustard oil, garlic, green chilies, turmeric",5,10,Easy,4.1,85,4,1,0,0,2,3,4,1,0,Vegetarian,Side Dish,Bengal,Amaranth greens stir-fry
+320,Kalmi Shak,Indian,"water spinach, mustard oil, garlic, green chilies, turmeric",5,10,Easy,4.2,75,4,1,0,0,2,2,4,1,0,Vegetarian,Side Dish,Bengal,Water spinach preparation
+321,Sarisha Shak,Indian,"mustard greens, mustard oil, garlic, green chilies, turmeric",5,20,Easy,4.3,100,4,2,0,0,2,3,4,1,0,Vegetarian,Side Dish,Bengal,Mustard greens Bengali style
+322,Mula Shak,Indian,"radish greens, mustard oil, garlic, green chilies, turmeric",5,15,Easy,4.1,80,4,1,0,0,2,2,4,1,0,Vegetarian,Side Dish,Bengal,Radish leaves stir-fry
+323,Begun Bhaja,Indian,"eggplant, turmeric, salt, mustard oil",4,15,Easy,4.2,120,4,0,0,0,2,2,2,1,1,Vegetarian,Side Dish,Bengal,Simple fried eggplant
+324,Aloo Bhaja,Indian,"potatoes, turmeric, salt, mustard oil",4,20,Easy,4.3,180,4,0,0,0,2,2,2,1,1,Vegetarian,Side Dish,Bengal,Bengali fried potatoes
+325,Kumro Bhaja,Indian,"pumpkin, turmeric, salt, mustard oil",4,15,Easy,4.1,100,4,0,1,0,2,2,2,1,1,Vegetarian,Side Dish,Bengal,Fried pumpkin slices
+326,Bandha Kopi Bhaja,Indian,"cabbage, turmeric, salt, mustard oil",4,10,Easy,4,80,4,0,0,0,2,2,3,1,1,Vegetarian,Side Dish,Bengal,Fried cabbage Bengali style
+327,Shukto,Indian,"mixed vegetables, bitter gourd, milk, panch phoron, ginger paste",6,30,Medium,4.4,150,4,1,1,0,2,2,3,3,0,Vegetarian,Side Dish,Bengal,Mixed vegetable medley with bitter gourd
+328,Charchari,Indian,"mixed vegetables, mustard oil, panch phoron, turmeric, green chilies",6,20,Easy,4.2,120,4,1,0,0,2,2,3,1,0,Vegetarian,Side Dish,Bengal,Mixed vegetable stir-fry
+329,Ghonto,Indian,"mixed vegetables, coconut, ginger, green chilies, turmeric, mustard oil",6,25,Medium,4.3,140,4,1,1,0,2,2,3,2,0,Vegetarian,Side Dish,Bengal,Chopped mixed vegetables
+330,Labra,Indian,"mixed vegetables, mustard oil, panch phoron, turmeric, bay leaves",6,25,Easy,4.1,130,4,1,0,0,2,2,3,1,0,Vegetarian,Side Dish,Bengal,Simple mixed vegetable curry
+331,Dhokar Dalna,Indian,"lentil cakes, potatoes, tomatoes, ginger, cumin, bay leaves",6,45,Medium,4.5,200,4,2,1,1,2,3,2,2,1,Vegetarian,Lunch,Bengal,Lentil cake curry
+332,Enchorer Kalia,Indian,"anchovies, potatoes, onions, ginger, garlic, turmeric, red chili powder",7,25,Medium,4.3,220,4,3,1,2,2,3,2,2,2,Non-Vegetarian,Lunch,Bengal,Spicy anchovy curry
+333,Chingri Malai Curry,Indian,"prawns, coconut milk, onions, ginger, garlic, green chilies, turmeric",7,20,Medium,4.7,280,4,2,1,1,2,4,3,5,1,Non-Vegetarian,Lunch,Bengal,Prawns in coconut milk
+334,Chingri Bhapa,Indian,"prawns, coconut, mustard seeds, green chilies, mustard oil, turmeric",6,20,Medium,4.6,240,4,2,0,1,2,4,3,3,3,Non-Vegetarian,Lunch,Bengal,Steamed prawns with coconut and mustard
+335,Ilish Bhapa,Indian,"hilsa fish, coconut, mustard seeds, green chilies, mustard oil, turmeric",6,25,Medium,4.8,320,4,2,0,1,2,4,3,3,3,Non-Vegetarian,Lunch,Bengal,Steamed hilsa with coconut and mustard
+336,Macher Jhol,Indian,"fish, potatoes, onions, ginger, turmeric, green chilies, mustard oil",7,25,Easy,4.5,260,4,2,0,1,2,3,3,2,3,Non-Vegetarian,Lunch,Bengal,Simple Bengali fish curry
+337,Macher Kalia,Indian,"fish, potatoes, onions, ginger, garlic, yogurt, spices",8,30,Medium,4.4,290,4,2,1,1,2,3,2,3,2,Non-Vegetarian,Lunch,Bengal,Rich fish curry
+338,Mutton Rezala,Indian,"mutton, yogurt, cashews, onions, ginger, garlic, white pepper, nutmeg",8,60,Hard,4.6,480,4,1,1,1,2,4,2,5,0,Non-Vegetarian,Dinner,Bengal,Creamy white mutton curry
+339,Chicken Rezala,Indian,"chicken, yogurt, cashews, onions, ginger, garlic, white pepper, nutmeg",8,45,Medium,4.5,420,4,1,1,1,2,3,2,5,0,Non-Vegetarian,Dinner,Bengal,Creamy white chicken curry
+340,Mutton Chaap,Indian,"mutton ribs, yogurt, onions, ginger, garlic, poppy seeds, cashews",7,90,Hard,4.7,520,4,2,1,1,2,4,2,4,3,Non-Vegetarian,Dinner,Bengal,Mutton ribs in rich gravy
+341,Kobiraji Cutlet,Indian,"chicken, eggs, breadcrumbs, onions, ginger, garlic, spices",7,30,Medium,4.4,350,4,2,0,1,2,3,2,2,1,Non-Vegetarian,Snack,Bengal,Egg-wrapped chicken cutlet
+342,Fish Cutlet,Indian,"fish, potatoes, eggs, breadcrumbs, onions, ginger, spices",7,30,Medium,4.3,280,4,1,0,1,2,3,2,2,1,Non-Vegetarian,Snack,Bengal,Bengali fish cutlet
+343,Vegetable Cutlet,Indian,"mixed vegetables, potatoes, breadcrumbs, spices, oil",6,25,Easy,4.2,200,4,1,0,1,2,2,3,1,1,Vegetarian,Snack,Bengal,Mixed vegetable cutlet
+344,Telebhaja,Indian,"vegetables, gram flour, rice flour, turmeric, salt, oil",6,20,Easy,4.3,180,4,1,0,0,2,2,2,1,1,Vegetarian,Snack,Bengal,Bengali vegetable fritters
+345,Beguni,Indian,"eggplant, gram flour, rice flour, turmeric, salt, oil",6,15,Easy,4.4,160,4,1,0,0,2,2,2,1,1,Vegetarian,Snack,Bengal,Eggplant fritters
+346,Phulkopi Bhaja,Indian,"cauliflower, gram flour, turmeric, salt, oil",5,15,Easy,4.2,140,4,1,0,0,2,2,3,1,1,Vegetarian,Snack,Bengal,Cauliflower fritters
+347,Kumro Phool Bhaja,Indian,"pumpkin flowers, gram flour, turmeric, salt, oil",5,10,Easy,4.1,100,4,1,0,0,2,2,3,1,1,Vegetarian,Snack,Bengal,Pumpkin flower fritters
+348,Mochar Ghonto,Indian,"banana flower, coconut, potatoes, panch phoron, turmeric, mustard oil",6,40,Medium,4.3,160,4,1,1,0,2,2,3,2,0,Vegetarian,Side Dish,Bengal,Banana flower curry
+349,Echor Ghonto,Indian,"jackfruit, coconut, potatoes, panch phoron, turmeric, mustard oil",6,45,Medium,4.2,180,4,1,1,0,2,2,3,2,0,Vegetarian,Side Dish,Bengal,Raw jackfruit curry
+350,Kanchkolar Kofta,Indian,"raw bananas, paneer, spices, onions, tomatoes, cashews, cream",8,40,Medium,4.4,280,4,1,1,1,2,3,2,4,0,Vegetarian,Dinner,Bengal,Raw banana and cottage cheese balls
+351,Aloo Posto,Indian,"potatoes, poppy seeds, green chilies, turmeric, mustard oil",5,20,Easy,4.5,200,4,1,0,0,2,2,2,2,0,Vegetarian,Side Dish,Bengal,Potatoes in poppy seed paste
+352,Chorchori,Indian,"mixed vegetables, mustard oil, panch phoron, dried red chilies, turmeric",6,25,Easy,4.1,140,4,2,0,0,2,2,3,1,0,Vegetarian,Side Dish,Bengal,Dry mixed vegetable curry
+353,Dalnay Kankrol,Indian,"spiny gourd, lentils, turmeric, mustard oil, panch phoron",5,30,Medium,4,120,4,1,0,0,2,2,3,1,0,Vegetarian,Side Dish,Bengal,Spiny gourd with lentils
+354,Potol Dorma,Indian,"pointed gourd, minced meat, onions, ginger, garlic, spices",7,45,Medium,4.3,220,4,2,1,1,2,3,2,2,2,Non-Vegetarian,Dinner,Bengal,Stuffed pointed gourd
+355,Alu Potol Posto,Indian,"potatoes, pointed gourd, poppy seeds, green chilies, turmeric, mustard oil",6,25,Easy,4.2,180,4,1,0,0,2,2,3,2,0,Vegetarian,Side Dish,Bengal,Potatoes and pointed gourd in poppy seeds
+356,Bhetki Paturi,Indian,"bhetki fish, coconut, mustard seeds, green chilies, banana leaves, mustard oil",6,30,Medium,4.6,290,4,2,0,1,2,3,3,3,3,Non-Vegetarian,Dinner,Bengal,Fish wrapped in banana leaves
+357,Chital Muitha,Indian,"chitol fish, rice flour, onions, ginger, garlic, turmeric, mustard oil",7,45,Hard,4.4,270,4,2,0,1,2,3,2,2,2,Non-Vegetarian,Lunch,Bengal,Fish balls in curry
+358,Rui Macher Kalia,Indian,"rohu fish, potatoes, onions, ginger, garlic, yogurt, spices",8,35,Medium,4.5,310,4,2,1,1,2,3,2,3,2,Non-Vegetarian,Lunch,Bengal,Rohu fish in rich gravy
+359,Katla Macher Jhol,Indian,"katla fish, potatoes, onions, turmeric, green chilies, mustard oil",6,30,Easy,4.4,300,4,2,0,1,2,3,3,2,3,Non-Vegetarian,Lunch,Bengal,Katla fish in light curry
+360,Mourola Macher Jhol,Indian,"mourola fish, potatoes, onions, turmeric, green chilies, mustard oil",6,20,Easy,4.2,180,4,2,0,1,2,3,3,2,3,Non-Vegetarian,Lunch,Bengal,Small fish curry
+361,Puti Macher Jhol,Indian,"puti fish, potatoes, onions, turmeric, green chilies, mustard oil",6,15,Easy,4.1,160,4,2,0,1,2,3,3,2,3,Non-Vegetarian,Lunch,Bengal,Tiny fish curry
+362,Chingri Macher Malai Curry,Indian,"prawns, coconut milk, potatoes, onions, ginger, green chilies",6,25,Medium,4.7,300,4,2,1,1,2,4,3,5,1,Non-Vegetarian,Lunch,Bengal,Creamy prawn curry
+363,Golda Chingri Curry,Indian,"tiger prawns, onions, ginger, garlic, tomatoes, coconut milk, spices",7,20,Medium,4.6,280,4,2,1,1,2,4,3,4,1,Non-Vegetarian,Lunch,Bengal,Tiger prawn curry
+364,Bagda Chingri Bhaja,Indian,"bagda prawns, turmeric, salt, mustard oil",4,10,Easy,4.5,200,4,1,0,0,2,4,2,2,3,Non-Vegetarian,Appetizer,Bengal,Fried bagda prawns
+365,Kankrar Jhol,Indian,"crab, onions, ginger, garlic, turmeric, green chilies, mustard oil",7,25,Medium,4.4,200,4,2,0,1,2,4,3,2,3,Non-Vegetarian,Lunch,Bengal,Bengali crab curry
+366,Mutton Bhuna,Indian,"mutton, onions, ginger, garlic, yogurt, red chili powder, garam masala",7,90,Hard,4.5,500,4,3,1,1,2,4,2,3,3,Non-Vegetarian,Dinner,Bengal,Slow-cooked dry mutton
+367,Chicken Bhuna,Indian,"chicken, onions, ginger, garlic, yogurt, red chili powder, garam masala",7,45,Medium,4.4,400,4,3,1,1,2,3,2,3,3,Non-Vegetarian,Dinner,Bengal,Slow-cooked dry chicken
+368,Keema Bhuna,Indian,"minced meat, onions, ginger, garlic, peas, spices",6,30,Medium,4.3,380,4,2,1,1,2,4,2,2,2,Non-Vegetarian,Dinner,Bengal,Spiced minced meat
+369,Liver Curry,Indian,"goat liver, onions, ginger, garlic, turmeric, red chili powder, mustard oil",7,25,Medium,4.1,320,4,2,0,1,2,5,2,2,3,Non-Vegetarian,Lunch,Bengal,Spicy goat liver curry
+370,Brain Curry,Indian,"goat brain, onions, ginger, garlic, turmeric, red chili powder, mustard oil",7,20,Medium,4,280,4,2,0,1,2,4,2,3,3,Non-Vegetarian,Lunch,Bengal,Goat brain in spiced curry
+371,Kidney Curry,Indian,"goat kidney, onions, ginger, garlic, turmeric, red chili powder, mustard oil",7,30,Medium,4.1,300,4,2,0,1,2,4,2,2,3,Non-Vegetarian,Lunch,Bengal,Spiced goat kidney
+372,Heart Curry,Indian,"goat heart, onions, ginger, garlic, turmeric, red chili powder, mustard oil",7,40,Medium,4,350,4,2,0,1,2,4,2,2,3,Non-Vegetarian,Lunch,Bengal,Goat heart curry
+373,Tripe Curry,Indian,"goat tripe, onions, ginger, garlic, turmeric, red chili powder, mustard oil",7,60,Hard,3.9,280,4,2,0,1,2,3,2,2,3,Non-Vegetarian,Lunch,Bengal,Goat stomach lining curry
+374,Duck Curry,Indian,"duck, potatoes, onions, ginger, garlic, red chili powder, garam masala",8,75,Hard,4.3,450,4,2,0,1,2,4,2,3,3,Non-Vegetarian,Dinner,Bengal,Traditional Bengali duck curry
+375,Pigeon Curry,Indian,"pigeon, onions, ginger, garlic, red chili powder, garam masala, yogurt",7,45,Medium,4.2,320,4,2,1,1,2,4,2,2,3,Non-Vegetarian,Dinner,Bengal,Small game bird curry
+376,Quail Curry,Indian,"quail, onions, ginger, garlic, red chili powder, garam masala, yogurt",7,30,Medium,4.3,280,4,2,1,1,2,4,2,2,3,Non-Vegetarian,Dinner,Bengal,Tiny game bird curry
+377,Turtle Curry,Indian,"turtle meat, onions, ginger, garlic, turmeric, red chili powder, mustard oil",7,90,Hard,3.8,400,4,2,0,1,2,4,2,2,3,Non-Vegetarian,Dinner,Bengal,Traditional turtle curry (now restricted)
+378,Frog Curry,Indian,"frog legs, onions, ginger, garlic, turmeric, red chili powder, mustard oil",7,20,Medium,3.9,180,4,2,0,1,2,3,2,2,3,Non-Vegetarian,Dinner,Bengal,Amphibian curry (regional specialty)
+379,Snail Curry,Indian,"snails, onions, ginger, garlic, turmeric, coconut, mustard oil",7,30,Medium,3.7,150,4,2,0,1,2,3,3,2,3,Non-Vegetarian,Lunch,Bengal,Gastropod curry
+380,Eel Curry Bengali,Indian,"eel, onions, ginger, garlic, turmeric, mustard seeds, mustard oil",7,35,Hard,4,290,4,2,0,1,2,3,3,2,3,Non-Vegetarian,Lunch,Bengal,Snake-like fish curry
+381,Mishti Doi,Indian,"milk, sugar, yogurt culture, cardamom",4,480,Medium,4.8,220,4,0,4,1,1,2,2,5,0,Vegetarian,Dessert,Bengal,Sweet yogurt dessert
+382,Rosogolla,Indian,"chenna, sugar, cardamom, rose water",4,45,Medium,4.9,200,4,0,4,0,0,1,1,2,0,Vegetarian,Dessert,Bengal,Spongy cottage cheese balls in syrup
+383,Sandesh,Indian,"chenna, sugar, cardamom, saffron",4,30,Easy,4.8,180,6,0,4,0,0,1,1,3,0,Vegetarian,Dessert,Bengal,Delicate cottage cheese sweet
+384,Mishti Pulao,Indian,"basmati rice, milk, sugar, ghee, raisins, cashews, cardamom",7,45,Medium,4.4,420,4,0,4,0,1,2,2,4,4,Vegetarian,Dessert,Bengal,Sweet rice preparation
+385,Payesh,Indian,"rice, milk, sugar, cardamom, bay leaves, cashews, raisins",7,60,Medium,4.5,380,4,0,4,0,1,2,2,5,0,Vegetarian,Dessert,Bengal,Bengali rice pudding
+386,Chom Chom,Indian,"chenna, sugar, coconut, cardamom, saffron",5,45,Medium,4.6,250,4,0,4,0,0,1,2,3,0,Vegetarian,Dessert,Bengal,Cylindrical cottage cheese sweet
+387,Kalo Jam,Indian,"milk solids, flour, sugar, cardamom, rose water, black food color",6,60,Medium,4.3,380,4,0,5,0,0,1,1,3,0,Vegetarian,Dessert,Bengal,Dark brown milk sweet
+388,Pantua,Indian,"chenna, semolina, sugar, cardamom, ghee",5,45,Medium,4.4,320,4,0,5,0,0,1,1,3,0,Vegetarian,Dessert,Bengal,Fried cottage cheese balls in syrup
+389,Langcha,Indian,"khoya, flour, sugar, cardamom, ghee",5,45,Medium,4.2,360,4,0,5,0,0,1,1,3,0,Vegetarian,Dessert,Bengal,Oval-shaped milk sweet
+390,Ragi Dosa,Indian,"finger millet, rice, black gram, fenugreek seeds",4,120,Medium,4.3,200,2,1,0,0,2,2,3,1,0,Vegetarian,Breakfast,Karnataka,Nutritious finger millet crepe
+391,Quinoa Dosa,Indian,"quinoa, rice, black gram, fenugreek seeds, green chilies",5,120,Medium,4.2,220,2,1,0,0,2,2,3,1,0,Vegetarian,Breakfast,Modern Indian,Protein-rich quinoa crepe
+392,Oats Dosa,Indian,"oats, rice, black gram, curry leaves, ginger",5,120,Medium,4.1,190,2,1,0,0,2,2,3,1,0,Vegetarian,Breakfast,Modern Indian,Healthy oats crepe
+393,Wheat Dosa,Indian,"wheat flour, rice, black gram, green chilies, coriander",5,120,Medium,4,180,2,1,0,0,2,2,3,1,0,Vegetarian,Breakfast,South India,Instant wheat flour dosa
+394,Moong Dal Dosa,Indian,"moong dal, rice, green chilies, ginger, curry leaves",5,120,Medium,4.3,210,2,1,0,0,2,3,3,1,0,Vegetarian,Breakfast,South India,Green gram dosa
+395,Methi Dosa,Indian,"rice, black gram, fenugreek leaves, green chilies",4,120,Medium,4.2,190,2,2,0,0,2,2,4,1,0,Vegetarian,Breakfast,South India,Fenugreek leaves dosa
+396,Palak Dosa,Indian,"rice, black gram, spinach, green chilies, ginger",5,120,Medium,4.4,200,2,1,0,0,2,2,4,1,0,Vegetarian,Breakfast,South India,Spinach dosa
+397,Beetroot Dosa,Indian,"rice, black gram, beetroot, green chilies, ginger",5,120,Medium,4.2,210,2,1,1,0,2,2,3,1,0,Vegetarian,Breakfast,South India,Colorful beetroot dosa
+398,Carrot Dosa,Indian,"rice, black gram, carrots, green chilies, ginger",5,120,Medium,4.1,200,2,1,1,0,2,2,3,1,0,Vegetarian,Breakfast,South India,Orange carrot dosa
+399,Tomato Dosa,Indian,"rice, black gram, tomatoes, green chilies, curry leaves",5,120,Medium,4.3,190,2,2,1,1,2,2,3,1,0,Vegetarian,Breakfast,South India,Tangy tomato dosa
+400,Coconut Dosa,Indian,"rice, black gram, coconut, green chilies, curry leaves",5,120,Medium,4.4,250,2,1,1,0,2,2,3,3,0,Vegetarian,Breakfast,South India,Rich coconut dosa
+401,Paneer Dosa,Indian,"rice, black gram, paneer, green chilies, coriander",5,120,Medium,4.3,280,2,1,0,0,2,3,3,3,0,Vegetarian,Breakfast,South India,Cottage cheese dosa
+402,Pizza Dosa,Indian,"rice, black gram, tomatoes, cheese, bell peppers, herbs",6,120,Medium,4.2,320,2,1,1,1,2,2,3,3,1,Vegetarian,Breakfast,Fusion,Italian-Indian fusion dosa
+403,Schezwan Dosa,Indian,"rice, black gram, schezwan sauce, vegetables, cheese",6,120,Medium,4.1,300,2,4,1,2,2,2,3,2,1,Vegetarian,Breakfast,Fusion,Chinese-Indian fusion dosa
+404,Chocolate Dosa,Indian,"rice, black gram, cocoa powder, sugar, nuts",5,120,Medium,4.5,280,2,0,4,0,1,2,2,2,0,Vegetarian,Dessert,Fusion,Sweet chocolate dosa
+405,Jaggery Dosa,Indian,"rice, black gram, jaggery, cardamom, cashews",5,120,Medium,4.4,260,2,0,4,0,1,2,2,2,0,Vegetarian,Dessert,South India,Traditional sweet dosa
+406,Kheer Dosa,Indian,"rice, black gram, milk, sugar, cardamom, nuts",6,120,Medium,4.3,300,2,0,4,0,1,2,2,4,0,Vegetarian,Dessert,South India,Creamy sweet dosa
+407,Fruit Dosa,Indian,"rice, black gram, mixed fruits, honey, cream",6,120,Medium,4.2,250,2,0,4,0,1,2,4,3,0,Vegetarian,Dessert,Fusion,Fresh fruit dosa
+408,Ice Cream Dosa,Indian,"rice, black gram, vanilla ice cream, chocolate sauce, nuts",6,120,Medium,4.6,320,2,0,5,0,1,2,2,5,0,Vegetarian,Dessert,Fusion,Cold dessert dosa
+409,Masala Chai Dosa,Indian,"rice, black gram, tea powder, milk, cardamom, ginger",6,120,Medium,4.1,200,2,1,2,0,1,2,2,3,0,Vegetarian,Breakfast,Fusion,Tea-flavored dosa
+410,Coffee Dosa,Indian,"rice, black gram, coffee powder, milk, sugar",5,120,Medium,4,220,2,0,2,0,1,2,2,3,0,Vegetarian,Breakfast,Fusion,Coffee-flavored dosa
+411,Kulcha Naan,Indian,"all-purpose flour, yogurt, baking soda, onions, coriander",5,15,Easy,4.4,280,2,1,0,0,2,2,3,1,3,Vegetarian,Side Dish,Punjab,Onion-stuffed leavened bread
+412,Keema Naan,Indian,"all-purpose flour, minced meat, yogurt, onions, spices",6,20,Medium,4.5,350,2,2,0,1,2,4,2,2,3,Non-Vegetarian,Side Dish,North India,Minced meat stuffed naan
+413,Peshwari Naan,Indian,"all-purpose flour, coconut, raisins, cashews, almonds, yogurt",6,18,Easy,4.3,320,2,0,3,0,1,2,2,3,3,Vegetarian,Side Dish,Mughlai,Sweet stuffed naan
+414,Laccha Paratha,Indian,"whole wheat flour, ghee, salt, water",4,15,Easy,4.5,300,2,0,0,0,2,2,2,2,3,Vegetarian,Side Dish,North India,Layered flaky bread
+415,Pudina Paratha,Indian,"whole wheat flour, mint leaves, green chilies, ginger",4,15,Easy,4.4,250,2,1,0,1,2,2,4,1,2,Vegetarian,Side Dish,North India,Mint-flavored flatbread
+416,Gobi Paratha,Indian,"whole wheat flour, cauliflower, ginger, green chilies, spices",5,20,Easy,4.6,280,2,2,0,1,2,2,3,1,2,Vegetarian,Breakfast,Punjab,Cauliflower-stuffed bread
+417,Mooli Paratha,Indian,"whole wheat flour, radish, ginger, green chilies, spices",5,20,Easy,4.3,260,2,2,0,1,2,2,3,1,2,Vegetarian,Breakfast,North India,Radish-stuffed bread
+418,Paneer Paratha,Indian,"whole wheat flour, paneer, onions, green chilies, spices",5,20,Easy,4.7,320,2,1,0,1,2,3,3,3,2,Vegetarian,Breakfast,Punjab,Cottage cheese stuffed bread
+419,Keema Paratha,Indian,"whole wheat flour, minced meat, onions, ginger, spices",6,25,Medium,4.5,380,2,2,0,1,2,4,2,2,2,Non-Vegetarian,Breakfast,North India,Minced meat stuffed bread
+420,Egg Paratha,Indian,"whole wheat flour, eggs, onions, green chilies, coriander",5,15,Easy,4.4,300,2,1,0,1,2,3,3,2,2,Non-Vegetarian,Breakfast,North India,Egg-stuffed flatbread
+421,Mixed Vegetable Paratha,Indian,"whole wheat flour, mixed vegetables, spices, green chilies",6,25,Easy,4.3,270,2,2,0,1,2,2,3,1,2,Vegetarian,Breakfast,North India,Multi-vegetable stuffed bread
+422,Cheese Paratha,Indian,"whole wheat flour, cheese, herbs, black pepper",4,15,Easy,4.2,340,2,0,0,1,2,2,2,4,2,Vegetarian,Breakfast,Fusion,Cheese-stuffed bread
+423,Chocolate Paratha,Indian,"whole wheat flour, chocolate, nuts, butter",4,15,Easy,4.1,320,2,0,4,0,1,2,2,3,2,Vegetarian,Dessert,Fusion,Sweet chocolate bread
+424,Nutella Paratha,Indian,"whole wheat flour, hazelnut spread, butter",3,10,Easy,4.3,350,2,0,5,0,1,2,2,4,2,Vegetarian,Dessert,Fusion,Hazelnut spread bread
+425,Rumali Roti,Indian,"all-purpose flour, milk, oil, salt",4,10,Medium,4.4,180,2,0,0,0,2,2,2,2,2,Vegetarian,Side Dish,Mughlai,Paper-thin handkerchief bread
+426,Taftan,Indian,"all-purpose flour, milk, eggs, saffron, sugar, yeast",6,60,Hard,4.2,250,2,0,2,0,2,2,2,3,3,Vegetarian,Side Dish,Persian-Indian,Leavened sweet bread
+427,Sheermal,Indian,"all-purpose flour, milk, saffron, sugar, ghee, yeast",6,90,Hard,4.3,280,2,0,3,0,2,2,2,4,3,Vegetarian,Side Dish,Lucknow,Saffron-flavored sweet bread
+428,Bakarkhani,Indian,"all-purpose flour, ghee, milk, sugar, poppy seeds, cardamom",6,120,Hard,4.1,320,4,0,3,0,2,2,2,3,3,Vegetarian,Side Dish,Mughlai,Layered sweet biscuit bread
+429,Roghni Naan,Indian,"all-purpose flour, milk, ghee, eggs, sugar, sesame seeds",6,20,Medium,4.2,300,2,0,1,0,2,2,2,3,3,Vegetarian,Side Dish,North India,Rich sesame-topped bread
+430,Til Naan,Indian,"all-purpose flour, sesame seeds, yogurt, nigella seeds",5,18,Medium,4.1,270,2,0,0,0,2,2,2,2,3,Vegetarian,Side Dish,North India,Sesame seed bread
+431,Bathua Paratha,Indian,"whole wheat flour, bathua leaves, ginger, green chilies",4,20,Easy,4.2,240,2,1,0,0,2,2,4,1,2,Vegetarian,Breakfast,North India,Lamb's quarters stuffed bread
+432,Palak Paratha,Indian,"whole wheat flour, spinach, ginger, green chilies, spices",5,20,Easy,4.5,250,2,1,0,1,2,3,4,1,2,Vegetarian,Breakfast,North India,Spinach-stuffed bread
+433,Gajar Paratha,Indian,"whole wheat flour, carrots, ginger, green chilies, spices",5,20,Easy,4.1,260,2,1,1,1,2,2,3,1,2,Vegetarian,Breakfast,North India,Carrot-stuffed bread
+434,Lauki Paratha,Indian,"whole wheat flour, bottle gourd, ginger, green chilies, spices",5,20,Easy,4,240,2,1,0,1,2,2,3,1,2,Vegetarian,Breakfast,North India,Bottle gourd stuffed bread
+435,Tinda Paratha,Indian,"whole wheat flour, round gourd, ginger, green chilies, spices",5,25,Easy,3.9,250,2,1,0,1,2,2,3,1,2,Vegetarian,Breakfast,North India,Round gourd stuffed bread
+436,Bhatura,Indian,"all-purpose flour, yogurt, baking soda, oil, salt",5,30,Medium,4.6,350,2,0,0,0,2,2,2,2,1,Vegetarian,Lunch,Punjab,Deep-fried puffed bread
+437,Luchi,Indian,"all-purpose flour, salt, oil, water",4,20,Easy,4.4,200,4,0,0,0,2,2,2,1,1,Vegetarian,Breakfast,Bengal,Bengali puffed bread
+438,Kachori,Indian,"all-purpose flour, moong dal, spices, oil",5,45,Medium,4.5,300,4,3,1,1,2,3,2,1,1,Vegetarian,Snack,Rajasthan,Spiced lentil-filled pastry
+439,Pyaaz Kachori,Indian,"all-purpose flour, onions, spices, oil",5,45,Medium,4.4,280,4,3,1,1,2,2,3,1,1,Vegetarian,Snack,Rajasthan,Onion-filled fried pastry
+440,Matar Kachori,Indian,"all-purpose flour, green peas, spices, oil",5,40,Medium,4.3,270,4,2,1,1,2,2,3,1,1,Vegetarian,Snack,North India,Green pea stuffed pastry
+441,Aloo Kachori,Indian,"all-purpose flour, potatoes, spices, oil",5,40,Medium,4.5,290,4,2,1,1,2,2,3,1,1,Vegetarian,Snack,North India,Potato-filled fried pastry
+442,Khasta Kachori,Indian,"all-purpose flour, moong dal, fennel, spices, oil",6,50,Medium,4.4,320,4,3,1,1,2,3,2,1,1,Vegetarian,Snack,Rajasthan,Crispy layered pastry
+443,Mangodi Kachori,Indian,"all-purpose flour, lentil dumplings, spices, oil",5,45,Medium,4.2,310,4,3,1,1,2,3,2,1,1,Vegetarian,Snack,Rajasthan,Lentil dumpling pastry
+444,Raj Kachori,Indian,"flour, potatoes, chickpeas, yogurt, chutneys, spices",8,20,Medium,4.6,400,4,2,3,3,3,2,4,2,1,Vegetarian,Snack,Rajasthan,Large stuffed kachori with toppings
+445,Dahi Kachori,Indian,"kachori, yogurt, tamarind chutney, mint chutney, spices",6,15,Easy,4.4,350,4,2,3,3,2,2,4,3,1,Vegetarian,Snack,North India,Kachori topped with yogurt and chutneys
+446,Kheer Kachori,Indian,"flour, milk, sugar, nuts, cardamom, ghee",6,60,Medium,4.3,380,4,0,4,0,1,2,2,4,0,Vegetarian,Dessert,Rajasthan,Sweet milk-filled pastry
+447,Malpua Kachori,Indian,"flour, milk, sugar, fennel seeds, cardamom, ghee",6,45,Medium,4.2,400,4,0,5,0,1,2,2,3,0,Vegetarian,Dessert,North India,Sweet pancake pastry
+448,Gujiya Kachori,Indian,"flour, khoya, coconut, nuts, sugar, cardamom",6,60,Medium,4.4,420,4,0,4,0,1,2,2,4,0,Vegetarian,Dessert,North India,Sweet dumpling pastry
+449,Til Kachori,Indian,"flour, sesame seeds, jaggery, cardamom, ghee",5,45,Medium,4.1,350,4,0,3,0,1,2,2,3,0,Vegetarian,Dessert,North India,Sesame jaggery pastry
+450,Coconut Kachori,Indian,"flour, coconut, jaggery, cardamom, ghee",5,40,Medium,4.2,360,4,0,3,0,1,2,2,3,0,Vegetarian,Dessert,South India,Coconut jaggery pastry
+451,Paneer Kachori,Indian,"flour, paneer, green chilies, coriander, spices",5,35,Medium,4.3,320,4,1,0,1,2,3,3,3,1,Vegetarian,Snack,North India,Cottage cheese pastry
+452,Cheese Kachori,Indian,"flour, cheese, herbs, black pepper, oil",4,30,Easy,4.1,340,4,0,0,1,2,2,2,4,1,Vegetarian,Snack,Fusion,Modern cheese pastry
+453,Chocolate Kachori,Indian,"flour, chocolate chips, nuts, butter, sugar",5,35,Medium,4,380,4,0,4,0,1,2,2,3,0,Vegetarian,Dessert,Fusion,Sweet chocolate pastry
+454,Pizza Kachori,Indian,"flour, tomato sauce, cheese, vegetables, herbs",6,40,Medium,3.9,360,4,1,1,1,2,2,3,3,1,Vegetarian,Snack,Fusion,Italian-inspired pastry
+455,Chinese Kachori,Indian,"flour, vegetables, soy sauce, ginger, garlic",6,35,Medium,3.8,330,4,2,1,2,2,2,3,1,1,Vegetarian,Snack,Fusion,Chinese-flavored pastry
+456,Corn Kachori,Indian,"flour, sweet corn, green chilies, coriander, spices",5,35,Medium,4.2,290,4,1,1,1,2,2,3,1,1,Vegetarian,Snack,North India,Sweet corn pastry
+457,Mushroom Kachori,Indian,"flour, mushrooms, onions, garlic, spices",5,40,Medium,4.1,310,4,2,0,1,2,2,3,1,1,Vegetarian,Snack,North India,Mushroom-filled pastry
+458,Spinach Kachori,Indian,"flour, spinach, onions, garlic, spices",5,35,Medium,4.3,280,4,2,0,1,2,2,4,1,1,Vegetarian,Snack,North India,Spinach-stuffed pastry
+459,Beetroot Kachori,Indian,"flour, beetroot, ginger, green chilies, spices",5,40,Medium,4,300,4,1,1,1,2,2,3,1,1,Vegetarian,Snack,North India,Beetroot-filled pastry
+460,Carrot Kachori,Indian,"flour, carrots, ginger, green chilies, spices",5,35,Medium,4.1,290,4,1,1,1,2,2,3,1,1,Vegetarian,Snack,North India,Carrot-stuffed pastry
+461,Mixed Dal Kachori,Indian,"flour, mixed lentils, spices, oil",5,50,Medium,4.4,320,4,3,1,1,2,3,2,1,1,Vegetarian,Snack,North India,Multi-lentil pastry
+462,Cabbage Kachori,Indian,"flour, cabbage, ginger, green chilies, spices",5,35,Medium,4,270,4,1,0,1,2,2,3,1,1,Vegetarian,Snack,North India,Cabbage-filled pastry
+463,Cauliflower Kachori,Indian,"flour, cauliflower, ginger, spices, oil",5,40,Medium,4.2,300,4,2,0,1,2,2,3,1,1,Vegetarian,Snack,North India,Cauliflower pastry
+464,Radish Kachori,Indian,"flour, radish, ginger, green chilies, spices",5,35,Medium,4.1,280,4,2,0,1,2,2,3,1,1,Vegetarian,Snack,North India,Radish-stuffed pastry
+465,Bottle Gourd Kachori,Indian,"flour, bottle gourd, ginger, spices, oil",5,40,Medium,3.9,270,4,1,0,1,2,2,3,1,1,Vegetarian,Snack,North India,Bottle gourd pastry
+466,Bitter Gourd Kachori,Indian,"flour, bitter gourd, onions, spices, oil",5,45,Medium,3.8,280,4,2,0,0,2,2,3,1,1,Vegetarian,Snack,North India,Bitter gourd pastry
+467,Okra Kachori,Indian,"flour, okra, onions, spices, oil",5,40,Medium,4,290,4,2,0,1,2,2,3,1,1,Vegetarian,Snack,North India,Okra-filled pastry
+468,Eggplant Kachori,Indian,"flour, eggplant, onions, spices, oil",5,45,Medium,4.1,310,4,2,0,1,2,2,3,1,1,Vegetarian,Snack,North India,Eggplant pastry
+469,Tomato Kachori,Indian,"flour, tomatoes, onions, spices, oil",5,35,Medium,4.2,280,4,2,1,2,2,2,3,1,1,Vegetarian,Snack,North India,Tomato-filled pastry
+470,Bell Pepper Kachori,Indian,"flour, bell peppers, onions, spices, oil",5,35,Medium,4,290,4,1,1,1,2,2,3,1,1,Vegetarian,Snack,North India,Bell pepper pastry
+471,Green Bean Kachori,Indian,"flour, green beans, ginger, spices, oil",5,40,Medium,4.1,280,4,1,0,1,2,2,3,1,1,Vegetarian,Snack,North India,Green bean pastry
+472,Jackfruit Kachori,Indian,"flour, raw jackfruit, spices, oil",5,50,Medium,4.2,320,4,2,1,1,2,2,3,1,1,Vegetarian,Snack,North India,Jackfruit pastry
+473,Banana Kachori,Indian,"flour, raw bananas, spices, oil",5,40,Medium,4,300,4,1,1,1,2,2,3,1,1,Vegetarian,Snack,North India,Raw banana pastry
+474,Sweet Potato Kachori,Indian,"flour, sweet potatoes, spices, oil",5,45,Medium,4.1,310,4,1,2,1,2,2,3,1,1,Vegetarian,Snack,North India,Sweet potato pastry
+475,Pumpkin Kachori,Indian,"flour, pumpkin, ginger, spices, oil",5,40,Medium,4,300,4,1,2,1,2,2,3,1,1,Vegetarian,Snack,North India,Pumpkin-filled pastry
+476,Coconut Barfi,Indian,"coconut, milk, sugar, cardamom, ghee",5,45,Medium,4.6,320,6,0,4,0,0,1,2,3,0,Vegetarian,Dessert,South India,Coconut milk fudge
+477,Cashew Barfi,Indian,"cashews, milk, sugar, cardamom, ghee",5,50,Medium,4.7,380,6,0,4,0,0,1,1,4,0,Vegetarian,Dessert,South India,Rich cashew fudge
+478,Almond Barfi,Indian,"almonds, milk, sugar, cardamom, ghee",5,55,Medium,4.6,400,6,0,4,0,0,1,1,4,0,Vegetarian,Dessert,North India,Almond milk fudge
+479,Pistachio Barfi,Indian,"pistachios, milk, sugar, cardamom, silver leaf",5,60,Hard,4.8,420,6,0,4,0,0,1,1,5,0,Vegetarian,Dessert,North India,Premium pistachio fudge
+480,Fig Barfi,Indian,"dried figs, milk, sugar, cardamom, ghee",5,50,Medium,4.4,360,6,0,4,0,0,1,2,3,0,Vegetarian,Dessert,North India,Fig and milk fudge
+481,Date Barfi,Indian,"dates, milk, nuts, cardamom, ghee",5,45,Medium,4.5,340,6,0,4,0,0,1,2,3,0,Vegetarian,Dessert,Rajasthan,Date and nut fudge
+482,Rose Barfi,Indian,"milk solids, sugar, rose water, rose petals, cardamom",5,40,Medium,4.3,300,6,0,4,0,0,1,2,3,0,Vegetarian,Dessert,North India,Rose-flavored milk fudge
+483,Saffron Barfi,Indian,"milk solids, sugar, saffron, cardamom, pistachios",5,45,Medium,4.7,350,6,0,4,0,0,1,1,4,0,Vegetarian,Dessert,Mughlai,Saffron milk fudge
+484,Chocolate Barfi,Indian,"milk solids, sugar, cocoa powder, nuts",4,40,Medium,4.2,380,6,0,5,0,0,1,2,3,0,Vegetarian,Dessert,Fusion,Chocolate milk fudge
+485,Orange Barfi,Indian,"milk solids, sugar, orange zest, cardamom",4,35,Medium,4.1,290,6,0,4,1,0,1,3,2,0,Vegetarian,Dessert,Fusion,Citrus-flavored fudge
+486,Mango Barfi,Indian,"milk solids, mango pulp, sugar, cardamom",4,40,Medium,4.6,320,6,0,5,0,0,1,3,3,0,Vegetarian,Dessert,North India,Mango-flavored fudge
+487,Pineapple Barfi,Indian,"milk solids, pineapple, sugar, cardamom",4,45,Medium,4.3,310,6,0,4,1,0,1,3,2,0,Vegetarian,Dessert,South India,Tropical fruit fudge
+488,Apple Barfi,Indian,"milk solids, apples, sugar, cinnamon, cardamom",5,50,Medium,4.2,300,6,0,4,0,0,1,3,2,0,Vegetarian,Dessert,North India,Apple-flavored fudge
+489,Banana Barfi,Indian,"milk solids, bananas, sugar, cardamom, nuts",5,40,Medium,4.4,330,6,0,4,0,0,1,3,3,0,Vegetarian,Dessert,South India,Banana milk fudge
+490,Strawberry Barfi,Indian,"milk solids, strawberries, sugar, cardamom",4,35,Medium,4.1,280,6,0,4,1,0,1,4,2,0,Vegetarian,Dessert,Fusion,Berry-flavored fudge
+491,Coffee Barfi,Indian,"milk solids, coffee powder, sugar, cardamom",4,40,Medium,4,320,6,0,3,0,0,1,2,3,0,Vegetarian,Dessert,Fusion,Coffee-flavored fudge
+492,Tea Barfi,Indian,"milk solids, tea powder, sugar, cardamom, ginger",5,40,Medium,3.9,310,6,1,3,0,0,1,2,3,0,Vegetarian,Dessert,Fusion,Tea-flavored fudge
+493,Vanilla Barfi,Indian,"milk solids, vanilla essence, sugar, cardamom",4,35,Medium,4.2,300,6,0,4,0,0,1,2,3,0,Vegetarian,Dessert,Fusion,Vanilla milk fudge
+494,Honey Barfi,Indian,"milk solids, honey, nuts, cardamom",4,35,Medium,4.3,320,6,0,4,0,0,1,2,4,0,Vegetarian,Dessert,North India,Honey-sweetened fudge
+495,Jaggery Barfi,Indian,"milk solids, jaggery, cardamom, nuts",4,40,Medium,4.4,330,6,0,4,0,0,1,2,3,0,Vegetarian,Dessert,Traditional,Jaggery-sweetened fudge
+496,Sesame Barfi,Indian,"sesame seeds, jaggery, cardamom, ghee",4,30,Easy,4.2,350,6,0,3,0,0,1,2,3,0,Vegetarian,Dessert,North India,Sesame seed fudge
+497,Peanut Barfi,Indian,"peanuts, jaggery, cardamom, ghee",4,25,Easy,4.3,380,6,0,3,0,0,1,2,3,0,Vegetarian,Dessert,Maharashtra,Peanut jaggery fudge
+498,Walnut Barfi,Indian,"walnuts, milk, sugar, cardamom, ghee",5,45,Medium,4.2,390,6,0,4,0,0,1,2,4,0,Vegetarian,Dessert,Kashmir,Walnut milk fudge
+499,Mixed Nut Barfi,Indian,"mixed nuts, milk, sugar, cardamom, ghee",5,50,Medium,4.5,420,6,0,4,0,0,1,2,4,0,Vegetarian,Dessert,North India,Assorted nuts fudge
+500,Coconut Laddu,Indian,"coconut, condensed milk, cardamom, ghee",4,20,Easy,4.6,280,6,0,4,0,0,1,2,3,0,Vegetarian,Dessert,South India,Coconut ball sweet
+501,Rava Laddu,Indian,"semolina, sugar, ghee, cashews, raisins, cardamom",6,25,Easy,4.4,320,6,0,4,0,1,2,2,3,0,Vegetarian,Dessert,South India,Semolina ball sweet
+502,Motichoor Laddu,Indian,"gram flour, sugar, cardamom, saffron, ghee, nuts",6,60,Hard,4.7,350,6,0,5,0,0,1,1,3,0,Vegetarian,Dessert,North India,Fine droplet ball sweet
+503,Boondi Laddu,Indian,"gram flour, sugar, cardamom, cashews, raisins, ghee",6,45,Medium,4.5,330,6,0,4,0,0,1,2,3,0,Vegetarian,Dessert,North India,Gram flour droplet balls
+504,Till Laddu,Indian,"sesame seeds, jaggery, cardamom, ghee",4,20,Easy,4.3,340,6,0,3,0,0,1,2,3,0,Vegetarian,Dessert,North India,Sesame seed balls
+505,Murmura Laddu,Indian,"puffed rice, jaggery, cardamom, ghee, nuts",5,15,Easy,4.2,280,6,0,3,0,1,2,2,2,0,Vegetarian,Dessert,Maharashtra,Puffed rice balls
+506,Dry Fruit Laddu,Indian,"mixed dry fruits, dates, cardamom, ghee",4,30,Easy,4.6,380,6,0,4,0,0,1,2,4,0,Vegetarian,Dessert,North India,Mixed dry fruit balls
+507,Wheat Laddu,Indian,"wheat flour, ghee, jaggery, cardamom, nuts",5,40,Medium,4.3,360,6,0,3,0,1,2,2,3,0,Vegetarian,Dessert,North India,Wheat flour sweet balls
+508,Urad Dal Laddu,Indian,"black gram, sugar, ghee, cardamom, cashews",5,60,Medium,4.2,350,6,0,4,0,0,1,2,3,0,Vegetarian,Dessert,South India,Black gram sweet balls
+509,Flax Seed Laddu,Indian,"flax seeds, jaggery, cardamom, ghee, nuts",5,25,Easy,4.1,320,6,0,3,0,0,1,2,3,0,Vegetarian,Dessert,Modern Indian,Healthy flax seed balls
+510,Oats Laddu,Indian,"oats, jaggery, cardamom, ghee, nuts, dates",6,20,Easy,4.4,300,6,0,3,0,1,2,2,3,0,Vegetarian,Dessert,Modern Indian,Healthy oats balls
+511,Ragi Laddu,Indian,"finger millet flour, jaggery, ghee, cardamom, nuts",5,30,Easy,4.2,280,6,0,3,0,1,2,2,3,0,Vegetarian,Dessert,Karnataka,Nutritious millet balls
+512,Quinoa Laddu,Indian,"quinoa, jaggery, cardamom, ghee, nuts",5,25,Easy,4,290,6,0,3,0,0,1,2,3,0,Vegetarian,Dessert,Modern Indian,Protein-rich quinoa balls
+513,Amaranth Laddu,Indian,"amaranth seeds, jaggery, cardamom, ghee",4,20,Easy,4.1,310,6,0,3,0,0,1,2,3,0,Vegetarian,Dessert,North India,Amaranth seed balls
+514,Sunflower Seed Laddu,Indian,"sunflower seeds, jaggery, cardamom, ghee",4,20,Easy,4,320,6,0,3,0,0,1,2,3,0,Vegetarian,Dessert,Modern Indian,Sunflower seed balls
+515,Pumpkin Seed Laddu,Indian,"pumpkin seeds, jaggery, cardamom, ghee",4,25,Easy,4.1,300,6,0,3,0,0,1,2,3,0,Vegetarian,Dessert,Modern Indian,Pumpkin seed balls
+516,Chocolate Laddu,Indian,"cocoa powder, condensed milk, nuts, cardamom, ghee",5,20,Easy,4.3,340,6,0,5,0,0,1,2,3,0,Vegetarian,Dessert,Fusion,Chocolate sweet balls
+517,Coconut Chocolate Laddu,Indian,"coconut, cocoa powder, condensed milk, cardamom",4,15,Easy,4.4,320,6,0,5,0,0,1,2,3,0,Vegetarian,Dessert,Fusion,Coconut chocolate balls
+518,Date Nut Laddu,Indian,"dates, almonds, cashews, cardamom",4,15,Easy,4.5,350,6,0,4,0,0,1,2,4,0,Vegetarian,Dessert,Modern Indian,No-cook date nut balls
+519,Fig Laddu,Indian,"dried figs, nuts, cardamom, ghee",4,20,Easy,4.2,330,6,0,4,0,0,1,2,3,0,Vegetarian,Dessert,North India,Fig and nut balls
+520,Apricot Laddu,Indian,"dried apricots, nuts, cardamom, ghee",4,20,Easy,4.1,320,6,0,4,0,0,1,2,3,0,Vegetarian,Dessert,Kashmir,Apricot nut balls
+521,Malai Kulfi,Indian,"milk, sugar, cardamom, saffron, pistachios",5,360,Hard,4.8,300,4,0,4,0,0,1,2,5,0,Vegetarian,Dessert,North India,Traditional Indian ice cream
+522,Pista Kulfi,Indian,"milk, sugar, pistachios, cardamom, saffron",5,360,Hard,4.7,320,4,0,4,0,0,1,1,5,0,Vegetarian,Dessert,North India,Pistachio ice cream
+523,Mango Kulfi,Indian,"milk, mango pulp, sugar, cardamom",4,360,Hard,4.9,280,4,0,5,0,0,1,3,4,0,Vegetarian,Dessert,North India,Mango ice cream
+524,Rose Kulfi,Indian,"milk, sugar, rose water, cardamom, almonds",5,360,Hard,4.5,290,4,0,4,0,0,1,2,4,0,Vegetarian,Dessert,North India,Rose-flavored ice cream
+525,Badam Kulfi,Indian,"milk, almonds, sugar, cardamom, saffron",5,360,Hard,4.6,310,4,0,4,0,0,1,1,5,0,Vegetarian,Dessert,North India,Almond ice cream
+526,Kesar Kulfi,Indian,"milk, sugar, saffron, cardamom, nuts",5,360,Hard,4.8,300,4,0,4,0,0,1,1,5,0,Vegetarian,Dessert,Mughlai,Saffron ice cream
+527,Thandai Kulfi,Indian,"milk, almonds, cardamom, rose petals, saffron, sugar",6,360,Hard,4.4,320,4,0,4,0,0,1,2,4,0,Vegetarian,Dessert,North India,Spiced milk ice cream
+528,Coconut Kulfi,Indian,"coconut milk, milk, sugar, cardamom",4,360,Hard,4.3,280,4,0,4,0,0,1,2,4,0,Vegetarian,Dessert,South India,Coconut ice cream
+529,Chocolate Kulfi,Indian,"milk, cocoa powder, sugar, cardamom, nuts",5,360,Hard,4.2,330,4,0,5,0,0,1,2,4,0,Vegetarian,Dessert,Fusion,Chocolate ice cream
+530,Vanilla Kulfi,Indian,"milk, vanilla essence, sugar, cardamom, nuts",5,360,Hard,4.1,290,4,0,4,0,0,1,2,4,0,Vegetarian,Dessert,Fusion,Vanilla ice cream
+531,Strawberry Kulfi,Indian,"milk, strawberries, sugar, cardamom",4,360,Hard,4.2,270,4,0,4,1,0,1,4,4,0,Vegetarian,Dessert,Fusion,Strawberry ice cream
+532,Paan Kulfi,Indian,"milk, betel leaves, sugar, cardamom, fennel, gulkand",6,360,Hard,4.3,280,4,0,4,0,0,1,4,3,0,Vegetarian,Dessert,North India,Betel leaf ice cream
+533,Rabri,Indian,"milk, sugar, cardamom, saffron, nuts",5,180,Hard,4.7,350,4,0,4,0,1,2,1,5,0,Vegetarian,Dessert,North India,Thickened sweetened milk
+534,Basundi,Indian,"milk, sugar, cardamom, saffron, nuts",5,120,Medium,4.6,320,4,0,4,0,1,2,1,5,0,Vegetarian,Dessert,Maharashtra,Reduced sweetened milk
+535,Shrikhand,Indian,"hung yogurt, sugar, cardamom, saffron, nuts",5,240,Medium,4.8,280,4,0,4,1,0,1,2,5,0,Vegetarian,Dessert,Gujarat,Sweetened strained yogurt
+536,Mango Shrikhand,Indian,"hung yogurt, mango pulp, sugar, cardamom",4,240,Medium,4.9,300,4,0,5,1,0,1,4,4,0,Vegetarian,Dessert,Gujarat,Mango yogurt dessert
+537,Rose Shrikhand,Indian,"hung yogurt, sugar, rose water, cardamom, nuts",5,240,Medium,4.5,270,4,0,4,1,0,1,2,4,0,Vegetarian,Dessert,Gujarat,Rose-flavored yogurt dessert
+538,Saffron Shrikhand,Indian,"hung yogurt, sugar, saffron, cardamom, pistachios",5,240,Medium,4.7,290,4,0,4,1,0,1,2,5,0,Vegetarian,Dessert,Gujarat,Saffron yogurt dessert
+539,Chocolate Shrikhand,Indian,"hung yogurt, sugar, cocoa powder, cardamom",4,240,Medium,4.3,310,4,0,5,1,0,1,2,4,0,Vegetarian,Dessert,Fusion,Chocolate yogurt dessert
+540,Fruit Shrikhand,Indian,"hung yogurt, mixed fruits, sugar, cardamom",5,240,Medium,4.4,260,4,0,4,1,0,1,4,4,0,Vegetarian,Dessert,Gujarat,Mixed fruit yogurt
+541,Pista Shrikhand,Indian,"hung yogurt, pistachios, sugar, cardamom",4,240,Medium,4.6,300,4,0,4,1,0,1,1,5,0,Vegetarian,Dessert,Gujarat,Pistachio yogurt dessert
+542,Badam Shrikhand,Indian,"hung yogurt, almonds, sugar, cardamom",4,240,Medium,4.5,290,4,0,4,1,0,1,1,4,0,Vegetarian,Dessert,Gujarat,Almond yogurt dessert
+543,Coconut Shrikhand,Indian,"hung yogurt, coconut, sugar, cardamom",4,240,Medium,4.3,280,4,0,4,1,0,1,2,4,0,Vegetarian,Dessert,Gujarat,Coconut yogurt dessert
+544,Kesari Bath,Indian,"semolina, sugar, ghee, saffron, cardamom, cashews",6,25,Easy,4.5,350,4,0,4,0,1,2,1,3,4,Vegetarian,Dessert,Karnataka,Saffron semolina pudding
+545,Halwa Varieties,Indian,"various bases, sugar, ghee, milk, cardamom, nuts",varies,varies,varies,4.4,varies,4,0,4,0,1,2,2,4,varies,Vegetarian,Dessert,Pan-Indian,Sweet pudding preparations
+546,Gajar Halwa,Indian,"carrots, milk, sugar, ghee, cardamom, nuts",6,90,Hard,4.8,400,4,0,4,0,1,2,2,4,0,Vegetarian,Dessert,North India,Carrot milk pudding
+547,Lauki Halwa,Indian,"bottle gourd, milk, sugar, ghee, cardamom, nuts",6,75,Medium,4.2,320,4,0,4,0,1,2,2,3,0,Vegetarian,Dessert,North India,Bottle gourd pudding
+548,Dudhi Halwa,Indian,"bottle gourd, milk, sugar, ghee, cardamom, nuts",6,75,Medium,4.1,310,4,0,4,0,1,2,2,3,0,Vegetarian,Dessert,Gujarat,Gujarati bottle gourd pudding
+549,Aate Ka Halwa,Indian,"wheat flour, ghee, sugar, water, cardamom, nuts",6,30,Easy,4.3,380,4,0,4,0,1,2,1,3,0,Vegetarian,Dessert,North India,Wheat flour pudding
+550,Suji Ka Halwa,Indian,"semolina, ghee, sugar, water, cardamom, nuts",6,20,Easy,4.4,350,4,0,4,0,1,2,1,3,0,Vegetarian,Dessert,North India,Semolina pudding
+551,Besan Halwa,Indian,"gram flour, ghee, sugar, milk, cardamom, nuts",6,45,Medium,4.3,400,4,0,4,0,0,1,1,4,0,Vegetarian,Dessert,North India,Gram flour pudding
+552,Badam Halwa,Indian,"almonds, milk, sugar, ghee, cardamom, saffron",6,90,Hard,4.7,450,4,0,4,0,0,1,1,5,0,Vegetarian,Dessert,North India,Almond pudding
+553,Pista Halwa,Indian,"pistachios, milk, sugar, ghee, cardamom, silver leaf",6,120,Hard,4.8,480,4,0,4,0,0,1,1,5,0,Vegetarian,Dessert,North India,Pistachio pudding
+554,Coconut Halwa,Indian,"coconut, milk, sugar, ghee, cardamom",5,45,Medium,4.4,380,4,0,4,0,0,1,2,4,0,Vegetarian,Dessert,South India,Coconut milk pudding
+555,Pineapple Halwa,Indian,"pineapple, sugar, ghee, cardamom",4,40,Medium,4.2,300,4,0,4,2,0,1,3,2,0,Vegetarian,Dessert,South India,Pineapple pudding
+556,Apple Halwa,Indian,"apples, milk, sugar, ghee, cinnamon, cardamom",6,60,Medium,4.3,320,4,0,4,1,0,1,3,3,0,Vegetarian,Dessert,North India,Apple milk pudding
+557,Banana Halwa,Indian,"bananas, milk, sugar, ghee, cardamom, nuts",6,40,Medium,4.1,340,4,0,4,0,0,1,3,3,0,Vegetarian,Dessert,South India,Banana milk pudding
+558,Papaya Halwa,Indian,"papaya, milk, sugar, ghee, cardamom",5,50,Medium,4,290,4,0,4,1,0,1,3,3,0,Vegetarian,Dessert,South India,Papaya milk pudding
+559,Mango Halwa,Indian,"mango pulp, milk, sugar, ghee, cardamom",5,45,Medium,4.5,310,4,0,5,0,0,1,3,3,0,Vegetarian,Dessert,South India,Mango milk pudding
+560,Guava Halwa,Indian,"guava, sugar, ghee, cardamom, lemon juice",5,50,Medium,4.1,280,4,0,4,2,0,1,3,2,0,Vegetarian,Dessert,South India,Guava pudding
+561,Ash Gourd Halwa,Indian,"ash gourd, milk, sugar, ghee, cardamom, nuts",6,60,Medium,4.2,320,4,0,4,0,0,1,2,3,0,Vegetarian,Dessert,South India,White gourd pudding
+562,Pumpkin Halwa,Indian,"pumpkin, milk, sugar, ghee, cardamom, nuts",6,50,Medium,4.3,330,4,0,4,0,0,1,2,3,0,Vegetarian,Dessert,North India,Pumpkin milk pudding
+563,Sweet Potato Halwa,Indian,"sweet potatoes, milk, sugar, ghee, cardamom, nuts",6,60,Medium,4.1,350,4,0,4,0,0,1,2,3,0,Vegetarian,Dessert,South India,Sweet potato pudding
+564,Beetroot Halwa,Indian,"beetroot, milk, sugar, ghee, cardamom, nuts",6,75,Medium,4.2,340,4,0,4,0,0,1,2,3,0,Vegetarian,Dessert,North India,Beetroot milk pudding
+565,Corn Halwa,Indian,"sweet corn, milk, sugar, ghee, cardamom",5,45,Medium,4,320,4,0,4,0,1,2,2,3,0,Vegetarian,Dessert,North India,Sweet corn pudding
+566,Oats Halwa,Indian,"oats, milk, jaggery, ghee, cardamom, nuts",6,30,Easy,4.1,280,4,0,3,0,1,2,2,3,0,Vegetarian,Dessert,Modern Indian,Healthy oats pudding
+567,Quinoa Halwa,Indian,"quinoa, milk, jaggery, ghee, cardamom, nuts",6,45,Medium,4,300,4,0,3,0,0,1,2,3,0,Vegetarian,Dessert,Modern Indian,Protein-rich quinoa pudding
+568,Ragi Halwa,Indian,"finger millet flour, jaggery, ghee, cardamom, nuts",5,40,Medium,4.2,290,4,0,3,0,1,2,2,3,0,Vegetarian,Dessert,Karnataka,Nutritious millet pudding
+569,Amaranth Halwa,Indian,"amaranth flour, jaggery, ghee, cardamom, nuts",5,35,Medium,4.1,310,4,0,3,0,0,1,2,3,0,Vegetarian,Dessert,North India,Amaranth pudding
+570,Mixed Vegetable Halwa,Indian,"mixed vegetables, milk, sugar, ghee, cardamom",6,60,Medium,4,340,4,0,4,0,1,2,3,3,0,Vegetarian,Dessert,North India,Vegetable milk pudding
+571,Date Halwa,Indian,"dates, milk, ghee, cardamom, nuts",5,50,Medium,4.3,360,4,0,4,0,0,1,2,4,0,Vegetarian,Dessert,Rajasthan,Date and nut pudding
+572,Fig Halwa,Indian,"dried figs, milk, ghee, cardamom, nuts",5,60,Medium,4.2,350,4,0,4,0,0,1,2,4,0,Vegetarian,Dessert,North India,Fig and nut pudding
+573,Walnut Halwa,Indian,"walnuts, milk, sugar, ghee, cardamum",5,70,Hard,4.4,420,4,0,4,0,0,1,2,5,0,Vegetarian,Dessert,Kashmir,Walnut milk pudding
+574,Cashew Halwa,Indian,"cashews, milk, sugar, ghee, cardamom",5,80,Hard,4.6,450,4,0,4,0,0,1,1,5,0,Vegetarian,Dessert,South India,Rich cashew pudding
+575,Mixed Nuts Halwa,Indian,"mixed nuts, milk, sugar, ghee, cardamom",6,90,Hard,4.5,480,4,0,4,0,0,1,2,5,0,Vegetarian,Dessert,North India,Assorted nuts pudding
+576,Rose Halwa,Indian,"milk solids, sugar, rose water, ghee, cardamom",5,45,Medium,4.3,330,4,0,4,0,0,1,2,4,0,Vegetarian,Dessert,North India,Rose-flavored pudding
+577,Saffron Halwa,Indian,"milk solids, sugar, saffron, ghee, cardamom",5,50,Medium,4.7,350,4,0,4,0,0,1,1,5,0,Vegetarian,Dessert,Mughlai,Saffron milk pudding
+578,Chocolate Halwa,Indian,"milk solids, cocoa powder, sugar, ghee, nuts",5,40,Medium,4.2,380,4,0,5,0,0,1,2,4,0,Vegetarian,Dessert,Fusion,Chocolate milk pudding
+579,Vanilla Halwa,Indian,"milk solids, vanilla essence, sugar, ghee, nuts",5,40,Medium,4.1,340,4,0,4,0,0,1,2,4,0,Vegetarian,Dessert,Fusion,Vanilla milk pudding
+580,Coffee Halwa,Indian,"milk solids, coffee powder, sugar, ghee, nuts",5,45,Medium,4,360,4,0,4,0,0,1,2,4,0,Vegetarian,Dessert,Fusion,Coffee-flavored pudding
+581,Tea Halwa,Indian,"milk solids, tea powder, sugar, ghee, cardamom",5,40,Medium,3.9,350,4,1,3,0,0,1,2,3,0,Vegetarian,Dessert,Fusion,Tea-flavored pudding
+582,Honey Halwa,Indian,"milk solids, honey, ghee, cardamom, nuts",5,35,Medium,4.2,340,4,0,4,0,0,1,2,4,0,Vegetarian,Dessert,North India,Honey-sweetened pudding
+583,Jaggery Halwa,Indian,"milk solids, jaggery, ghee, cardamom, nuts",5,40,Medium,4.3,350,4,0,4,0,0,1,2,4,0,Vegetarian,Dessert,Traditional,Jaggery-sweetened pudding
+584,Orange Halwa,Indian,"orange juice, orange zest, sugar, ghee, cardamom",5,35,Medium,4.1,290,4,0,4,2,0,1,4,2,0,Vegetarian,Dessert,Fusion,Citrus-flavored pudding
+585,Lemon Halwa,Indian,"lemon juice, lemon zest, sugar, ghee, cardamom",5,30,Medium,4,270,4,0,3,3,0,1,4,2,0,Vegetarian,Dessert,Fusion,Lemon-flavored pudding
+586,Mint Halwa,Indian,"mint leaves, milk, sugar, ghee, cardamom",5,40,Medium,3.8,300,4,1,3,0,0,1,4,3,0,Vegetarian,Dessert,Fusion,Mint-flavored pudding
+587,Fennel Halwa,Indian,"fennel seeds, milk, sugar, ghee, cardamom",5,50,Medium,4.1,320,4,1,3,0,0,1,3,3,0,Vegetarian,Dessert,North India,Fennel-flavored pudding
+588,Cardamom Halwa,Indian,"cardamom powder, milk, sugar, ghee, nuts",5,40,Medium,4.2,330,4,1,4,0,0,1,2,4,0,Vegetarian,Dessert,South India,Cardamom-rich pudding
+589,Cinnamon Halwa,Indian,"cinnamon powder, milk, sugar, ghee, nuts",5,45,Medium,4,340,4,1,3,0,0,1,2,3,0,Vegetarian,Dessert,North India,Cinnamon-spiced pudding
+590,Nutmeg Halwa,Indian,"nutmeg powder, milk, sugar, ghee, cardamom",5,40,Medium,3.9,320,4,1,3,0,0,1,2,3,0,Vegetarian,Dessert,Mughlai,Nutmeg-flavored pudding
+591,Clove Halwa,Indian,"clove powder, milk, sugar, ghee, cardamom",5,45,Medium,3.8,310,4,2,3,0,0,1,2,3,0,Vegetarian,Dessert,North India,Clove-spiced pudding
+592,Star Anise Halwa,Indian,"star anise powder, milk, sugar, ghee, cardamom",5,40,Medium,3.7,320,4,1,3,0,0,1,2,3,0,Vegetarian,Dessert,South India,Star anise pudding
+593,Poppy Seed Halwa,Indian,"poppy seeds, milk, sugar, ghee, cardamom",5,60,Medium,4.1,380,4,0,3,0,0,1,2,4,0,Vegetarian,Dessert,Bengal,Poppy seed pudding
+594,Sesame Halwa,Indian,"sesame seeds, jaggery, ghee, cardamom",4,30,Easy,4.2,360,4,0,3,0,0,1,2,4,0,Vegetarian,Dessert,North India,Sesame seed pudding
+595,Sunflower Seed Halwa,Indian,"sunflower seeds, jaggery, ghee, cardamom",4,35,Easy,4,340,4,0,3,0,0,1,2,3,0,Vegetarian,Dessert,Modern Indian,Sunflower seed pudding
+596,Pumpkin Seed Halwa,Indian,"pumpkin seeds, jaggery, ghee, cardamom",4,30,Easy,4.1,330,4,0,3,0,0,1,2,3,0,Vegetarian,Dessert,Modern Indian,Pumpkin seed pudding
+597,Flax Seed Halwa,Indian,"flax seeds, jaggery, ghee, cardamom, nuts",5,25,Easy,4,320,4,0,3,0,0,1,2,4,0,Vegetarian,Dessert,Modern Indian,Healthy flax seed pudding
+598,Chia Seed Halwa,Indian,"chia seeds, milk, jaggery, cardamom, nuts",5,20,Easy,3.9,290,4,0,3,0,0,1,2,3,0,Vegetarian,Dessert,Modern Indian,Superfood chia pudding
+599,Multi-Grain Halwa,Indian,"mixed grains, milk, jaggery, ghee, cardamom, nuts",6,45,Medium,4.1,350,4,0,3,0,1,2,2,4,0,Vegetarian,Dessert,Modern Indian,Nutritious multi-grain pudding
+600,Protein Powder Halwa,Indian,"protein powder, milk, honey, ghee, cardamom, nuts",6,20,Easy,3.8,320,4,0,3,0,0,1,2,4,0,Vegetarian,Dessert,Modern Indian,High-protein fitness pudding
+601,Bhapa Doi,Indian,"yogurt, condensed milk, cardamom, saffron, nuts",5,240,Medium,4.6,250,4,0,4,1,0,1,2,4,0,Vegetarian,Dessert,Bengal,Steamed yogurt dessert
+602,Chenna Poda,Indian,"cottage cheese, sugar, cardamom, cashews, raisins",5,90,Medium,4.5,320,4,0,4,0,0,1,2,3,0,Vegetarian,Dessert,Odisha,Baked cottage cheese cake
+603,Chhana Jalebi,Indian,"cottage cheese, flour, sugar syrup, cardamom",4,45,Medium,4.4,280,4,0,5,0,0,1,1,2,0,Vegetarian,Dessert,Odisha,Cottage cheese spirals in syrup
+604,Kheeri,Indian,"rice, milk, sugar, cardamom, nuts, saffron",6,90,Medium,4.5,350,4,0,4,0,1,2,2,5,0,Vegetarian,Dessert,Odisha,Rich rice pudding
+605,Arisa Pitha,Indian,"rice flour, jaggery, sesame seeds, coconut",4,45,Medium,4.3,280,4,0,3,0,1,2,2,3,0,Vegetarian,Dessert,Odisha,Sweet rice flour cake
+606,Chakti Pitha,Indian,"rice flour, coconut, jaggery, cardamom",4,30,Easy,4.2,240,4,0,3,0,1,2,2,3,0,Vegetarian,Dessert,Odisha,Layered rice cake
+607,Manda Pitha,Indian,"rice flour, coconut, jaggery, steamed",4,60,Medium,4.4,220,4,0,3,0,1,2,2,2,0,Vegetarian,Dessert,Odisha,Steamed rice dumplings
+608,Suji Pitha,Indian,"semolina, milk, sugar, coconut, cardamom",5,40,Medium,4.1,260,4,0,4,0,1,2,2,3,0,Vegetarian,Dessert,Odisha,Semolina sweet pancake
+609,Khaja,Indian,"flour, sugar, ghee, cardamom, oil",5,60,Medium,4.3,350,4,0,5,0,0,1,1,2,0,Vegetarian,Dessert,Bihar,Layered fried sweet
+610,Thekua,Indian,"wheat flour, jaggery, coconut, ghee",4,45,Medium,4.2,320,6,0,3,0,1,2,2,2,0,Vegetarian,Dessert,Bihar,Traditional wheat sweet
+611,Litti Chokha,Indian,"wheat flour, sattu, onions, garlic, mustard oil",6,60,Medium,4.7,380,4,2,0,1,3,3,3,2,3,Vegetarian,Dinner,Bihar,Stuffed wheat balls with mash
+612,Sattu Paratha,Indian,"wheat flour, sattu, onions, green chilies, mustard oil",5,20,Easy,4.4,320,2,2,0,1,2,3,3,1,2,Vegetarian,Breakfast,Bihar,Roasted gram flour bread
+613,Ghugni,Indian,"dried yellow peas, onions, ginger, spices",5,60,Medium,4.3,220,4,2,0,1,2,3,3,1,0,Vegetarian,Snack,Bengal,Spiced dried pea curry
+614,Aloo Chop,Indian,"potatoes, breadcrumbs, spices, oil",4,25,Easy,4.2,200,4,1,0,1,2,2,2,1,1,Vegetarian,Snack,Bengal,Potato cutlet
+615,Fish Chop,Indian,"fish, potatoes, breadcrumbs, spices, oil",5,30,Medium,4.4,240,4,1,0,1,2,3,2,1,1,Non-Vegetarian,Snack,Bengal,Fish and potato cutlet
+616,Mutton Chop,Indian,"mutton, potatoes, breadcrumbs, spices, oil",5,45,Medium,4.3,280,4,1,0,1,2,4,2,1,1,Non-Vegetarian,Snack,Bengal,Mutton cutlet
+617,Egg Chop,Indian,"eggs, potatoes, breadcrumbs, spices, oil",5,20,Easy,4.5,220,4,1,0,1,2,3,2,1,1,Non-Vegetarian,Snack,Bengal,Egg cutlet
+618,Chicken Chop,Indian,"chicken, potatoes, breadcrumbs, spices, oil",5,35,Medium,4.4,260,4,1,0,1,2,3,2,1,1,Non-Vegetarian,Snack,Bengal,Chicken cutlet
+619,Prawn Chop,Indian,"prawns, potatoes, breadcrumbs, spices, oil",5,25,Medium,4.2,230,4,1,0,1,2,4,2,1,1,Non-Vegetarian,Snack,Bengal,Prawn cutlet
+620,Vegetable Chop,Indian,"mixed vegetables, potatoes, breadcrumbs, spices",5,25,Easy,4.1,190,4,1,0,1,2,2,3,1,1,Vegetarian,Snack,Bengal,Mixed vegetable cutlet
+621,Paneer Chop,Indian,"paneer, potatoes, breadcrumbs, spices, oil",5,20,Easy,4.3,250,4,1,0,1,2,3,2,2,1,Vegetarian,Snack,Bengal,Cottage cheese cutlet
+622,Mushroom Chop,Indian,"mushrooms, potatoes, breadcrumbs, spices, oil",5,25,Easy,4,210,4,1,0,1,2,2,3,1,1,Vegetarian,Snack,Bengal,Mushroom cutlet
+623,Corn Chop,Indian,"corn, potatoes, breadcrumbs, spices, oil",5,20,Easy,4.1,200,4,1,1,1,2,2,3,1,1,Vegetarian,Snack,Bengal,Sweet corn cutlet
+624,Fish Fingers,Indian,"fish, flour, breadcrumbs, spices, oil",5,20,Easy,4.3,220,4,2,0,1,2,3,2,1,1,Non-Vegetarian,Appetizer,Anglo-Indian,Battered fish strips
+625,Chicken Fingers,Indian,"chicken, flour, breadcrumbs, spices, oil",5,25,Easy,4.4,240,4,2,0,1,2,3,2,1,1,Non-Vegetarian,Appetizer,Anglo-Indian,Battered chicken strips
+626,Prawn Fingers,Indian,"prawns, flour, breadcrumbs, spices, oil",5,15,Easy,4.2,200,4,2,0,1,2,4,2,1,1,Non-Vegetarian,Appetizer,Coastal India,Battered prawn strips
+627,Vegetable Fingers,Indian,"mixed vegetables, flour, breadcrumbs, spices",5,20,Easy,4,180,4,1,0,1,2,2,3,1,1,Vegetarian,Appetizer,Anglo-Indian,Mixed vegetable strips
+628,Paneer Fingers,Indian,"paneer, flour, breadcrumbs, spices, oil",4,15,Easy,4.1,220,4,1,0,1,2,3,2,2,1,Vegetarian,Appetizer,North India,Cottage cheese strips
+629,Mushroom Fingers,Indian,"mushrooms, flour, breadcrumbs, spices, oil",5,15,Easy,3.9,160,4,1,0,1,2,2,3,1,1,Vegetarian,Appetizer,North India,Mushroom strips
+630,Corn Fingers,Indian,"corn, flour, breadcrumbs, spices, oil",4,15,Easy,4,170,4,1,1,1,2,2,3,1,1,Vegetarian,Appetizer,North India,Sweet corn strips
+631,Cheese Fingers,Indian,"cheese, flour, breadcrumbs, herbs, oil",4,12,Easy,4.2,250,4,0,0,1,2,2,2,4,1,Vegetarian,Appetizer,Fusion,Cheese strips
+632,Potato Fingers,Indian,"potatoes, flour, breadcrumbs, spices, oil",4,20,Easy,4.1,190,4,1,0,1,2,2,2,1,1,Vegetarian,Appetizer,North India,Potato strips
+633,Cauliflower Fingers,Indian,"cauliflower, flour, breadcrumbs, spices, oil",5,18,Easy,4,170,4,1,0,1,2,2,3,1,1,Vegetarian,Appetizer,North India,Cauliflower strips
+634,Broccoli Fingers,Indian,"broccoli, flour, breadcrumbs, spices, oil",5,15,Easy,3.9,150,4,1,0,1,2,2,4,1,1,Vegetarian,Appetizer,Modern Indian,Broccoli strips
+635,Carrot Fingers,Indian,"carrots, flour, breadcrumbs, spices, oil",4,18,Easy,3.8,160,4,1,1,1,2,2,3,1,1,Vegetarian,Appetizer,North India,Carrot strips
+636,Beetroot Fingers,Indian,"beetroot, flour, breadcrumbs, spices, oil",4,20,Easy,3.8,170,4,1,1,1,2,2,3,1,1,Vegetarian,Appetizer,North India,Beetroot strips
+637,Spinach Fingers,Indian,"spinach, flour, breadcrumbs, spices, oil",5,15,Easy,3.9,140,4,1,0,1,2,2,4,1,1,Vegetarian,Appetizer,North India,Spinach strips
+638,Cabbage Fingers,Indian,"cabbage, flour, breadcrumbs, spices, oil",4,15,Easy,3.7,130,4,1,0,1,2,2,3,1,1,Vegetarian,Appetizer,North India,Cabbage strips
+639,Onion Fingers,Indian,"onions, flour, breadcrumbs, spices, oil",4,12,Easy,4,150,4,1,1,1,2,2,3,1,1,Vegetarian,Appetizer,North India,Onion rings/strips
+640,Tomato Fingers,Indian,"tomatoes, flour, breadcrumbs, spices, oil",4,10,Easy,3.8,120,4,1,1,2,2,2,3,1,1,Vegetarian,Appetizer,North India,Tomato strips
+641,Bell Pepper Fingers,Indian,"bell peppers, flour, breadcrumbs, spices, oil",4,12,Easy,3.9,140,4,1,1,1,2,2,3,1,1,Vegetarian,Appetizer,North India,Bell pepper strips
+642,Zucchini Fingers,Indian,"zucchini, flour, breadcrumbs, spices, oil",4,15,Easy,3.8,130,4,1,0,1,2,2,3,1,1,Vegetarian,Appetizer,Modern Indian,Zucchini strips
+643,Eggplant Fingers,Indian,"eggplant, flour, breadcrumbs, spices, oil",4,18,Easy,3.9,160,4,1,0,1,2,2,3,1,1,Vegetarian,Appetizer,North India,Eggplant strips
+644,Okra Fingers,Indian,"okra, flour, breadcrumbs, spices, oil",4,15,Easy,3.8,150,4,1,0,1,2,2,3,1,1,Vegetarian,Appetizer,North India,Okra strips
+645,Green Bean Fingers,Indian,"green beans, flour, breadcrumbs, spices, oil",4,15,Easy,3.7,140,4,1,0,1,2,2,3,1,1,Vegetarian,Appetizer,North India,Green bean strips
+646,Asparagus Fingers,Indian,"asparagus, flour, breadcrumbs, spices, oil",4,12,Easy,3.9,120,4,1,0,1,2,2,4,1,1,Vegetarian,Appetizer,Modern Indian,Asparagus strips
+647,Sweet Potato Fingers,Indian,"sweet potatoes, flour, breadcrumbs, spices, oil",4,20,Easy,4,180,4,1,2,1,2,2,3,1,1,Vegetarian,Appetizer,South India,Sweet potato strips
+648,Pumpkin Fingers,Indian,"pumpkin, flour, breadcrumbs, spices, oil",4,18,Easy,3.8,160,4,1,2,1,2,2,3,1,1,Vegetarian,Appetizer,North India,Pumpkin strips
+649,Bottle Gourd Fingers,Indian,"bottle gourd, flour, breadcrumbs, spices, oil",4,15,Easy,3.6,130,4,1,0,1,2,2,3,1,1,Vegetarian,Appetizer,North India,Bottle gourd strips
+650,Ridge Gourd Fingers,Indian,"ridge gourd, flour, breadcrumbs, spices, oil",4,15,Easy,3.5,120,4,1,0,1,2,2,3,1,1,Vegetarian,Appetizer,South India,Ridge gourd strips
+651,Bitter Gourd Fingers,Indian,"bitter gourd, flour, breadcrumbs, spices, oil",4,18,Easy,3.4,140,4,2,0,0,2,2,3,1,1,Vegetarian,Appetizer,North India,Bitter gourd strips
+652,Snake Gourd Fingers,Indian,"snake gourd, flour, breadcrumbs, spices, oil",4,15,Easy,3.5,125,4,1,0,1,2,2,3,1,1,Vegetarian,Appetizer,South India,Snake gourd strips
+653,Drumstick Fingers,Indian,"drumsticks, flour, breadcrumbs, spices, oil",4,20,Easy,3.8,150,4,1,0,1,2,2,3,1,1,Vegetarian,Appetizer,South India,Drumstick strips
+654,Jackfruit Fingers,Indian,"raw jackfruit, flour, breadcrumbs, spices, oil",4,25,Easy,3.9,180,4,1,1,1,2,2,3,1,1,Vegetarian,Appetizer,South India,Jackfruit strips
+655,Banana Fingers,Indian,"raw bananas, flour, breadcrumbs, spices, oil",4,18,Easy,3.8,170,4,1,1,1,2,2,3,1,1,Vegetarian,Appetizer,South India,Raw banana strips
+656,Plantain Fingers,Indian,"plantains, flour, breadcrumbs, spices, oil",4,15,Easy,4,190,4,1,2,1,2,2,3,1,1,Vegetarian,Appetizer,South India,Plantain strips
+657,Yam Fingers,Indian,"yam, flour, breadcrumbs, spices, oil",4,20,Easy,3.7,200,4,1,0,1,2,2,3,1,1,Vegetarian,Appetizer,South India,Yam strips
+658,Taro Fingers,Indian,"taro root, flour, breadcrumbs, spices, oil",4,22,Easy,3.6,210,4,1,0,1,2,2,3,1,1,Vegetarian,Appetizer,South India,Taro root strips
+659,Water Chestnut Fingers,Indian,"water chestnuts, flour, breadcrumbs, spices, oil",4,15,Easy,3.8,160,4,1,1,1,2,2,3,1,1,Vegetarian,Appetizer,North India,Water chestnut strips
+660,Lotus Root Fingers,Indian,"lotus root, flour, breadcrumbs, spices, oil",4,18,Easy,3.7,150,4,1,0,1,2,2,3,1,1,Vegetarian,Appetizer,Kashmir,Lotus root strips
+661,Radish Fingers,Indian,"radish, flour, breadcrumbs, spices, oil",4,15,Easy,3.5,130,4,2,0,1,2,2,3,1,1,Vegetarian,Appetizer,North India,Radish strips
+662,Turnip Fingers,Indian,"turnips, flour, breadcrumbs, spices, oil",4,18,Easy,3.4,140,4,1,0,1,2,2,3,1,1,Vegetarian,Appetizer,North India,Turnip strips
+663,Kohlrabi Fingers,Indian,"kohlrabi, flour, breadcrumbs, spices, oil",4,15,Easy,3.6,120,4,1,1,1,2,2,3,1,1,Vegetarian,Appetizer,Kashmir,Kohlrabi strips
+664,Brussels Sprouts Fingers,Indian,"brussels sprouts, flour, breadcrumbs, spices, oil",4,18,Easy,3.5,110,4,1,0,1,2,2,4,1,1,Vegetarian,Appetizer,Modern Indian,Brussels sprouts strips
+665,Artichoke Fingers,Indian,"artichokes, flour, breadcrumbs, spices, oil",4,20,Easy,3.7,140,4,1,0,1,2,2,3,1,1,Vegetarian,Appetizer,Modern Indian,Artichoke strips
+666,Fennel Fingers,Indian,"fennel bulbs, flour, breadcrumbs, spices, oil",4,15,Easy,3.8,130,4,1,1,1,2,2,4,1,1,Vegetarian,Appetizer,South India,Fennel strips
+667,Celery Fingers,Indian,"celery, flour, breadcrumbs, spices, oil",4,12,Easy,3.6,100,4,1,0,1,2,2,4,1,1,Vegetarian,Appetizer,Modern Indian,Celery strips
+668,Leek Fingers,Indian,"leeks, flour, breadcrumbs, spices, oil",4,15,Easy,3.7,120,4,1,0,1,2,2,3,1,1,Vegetarian,Appetizer,Modern Indian,Leek strips
+669,Spring Onion Fingers,Indian,"spring onions, flour, breadcrumbs, spices, oil",4,10,Easy,3.9,110,4,1,0,1,2,2,4,1,1,Vegetarian,Appetizer,North India,Spring onion strips
+670,Garlic Fingers,Indian,"garlic cloves, flour, breadcrumbs, spices, oil",4,8,Easy,4.1,140,4,2,0,1,2,2,3,1,1,Vegetarian,Appetizer,North India,Garlic strips
+671,Ginger Fingers,Indian,"ginger, flour, breadcrumbs, spices, oil",4,10,Easy,3.8,120,4,3,0,1,2,2,3,1,1,Vegetarian,Appetizer,North India,Ginger strips
+672,Turmeric Root Fingers,Indian,"fresh turmeric, flour, breadcrumbs, spices, oil",4,12,Easy,3.5,110,4,2,0,0,2,2,3,1,1,Vegetarian,Appetizer,South India,Turmeric root strips
+673,Curry Leaf Fingers,Indian,"curry leaves, flour, breadcrumbs, spices, oil",4,8,Easy,3.7,90,4,2,0,1,2,2,4,1,1,Vegetarian,Appetizer,South India,Curry leaf strips
+674,Mint Fingers,Indian,"mint leaves, flour, breadcrumbs, spices, oil",4,8,Easy,3.8,80,4,1,0,1,2,2,4,1,1,Vegetarian,Appetizer,North India,Mint leaf strips
+675,Coriander Fingers,Indian,"coriander leaves, flour, breadcrumbs, spices, oil",4,8,Easy,3.6,85,4,1,0,1,2,2,4,1,1,Vegetarian,Appetizer,Pan-Indian,Coriander leaf strips
+676,Fenugreek Fingers,Indian,"fenugreek leaves, flour, breadcrumbs, spices, oil",4,10,Easy,3.5,95,4,2,0,0,2,2,4,1,1,Vegetarian,Appetizer,North India,Fenugreek leaf strips
+677,Dill Fingers,Indian,"dill leaves, flour, breadcrumbs, spices, oil",4,8,Easy,3.4,75,4,1,0,1,2,2,4,1,1,Vegetarian,Appetizer,North India,Dill leaf strips
+678,Basil Fingers,Indian,"basil leaves, flour, breadcrumbs, spices, oil",4,8,Easy,3.7,80,4,1,0,1,2,2,4,1,1,Vegetarian,Appetizer,Modern Indian,Basil leaf strips
+679,Oregano Fingers,Indian,"oregano leaves, flour, breadcrumbs, spices, oil",4,8,Easy,3.5,70,4,1,0,1,2,2,3,1,1,Vegetarian,Appetizer,Fusion,Oregano leaf strips
+680,Thyme Fingers,Indian,"thyme leaves, flour, breadcrumbs, spices, oil",4,8,Easy,3.4,75,4,1,0,1,2,2,3,1,1,Vegetarian,Appetizer,Fusion,Thyme leaf strips
+681,Rosemary Fingers,Indian,"rosemary leaves, flour, breadcrumbs, spices, oil",4,8,Easy,3.3,70,4,1,0,1,2,2,3,1,1,Vegetarian,Appetizer,Fusion,Rosemary leaf strips
+682,Sage Fingers,Indian,"sage leaves, flour, breadcrumbs, spices, oil",4,8,Easy,3.2,65,4,1,0,1,2,2,3,1,1,Vegetarian,Appetizer,Fusion,Sage leaf strips
+683,Parsley Fingers,Indian,"parsley leaves, flour, breadcrumbs, spices, oil",4,8,Easy,3.4,70,4,1,0,1,2,2,4,1,1,Vegetarian,Appetizer,Fusion,Parsley leaf strips
+684,Chives Fingers,Indian,"chives, flour, breadcrumbs, spices, oil",4,8,Easy,3.5,75,4,1,0,1,2,2,4,1,1,Vegetarian,Appetizer,Modern Indian,Chives strips
+685,Lettuce Fingers,Indian,"lettuce leaves, flour, breadcrumbs, spices, oil",4,6,Easy,3.1,50,4,0,0,0,1,1,4,1,1,Vegetarian,Appetizer,Modern Indian,Lettuce leaf strips
+686,Cabbage Roll Fingers,Indian,"cabbage leaves, rice, vegetables, spices",5,45,Medium,4.2,180,4,1,0,1,2,2,3,2,0,Vegetarian,Appetizer,Fusion,Stuffed cabbage rolls
+687,Grape Leaf Fingers,Indian,"grape leaves, rice, nuts, spices, oil",5,60,Medium,4,200,4,1,0,1,2,2,3,2,0,Vegetarian,Appetizer,Fusion,Stuffed grape leaves
+688,Banana Leaf Fingers,Indian,"banana leaves, rice, coconut, spices",4,30,Medium,3.8,150,4,0,1,0,2,2,3,2,0,Vegetarian,Appetizer,South India,Banana leaf wrapped rice
+689,Lotus Leaf Fingers,Indian,"lotus leaves, rice, mushrooms, spices",5,45,Medium,3.9,170,4,1,0,1,2,2,3,2,0,Vegetarian,Appetizer,Modern Indian,Lotus leaf wrapped rice
+690,Corn Husk Fingers,Indian,"corn husks, corn, cheese, spices",4,30,Medium,4,190,4,1,1,1,2,2,3,3,0,Vegetarian,Appetizer,Fusion,Corn husk wrapped corn
+691,Betel Leaf Fingers,Indian,"betel leaves, coconut, dates, nuts",4,15,Easy,4.1,120,6,0,3,0,1,2,4,3,0,Vegetarian,Appetizer,Pan-Indian,Sweet betel leaf rolls
+692,Paan Ice Cream,Indian,"betel leaves, milk, sugar, cardamom, gulkand",5,360,Hard,4.2,250,4,0,4,0,0,1,4,4,0,Vegetarian,Dessert,North India,Betel leaf flavored ice cream
+693,Thandai Ice Cream,Indian,"milk, almonds, rose petals, sugar, cardamom",6,360,Hard,4.4,280,4,0,4,0,0,1,2,4,0,Vegetarian,Dessert,North India,Spiced almond ice cream
+694,Cardamom Ice Cream,Indian,"milk, cardamom, sugar, cream, nuts",5,360,Hard,4.3,270,4,1,4,0,0,1,2,4,0,Vegetarian,Dessert,South India,Cardamom flavored ice cream
+695,Cinnamon Ice Cream,Indian,"milk, cinnamon, sugar, cream, nuts",5,360,Hard,4.1,260,4,1,3,0,0,1,2,3,0,Vegetarian,Dessert,North India,Cinnamon spiced ice cream
+696,Nutmeg Ice Cream,Indian,"milk, nutmeg, sugar, cream, cardamom",5,360,Hard,4,250,4,1,3,0,0,1,2,3,0,Vegetarian,Dessert,Mughlai,Nutmeg flavored ice cream
+697,Clove Ice Cream,Indian,"milk, cloves, sugar, cream, cardamom",5,360,Hard,3.9,255,4,2,3,0,0,1,2,3,0,Vegetarian,Dessert,North India,Clove spiced ice cream
+698,Star Anise Ice Cream,Indian,"milk, star anise, sugar, cream, cardamom",5,360,Hard,3.8,245,4,1,3,0,0,1,2,3,0,Vegetarian,Dessert,South India,Star anise flavored ice cream
+699,Fennel Ice Cream,Indian,"milk, fennel seeds, sugar, cream, cardamom",5,360,Hard,4,265,4,1,3,0,0,1,3,3,0,Vegetarian,Dessert,North India,Fennel seed ice cream
+700,Black Pepper Ice Cream,Indian,"milk, black pepper, sugar, cream, cardamom",5,360,Hard,3.7,240,4,3,2,0,0,1,2,3,0,Vegetarian,Dessert,Kerala,Spicy black pepper ice cream
+701,Ginger Ice Cream,Indian,"milk, ginger, sugar, cream, cardamom",5,360,Hard,3.9,250,4,3,2,0,0,1,3,3,0,Vegetarian,Dessert,North India,Ginger flavored ice cream
+702,Turmeric Ice Cream,Indian,"milk, turmeric, sugar, cream, cardamom",5,360,Hard,3.5,235,4,2,2,0,0,1,2,3,0,Vegetarian,Dessert,South India,Turmeric spiced ice cream
+703,Curry Leaf Ice Cream,Indian,"milk, curry leaves, sugar, cream, cardamom",5,360,Hard,3.6,230,4,2,2,0,0,1,4,3,0,Vegetarian,Dessert,South India,Curry leaf flavored ice cream
+704,Mint Ice Cream,Indian,"milk, mint leaves, sugar, cream, cardamom",5,360,Hard,4.2,240,4,1,3,0,0,1,4,4,0,Vegetarian,Dessert,North India,Fresh mint ice cream
+705,Basil Ice Cream,Indian,"milk, basil leaves, sugar, cream, cardamom",5,360,Hard,3.8,235,4,1,2,0,0,1,4,3,0,Vegetarian,Dessert,Modern Indian,Basil flavored ice cream
+706,Lemongrass Ice Cream,Indian,"milk, lemongrass, sugar, cream, lime",5,360,Hard,3.9,225,4,0,3,2,0,1,4,3,0,Vegetarian,Dessert,South India,Lemongrass citrus ice cream
+707,Lime Ice Cream,Indian,"milk, lime juice, lime zest, sugar, cream",5,360,Hard,4.1,220,4,0,3,3,0,1,4,3,0,Vegetarian,Dessert,South India,Tangy lime ice cream
+708,Orange Ice Cream,Indian,"milk, orange juice, orange zest, sugar, cream",5,360,Hard,4.3,240,4,0,4,2,0,1,4,3,0,Vegetarian,Dessert,Modern Indian,Citrus orange ice cream
+709,Lemon Ice Cream,Indian,"milk, lemon juice, lemon zest, sugar, cream",5,360,Hard,4.2,215,4,0,3,3,0,1,4,3,0,Vegetarian,Dessert,Modern Indian,Zesty lemon ice cream
+710,Grapefruit Ice Cream,Indian,"milk, grapefruit, sugar, cream, cardamom",5,360,Hard,3.7,200,4,0,3,2,0,1,4,3,0,Vegetarian,Dessert,Modern Indian,Bitter-sweet grapefruit ice cream
+711,Pomegranate Ice Cream,Indian,"milk, pomegranate juice, sugar, cream, cardamom",5,360,Hard,4.4,250,4,0,4,2,0,1,4,4,0,Vegetarian,Dessert,Modern Indian,Antioxidant-rich pomegranate ice cream
+712,Watermelon Ice Cream,Indian,"watermelon juice, milk, sugar, cream, mint",5,360,Hard,4.1,200,4,0,4,1,0,1,4,3,0,Vegetarian,Dessert,Modern Indian,Refreshing watermelon ice cream
+713,Cantaloupe Ice Cream,Indian,"cantaloupe, milk, sugar, cream, cardamom",5,360,Hard,4,220,4,0,4,1,0,1,3,3,0,Vegetarian,Dessert,Modern Indian,Sweet cantaloupe ice cream
+714,Honeydew Ice Cream,Indian,"honeydew melon, milk, sugar, cream, mint",5,360,Hard,3.9,210,4,0,4,1,0,1,4,3,0,Vegetarian,Dessert,Modern Indian,Mild honeydew ice cream
+715,Dragon Fruit Ice Cream,Indian,"dragon fruit, milk, sugar, cream, lime",5,360,Hard,3.8,190,4,0,3,1,0,1,4,3,0,Vegetarian,Dessert,Modern Indian,Exotic dragon fruit ice cream
+716,Kiwi Ice Cream,Indian,"kiwi fruit, milk, sugar, cream, mint",5,360,Hard,3.9,180,4,0,3,2,0,1,4,3,0,Vegetarian,Dessert,Modern Indian,Tangy kiwi ice cream
+717,Passion Fruit Ice Cream,Indian,"passion fruit pulp, milk, sugar, cream",4,360,Hard,4.2,230,4,0,4,2,0,1,3,3,0,Vegetarian,Dessert,Modern Indian,Tropical passion fruit ice cream
+718,Lychee Ice Cream,Indian,"lychee, milk, sugar, cream, rose water",5,360,Hard,4.3,240,4,0,4,1,0,1,3,4,0,Vegetarian,Dessert,Modern Indian,Fragrant lychee ice cream
+719,Rambutan Ice Cream,Indian,"rambutan, milk, sugar, cream, cardamom",5,360,Hard,3.7,225,4,0,4,1,0,1,3,3,0,Vegetarian,Dessert,Modern Indian,Sweet rambutan ice cream
+720,Jackfruit Ice Cream,Indian,"jackfruit pulp, milk, sugar, cream, cardamom",5,360,Hard,4.1,260,4,0,4,0,0,1,3,3,0,Vegetarian,Dessert,South India,Rich jackfruit ice cream
+721,Custard Apple Ice Cream,Indian,"custard apple, milk, sugar, cream, cardamom",5,360,Hard,4.4,270,4,0,5,0,0,1,3,4,0,Vegetarian,Dessert,South India,Creamy custard apple ice cream
+722,Guava Ice Cream,Indian,"guava pulp, milk, sugar, cream, lime",5,360,Hard,4,220,4,0,4,2,0,1,3,3,0,Vegetarian,Dessert,South India,Tropical guava ice cream
+723,Papaya Ice Cream,Indian,"papaya, milk, sugar, cream, cardamom",5,360,Hard,3.8,200,4,0,4,1,0,1,3,3,0,Vegetarian,Dessert,South India,Sweet papaya ice cream
+724,Banana Ice Cream,Indian,"bananas, milk, sugar, cream, cardamom",5,360,Hard,4.3,280,4,0,4,0,0,1,3,4,0,Vegetarian,Dessert,South India,Rich banana ice cream
+725,Plantain Ice Cream,Indian,"ripe plantains, milk, sugar, cream, cinnamon",5,360,Hard,4.1,290,4,0,4,0,0,1,3,3,0,Vegetarian,Dessert,South India,Sweet plantain ice cream
+726,Avocado Ice Cream,Indian,"avocados, milk, sugar, cream, lime",5,360,Hard,3.9,320,4,0,3,1,0,1,4,5,0,Vegetarian,Dessert,Modern Indian,Creamy avocado ice cream
+727,Coconut Ice Cream,Indian,"coconut milk, sugar, cream, cardamom",4,360,Hard,4.5,300,4,0,4,0,0,1,2,5,0,Vegetarian,Dessert,South India,Rich coconut ice cream
+728,Date Ice Cream,Indian,"dates, milk, sugar, cream, cardamom",5,360,Hard,4.2,320,4,0,5,0,0,1,2,4,0,Vegetarian,Dessert,Middle Eastern-Indian,Sweet date ice cream
+729,Fig Ice Cream,Indian,"fresh figs, milk, sugar, cream, honey",5,360,Hard,4.1,290,4,0,4,0,0,1,3,4,0,Vegetarian,Dessert,North India,Honey fig ice cream
+730,Grape Ice Cream,Indian,"grapes, milk, sugar, cream, mint",5,360,Hard,4,240,4,0,4,1,0,1,4,3,0,Vegetarian,Dessert,Modern Indian,Fresh grape ice cream
+731,Apple Ice Cream,Indian,"apples, milk, sugar, cream, cinnamon",5,360,Hard,4.1,230,4,0,4,1,0,1,3,3,0,Vegetarian,Dessert,North India,Spiced apple ice cream
+732,Pear Ice Cream,Indian,"pears, milk, sugar, cream, cardamom",5,360,Hard,3.9,220,4,0,4,1,0,1,3,3,0,Vegetarian,Dessert,North India,Delicate pear ice cream
+733,Peach Ice Cream,Indian,"peaches, milk, sugar, cream, cardamom",5,360,Hard,4.2,250,4,0,4,1,0,1,3,4,0,Vegetarian,Dessert,North India,Juicy peach ice cream
+734,Apricot Ice Cream,Indian,"apricots, milk, sugar, cream, cardamom",5,360,Hard,4.1,240,4,0,4,1,0,1,3,3,0,Vegetarian,Dessert,Kashmir,Sweet apricot ice cream
+735,Plum Ice Cream,Indian,"plums, milk, sugar, cream, cardamom",5,360,Hard,3.8,235,4,0,3,2,0,1,3,3,0,Vegetarian,Dessert,North India,Tart plum ice cream
+736,Cherry Ice Cream,Indian,"cherries, milk, sugar, cream, vanilla",5,360,Hard,4.3,260,4,0,4,1,0,1,3,4,0,Vegetarian,Dessert,Kashmir,Sweet cherry ice cream
+737,Berry Mix Ice Cream,Indian,"mixed berries, milk, sugar, cream, mint",6,360,Hard,4.4,240,4,0,4,2,0,1,4,4,0,Vegetarian,Dessert,Modern Indian,Antioxidant berry ice cream
+738,Blueberry Ice Cream,Indian,"blueberries, milk, sugar, cream, lemon",5,360,Hard,4.2,220,4,0,4,1,0,1,4,3,0,Vegetarian,Dessert,Modern Indian,Antioxidant blueberry ice cream
+739,Blackberry Ice Cream,Indian,"blackberries, milk, sugar, cream, mint",5,360,Hard,4.1,230,4,0,3,2,0,1,4,3,0,Vegetarian,Dessert,Modern Indian,Tart blackberry ice cream
+740,Raspberry Ice Cream,Indian,"raspberries, milk, sugar, cream, rose water",5,360,Hard,4.3,215,4,0,3,2,0,1,4,4,0,Vegetarian,Dessert,Modern Indian,Tangy raspberry ice cream
+741,Cranberry Ice Cream,Indian,"cranberries, milk, sugar, cream, orange zest",5,360,Hard,3.7,200,4,0,2,3,0,1,4,3,0,Vegetarian,Dessert,Modern Indian,Tart cranberry ice cream
+742,Gooseberry Ice Cream,Indian,"gooseberries, milk, sugar, cream, mint",5,360,Hard,3.8,190,4,0,2,3,0,1,4,3,0,Vegetarian,Dessert,North India,Sour gooseberry ice cream
+743,Elderberry Ice Cream,Indian,"elderberries, milk, sugar, cream, lemon",5,360,Hard,3.6,205,4,0,3,2,0,1,4,3,0,Vegetarian,Dessert,Modern Indian,Unique elderberry ice cream
+744,Mulberry Ice Cream,Indian,"mulberries, milk, sugar, cream, cardamom",5,360,Hard,3.9,225,4,0,3,1,0,1,3,3,0,Vegetarian,Dessert,North India,Sweet mulberry ice cream
+745,Jamun Ice Cream,Indian,"jamun fruit, milk, sugar, cream, black salt",5,360,Hard,4,210,4,0,2,1,2,1,3,3,0,Vegetarian,Dessert,North India,Traditional jamun ice cream
+746,Bael Ice Cream,Indian,"bael fruit pulp, milk, sugar, cream, cardamom",5,360,Hard,3.8,240,4,0,3,1,0,1,3,3,0,Vegetarian,Dessert,North India,Medicinal bael fruit ice cream
+747,Karonda Ice Cream,Indian,"karonda berries, milk, sugar, cream, mint",5,360,Hard,3.5,200,4,0,2,3,0,1,4,3,0,Vegetarian,Dessert,North India,Tart karonda ice cream
+748,Kokum Ice Cream,Indian,"kokum, milk, sugar, cream, mint",5,360,Hard,3.7,185,4,0,2,4,0,1,4,3,0,Vegetarian,Dessert,Konkan,Cooling kokum ice cream
+749,Tamarind Ice Cream,Indian,"tamarind pulp, milk, sugar, cream, jaggery",5,360,Hard,3.4,220,4,0,3,4,0,1,2,3,0,Vegetarian,Dessert,South India,Tangy tamarind ice cream
+750,Amla Ice Cream,Indian,"amla juice, milk, sugar, cream, honey",5,360,Hard,3.3,190,4,0,2,3,0,1,4,3,0,Vegetarian,Dessert,North India,Vitamin C rich amla ice cream
+751,Bitter Gourd Ice Cream,Indian,"bitter gourd juice, milk, sugar, cream, mint",5,360,Hard,2.8,170,4,1,2,1,0,1,4,3,0,Vegetarian,Dessert,Modern Indian,Healthy bitter gourd ice cream
+752,Bottle Gourd Ice Cream,Indian,"bottle gourd, milk, sugar, cream, cardamom",5,360,Hard,3.2,180,4,0,3,0,0,1,3,3,0,Vegetarian,Dessert,Modern Indian,Mild bottle gourd ice cream
+753,Ash Gourd Ice Cream,Indian,"ash gourd, milk, sugar, cream, cardamom",5,360,Hard,3.1,175,4,0,3,0,0,1,3,3,0,Vegetarian,Dessert,South India,Cooling ash gourd ice cream
+754,Ridge Gourd Ice Cream,Indian,"ridge gourd, milk, sugar, cream, mint",5,360,Hard,2.9,160,4,0,2,0,0,1,4,2,0,Vegetarian,Dessert,Modern Indian,Unique ridge gourd ice cream
+755,Snake Gourd Ice Cream,Indian,"snake gourd, milk, sugar, cream, cardamom",5,360,Hard,2.8,155,4,0,2,0,0,1,3,2,0,Vegetarian,Dessert,South India,Unusual snake gourd ice cream
+756,Pointed Gourd Ice Cream,Indian,"pointed gourd, milk, sugar, cream, rose water",5,360,Hard,3,165,4,0,2,0,0,1,3,3,0,Vegetarian,Dessert,Bengal,Bengali pointed gourd ice cream
+757,Ivy Gourd Ice Cream,Indian,"ivy gourd, milk, sugar, cream, mint",5,360,Hard,2.7,150,4,0,2,0,0,1,4,2,0,Vegetarian,Dessert,South India,Rare ivy gourd ice cream
+758,Tinda Ice Cream,Indian,"round gourd, milk, sugar, cream, cardamom",5,360,Hard,2.9,160,4,0,2,0,0,1,3,2,0,Vegetarian,Dessert,North India,Mild tinda ice cream
+759,Chayote Ice Cream,Indian,"chayote, milk, sugar, cream, vanilla",5,360,Hard,3.1,145,4,0,3,0,0,1,3,3,0,Vegetarian,Dessert,Modern Indian,Subtle chayote ice cream
+760,Drumstick Ice Cream,Indian,"drumstick pods, milk, sugar, cream, cardamom",5,360,Hard,3.3,170,4,0,2,0,0,1,3,2,0,Vegetarian,Dessert,South India,Nutritious drumstick ice cream
+761,Moringa Ice Cream,Indian,"moringa leaves, milk, sugar, cream, honey",5,360,Hard,3.2,160,4,0,3,0,0,1,4,3,0,Vegetarian,Dessert,Modern Indian,Superfood moringa ice cream
+762,Spinach Ice Cream,Indian,"spinach, milk, sugar, cream, cardamom",5,360,Hard,3,140,4,0,2,0,0,1,4,3,0,Vegetarian,Dessert,Modern Indian,Green spinach ice cream
+763,Kale Ice Cream,Indian,"kale leaves, milk, sugar, cream, mint",5,360,Hard,2.8,135,4,0,2,0,0,1,4,3,0,Vegetarian,Dessert,Modern Indian,Healthy kale ice cream
+764,Fenugreek Ice Cream,Indian,"fenugreek leaves, milk, sugar, cream, cardamom",5,360,Hard,2.9,150,4,1,2,0,0,1,4,3,0,Vegetarian,Dessert,Modern Indian,Herbal fenugreek ice cream
+765,Mustard Greens Ice Cream,Indian,"mustard greens, milk, sugar, cream, ginger",5,360,Hard,2.6,145,4,2,2,0,0,1,4,2,0,Vegetarian,Dessert,Modern Indian,Peppery mustard greens ice cream
+766,Amaranth Ice Cream,Indian,"amaranth leaves, milk, sugar, cream, mint",5,360,Hard,3.1,140,4,0,2,0,0,1,4,3,0,Vegetarian,Dessert,Modern Indian,Nutritious amaranth ice cream
+767,Purslane Ice Cream,Indian,"purslane, milk, sugar, cream, lemon",5,360,Hard,2.9,130,4,0,2,1,0,1,4,2,0,Vegetarian,Dessert,Modern Indian,Tangy purslane ice cream
+768,Water Spinach Ice Cream,Indian,"water spinach, milk, sugar, cream, cardamom",5,360,Hard,2.8,125,4,0,2,0,0,1,4,2,0,Vegetarian,Dessert,Modern Indian,Mild water spinach ice cream
+769,Lettuce Ice Cream,Indian,"lettuce, milk, sugar, cream, mint",5,360,Hard,2.5,120,4,0,2,0,0,1,4,3,0,Vegetarian,Dessert,Modern Indian,Fresh lettuce ice cream
+770,Cabbage Ice Cream,Indian,"cabbage, milk, sugar, cream, vanilla",5,360,Hard,2.4,115,4,0,2,0,0,1,3,2,0,Vegetarian,Dessert,Modern Indian,Unusual cabbage ice cream
+771,Cauliflower Ice Cream,Indian,"cauliflower, milk, sugar, cream, cardamom",5,360,Hard,2.6,130,4,0,2,0,0,1,3,3,0,Vegetarian,Dessert,Modern Indian,Mild cauliflower ice cream
+772,Broccoli Ice Cream,Indian,"broccoli, milk, sugar, cream, mint",5,360,Hard,2.3,125,4,0,2,0,0,1,4,2,0,Vegetarian,Dessert,Modern Indian,Green broccoli ice cream
+773,Brussels Sprouts Ice Cream,Indian,"brussels sprouts, milk, sugar, cream, honey",5,360,Hard,2.1,120,4,0,2,0,0,1,3,2,0,Vegetarian,Dessert,Modern Indian,Bitter brussels sprouts ice cream
+774,Asparagus Ice Cream,Indian,"asparagus, milk, sugar, cream, lemon",5,360,Hard,2.7,110,4,0,2,1,0,1,4,2,0,Vegetarian,Dessert,Modern Indian,Delicate asparagus ice cream
+775,Artichoke Ice Cream,Indian,"artichokes, milk, sugar, cream, herbs",5,360,Hard,2.5,135,4,0,2,0,0,1,3,2,0,Vegetarian,Dessert,Modern Indian,Unique artichoke ice cream
+776,Fennel Ice Cream,Indian,"fennel bulbs, milk, sugar, cream, cardamom",5,360,Hard,3.4,140,4,1,3,0,0,1,4,3,0,Vegetarian,Dessert,South India,Anise-flavored fennel ice cream
+777,Celery Ice Cream,Indian,"celery, milk, sugar, cream, mint",5,360,Hard,2.2,105,4,0,2,0,0,1,4,2,0,Vegetarian,Dessert,Modern Indian,Fresh celery ice cream
+778,Leek Ice Cream,Indian,"leeks, milk, sugar, cream, herbs",5,360,Hard,2.4,115,4,0,2,0,0,1,3,2,0,Vegetarian,Dessert,Modern Indian,Mild leek ice cream
+779,Spring Onion Ice Cream,Indian,"spring onions, milk, sugar, cream, ginger",5,360,Hard,2.6,110,4,1,2,0,0,1,4,2,0,Vegetarian,Dessert,Modern Indian,Sharp spring onion ice cream
+780,Garlic Ice Cream,Indian,"roasted garlic, milk, sugar, cream, herbs",5,360,Hard,3,125,4,2,2,0,0,1,3,2,0,Vegetarian,Dessert,Modern Indian,Roasted garlic ice cream
+781,Onion Ice Cream,Indian,"caramelized onions, milk, sugar, cream",4,360,Hard,2.8,140,4,0,3,0,0,1,2,3,0,Vegetarian,Dessert,Modern Indian,Sweet caramelized onion ice cream
+782,Shallot Ice Cream,Indian,"shallots, milk, sugar, cream, thyme",5,360,Hard,2.5,120,4,1,2,0,0,1,3,2,0,Vegetarian,Dessert,Modern Indian,Mild shallot ice cream
+783,Ginger Ice Cream,Indian,"fresh ginger, milk, sugar, cream, cardamom",5,360,Hard,3.8,130,4,3,3,0,0,1,3,3,0,Vegetarian,Dessert,North India,Spicy ginger ice cream
+784,Turmeric Ice Cream,Indian,"fresh turmeric, milk, sugar, cream, black pepper",5,360,Hard,3.1,125,4,2,2,0,0,1,2,3,0,Vegetarian,Dessert,South India,Golden turmeric ice cream
+785,Galangal Ice Cream,Indian,"galangal, milk, sugar, cream, lime",5,360,Hard,3.3,135,4,2,2,1,0,1,3,2,0,Vegetarian,Dessert,South India,Aromatic galangal ice cream
+786,Horseradish Ice Cream,Indian,"horseradish, milk, sugar, cream, mint",5,360,Hard,2.9,120,4,3,1,0,0,1,4,2,0,Vegetarian,Dessert,Modern Indian,Pungent horseradish ice cream
+787,Wasabi Ice Cream,Indian,"wasabi, milk, sugar, cream, cucumber",5,360,Hard,2.7,115,4,4,1,0,0,1,4,2,0,Vegetarian,Dessert,Fusion,Spicy wasabi ice cream
+788,Radish Ice Cream,Indian,"radish, milk, sugar, cream, mint",5,360,Hard,2.4,110,4,2,2,0,0,1,4,2,0,Vegetarian,Dessert,Modern Indian,Peppery radish ice cream
+789,Turnip Ice Cream,Indian,"turnips, milk, sugar, cream, honey",5,360,Hard,2.3,115,4,1,3,0,0,1,3,2,0,Vegetarian,Dessert,Modern Indian,Sweet turnip ice cream
+790,Beetroot Ice Cream,Indian,"beetroot, milk, sugar, cream, cardamom",5,360,Hard,3.6,145,4,0,4,0,0,1,3,3,0,Vegetarian,Dessert,North India,Earthy beetroot ice cream
+791,Carrot Ice Cream,Indian,"carrots, milk, sugar, cream, cardamom",5,360,Hard,4.2,160,4,0,4,0,0,1,3,4,0,Vegetarian,Dessert,North India,Sweet carrot ice cream
+792,Sweet Potato Ice Cream,Indian,"sweet potatoes, milk, sugar, cream, cinnamon",5,360,Hard,3.9,180,4,0,4,0,0,1,3,3,0,Vegetarian,Dessert,South India,Creamy sweet potato ice cream
+793,Potato Ice Cream,Indian,"potatoes, milk, sugar, cream, vanilla",5,360,Hard,3.1,150,4,0,3,0,0,1,3,3,0,Vegetarian,Dessert,Modern Indian,Starchy potato ice cream
+794,Yam Ice Cream,Indian,"yam, milk, sugar, cream, cardamom",5,360,Hard,3.2,170,4,0,3,0,0,1,3,3,0,Vegetarian,Dessert,South India,Purple yam ice cream
+795,Taro Ice Cream,Indian,"taro root, milk, sugar, cream, coconut",5,360,Hard,3.4,185,4,0,3,0,0,1,3,4,0,Vegetarian,Dessert,South India,Nutty taro ice cream
+796,Cassava Ice Cream,Indian,"cassava, milk, sugar, cream, vanilla",5,360,Hard,3.3,175,4,0,3,0,0,1,3,3,0,Vegetarian,Dessert,South India,Starchy cassava ice cream
+797,Water Chestnut Ice Cream,Indian,"water chestnuts, milk, sugar, cream, rose water",5,360,Hard,3.5,140,4,0,3,0,0,1,3,3,0,Vegetarian,Dessert,North India,Crunchy water chestnut ice cream
+798,Lotus Root Ice Cream,Indian,"lotus root, milk, sugar, cream, cardamom",5,360,Hard,3.1,135,4,0,2,0,0,1,3,2,0,Vegetarian,Dessert,Kashmir,Unique lotus root ice cream
+799,Jerusalem Artichoke Ice Cream,Indian,"jerusalem artichokes, milk, sugar, cream, thyme",5,360,Hard,2.8,130,4,0,2,0,0,1,3,2,0,Vegetarian,Dessert,Modern Indian,Nutty jerusalem artichoke ice cream
+800,Jicama Ice Cream,Indian,"jicama, milk, sugar, cream, lime",5,360,Hard,2.9,120,4,0,2,1,0,1,4,2,0,Vegetarian,Dessert,Modern Indian,Crisp jicama ice cream
+801,Parsnip Ice Cream,Indian,"parsnips, milk, sugar, cream, nutmeg",5,360,Hard,3,140,4,0,3,0,0,1,3,3,0,Vegetarian,Dessert,Modern Indian,Sweet parsnip ice cream
+802,Rutabaga Ice Cream,Indian,"rutabaga, milk, sugar, cream, ginger",5,360,Hard,2.7,125,4,1,2,0,0,1,3,2,0,Vegetarian,Dessert,Modern Indian,Peppery rutabaga ice cream
+803,Kohlrabi Ice Cream,Indian,"kohlrabi, milk, sugar, cream, mint",5,360,Hard,2.9,115,4,0,2,0,0,1,4,2,0,Vegetarian,Dessert,Kashmir,Mild kohlrabi ice cream
+804,Daikon Ice Cream,Indian,"daikon radish, milk, sugar, cream, ginger",5,360,Hard,2.6,110,4,2,2,0,0,1,3,2,0,Vegetarian,Dessert,Modern Indian,Sharp daikon ice cream
+805,Bamboo Shoots Ice Cream,Indian,"bamboo shoots, milk, sugar, cream, lemon",5,360,Hard,2.5,105,4,0,2,1,0,1,4,2,0,Vegetarian,Dessert,Northeast India,Tender bamboo shoots ice cream
+806,Bean Sprouts Ice Cream,Indian,"bean sprouts, milk, sugar, cream, mint",5,360,Hard,2.3,100,4,0,2,0,0,1,4,2,0,Vegetarian,Dessert,Modern Indian,Crunchy sprouts ice cream
+807,Alfalfa Ice Cream,Indian,"alfalfa sprouts, milk, sugar, cream, honey",5,360,Hard,2.2,95,4,0,3,0,0,1,4,2,0,Vegetarian,Dessert,Modern Indian,Nutritious alfalfa ice cream
+808,Wheat Grass Ice Cream,Indian,"wheat grass juice, milk, sugar, cream, lemon",5,360,Hard,2.4,90,4,0,2,2,0,1,4,2,0,Vegetarian,Dessert,Modern Indian,Healthy wheatgrass ice cream
+809,Barley Grass Ice Cream,Indian,"barley grass juice, milk, sugar, cream, mint",5,360,Hard,2.3,85,4,0,2,1,0,1,4,2,0,Vegetarian,Dessert,Modern Indian,Nutritious barley grass ice cream
+810,Spirulina Ice Cream,Indian,"spirulina powder, milk, sugar, cream, vanilla",5,360,Hard,2.1,110,4,0,2,0,0,1,3,3,0,Vegetarian,Dessert,Modern Indian,Superfood spirulina ice cream
+811,Chlorella Ice Cream,Indian,"chlorella powder, milk, sugar, cream, mint",5,360,Hard,2,105,4,0,2,0,0,1,4,2,0,Vegetarian,Dessert,Modern Indian,Algae chlorella ice cream
+812,Seaweed Ice Cream,Indian,"seaweed, milk, sugar, cream, lime",5,360,Hard,1.9,100,4,0,1,2,1,1,4,2,0,Vegetarian,Dessert,Modern Indian,Ocean seaweed ice cream
+813,Mushroom Ice Cream,Indian,"mushrooms, milk, sugar, cream, herbs",5,360,Hard,2.8,120,4,0,2,0,1,1,3,2,0,Vegetarian,Dessert,Modern Indian,Earthy mushroom ice cream
+814,Shiitake Ice Cream,Indian,"shiitake mushrooms, milk, sugar, cream, soy sauce",5,360,Hard,2.6,115,4,0,1,1,2,1,3,2,0,Vegetarian,Dessert,Fusion,Umami shiitake ice cream
+815,Oyster Mushroom Ice Cream,Indian,"oyster mushrooms, milk, sugar, cream, thyme",5,360,Hard,2.5,110,4,0,2,0,1,1,3,2,0,Vegetarian,Dessert,Modern Indian,Delicate oyster mushroom ice cream
+816,Button Mushroom Ice Cream,Indian,"button mushrooms, milk, sugar, cream, parsley",5,360,Hard,2.7,108,4,0,2,0,1,1,4,2,0,Vegetarian,Dessert,Modern Indian,Mild button mushroom ice cream
+817,Portobello Ice Cream,Indian,"portobello mushrooms, milk, sugar, cream, garlic",5,360,Hard,2.4,125,4,0,2,0,1,1,3,2,0,Vegetarian,Dessert,Modern Indian,Meaty portobello ice cream
+818,Enoki Ice Cream,Indian,"enoki mushrooms, milk, sugar, cream, ginger",5,360,Hard,2.2,95,4,1,2,0,1,1,3,2,0,Vegetarian,Dessert,Fusion,Delicate enoki ice cream
+819,Morel Ice Cream,Indian,"morel mushrooms, milk, sugar, cream, wine",5,360,Hard,3.2,140,4,0,3,0,1,1,3,3,0,Vegetarian,Dessert,Kashmir,Premium morel ice cream
+820,Chanterelle Ice Cream,Indian,"chanterelle mushrooms, milk, sugar, cream, herbs",5,360,Hard,2.9,135,4,0,2,0,1,1,3,3,0,Vegetarian,Dessert,Kashmir,Golden chanterelle ice cream
+821,Porcini Ice Cream,Indian,"porcini mushrooms, milk, sugar, cream, truffle oil",5,360,Hard,3.1,150,4,0,3,0,1,1,3,4,0,Vegetarian,Dessert,Modern Indian,Luxurious porcini ice cream
+822,Maitake Ice Cream,Indian,"maitake mushrooms, milk, sugar, cream, soy sauce",5,360,Hard,2.7,125,4,0,2,1,1,1,3,2,0,Vegetarian,Dessert,Fusion,Medicinal maitake ice cream
+823,Reishi Ice Cream,Indian,"reishi mushrooms, milk, sugar, cream, ginger",5,360,Hard,2.5,120,4,1,2,0,1,1,3,2,0,Vegetarian,Dessert,Modern Indian,Healing reishi ice cream
+824,Cordyceps Ice Cream,Indian,"cordyceps powder, milk, sugar, cream, honey",5,360,Hard,2.3,115,4,0,3,0,1,1,2,3,0,Vegetarian,Dessert,Modern Indian,Energizing cordyceps ice cream
+825,Lion's Mane Ice Cream,Indian,"lion's mane mushrooms, milk, sugar, cream, vanilla",5,360,Hard,2.6,118,4,0,2,0,1,1,3,3,0,Vegetarian,Dessert,Modern Indian,Brain-boosting lion's mane ice cream
+826,Chaga Ice Cream,Indian,"chaga powder, milk, sugar, cream, cinnamon",5,360,Hard,2.4,110,4,1,2,0,1,1,2,3,0,Vegetarian,Dessert,Modern Indian,Antioxidant chaga ice cream
+827,Turkey Tail Ice Cream,Indian,"turkey tail powder, milk, sugar, cream, mint",5,360,Hard,2.2,105,4,0,2,0,1,1,4,2,0,Vegetarian,Dessert,Modern Indian,Immune-boosting turkey tail ice cream
+828,Ashwagandha Ice Cream,Indian,"ashwagandha powder, milk, sugar, cream, cardamom",5,360,Hard,3.3,140,4,1,3,0,0,1,2,3,0,Vegetarian,Dessert,Ayurvedic,Adaptogenic ashwagandha ice cream
+829,Brahmi Ice Cream,Indian,"brahmi extract, milk, sugar, cream, honey",5,360,Hard,3.1,130,4,0,3,0,0,1,3,3,0,Vegetarian,Dessert,Ayurvedic,Memory-enhancing brahmi ice cream
+830,Shankhpushpi Ice Cream,Indian,"shankhpushpi extract, milk, sugar, cream, rose water",5,360,Hard,2.9,125,4,0,3,0,0,1,3,3,0,Vegetarian,Dessert,Ayurvedic,Brain tonic shankhpushpi ice cream
+831,Mandukaparni Ice Cream,Indian,"mandukaparni leaves, milk, sugar, cream, mint",5,360,Hard,2.7,120,4,0,2,0,0,1,4,2,0,Vegetarian,Dessert,Ayurvedic,Nervine mandukaparni ice cream
+832,Jatamansi Ice Cream,Indian,"jatamansi powder, milk, sugar, cream, lavender",5,360,Hard,2.8,115,4,0,2,0,0,1,3,3,0,Vegetarian,Dessert,Ayurvedic,Calming jatamansi ice cream
+833,Saraswatarishta Ice Cream,Indian,"saraswatarishta, milk, sugar, cream, cardamom",6,360,Hard,3.2,135,4,1,3,0,0,1,2,3,0,Vegetarian,Dessert,Ayurvedic,Medicated saraswatarishta ice cream
+834,Chyawanprash Ice Cream,Indian,"chyawanprash, milk, sugar, cream, nuts",6,360,Hard,3.5,160,4,1,4,0,0,1,2,4,0,Vegetarian,Dessert,Ayurvedic,Immunity-boosting chyawanprash ice cream
+835,Triphala Ice Cream,Indian,"triphala powder, milk, sugar, cream, honey",5,360,Hard,2.6,125,4,0,3,2,0,1,3,3,0,Vegetarian,Dessert,Ayurvedic,Digestive triphala ice cream
+836,Guduchi Ice Cream,Indian,"guduchi extract, milk, sugar, cream, ginger",5,360,Hard,2.8,120,4,1,2,0,0,1,3,2,0,Vegetarian,Dessert,Ayurvedic,Immune guduchi ice cream
+837,Neem Ice Cream,Indian,"neem leaves, milk, sugar, cream, mint",5,360,Hard,2.1,110,4,1,1,1,0,1,4,2,0,Vegetarian,Dessert,Ayurvedic,Purifying neem ice cream
+838,Tulsi Ice Cream,Indian,"holy basil leaves, milk, sugar, cream, cardamom",5,360,Hard,3.4,130,4,1,3,0,0,1,4,3,0,Vegetarian,Dessert,Ayurvedic,Sacred tulsi ice cream
+839,Giloy Ice Cream,Indian,"giloy extract, milk, sugar, cream, honey",5,360,Hard,2.9,125,4,0,3,0,0,1,3,3,0,Vegetarian,Dessert,Ayurvedic,Fever-reducing giloy ice cream
+840,Arjuna Ice Cream,Indian,"arjuna bark powder, milk, sugar, cream, rose water",5,360,Hard,2.7,120,4,0,2,0,0,1,3,3,0,Vegetarian,Dessert,Ayurvedic,Heart-healthy arjuna ice cream
+841,Punarnava Ice Cream,Indian,"punarnava extract, milk, sugar, cream, mint",5,360,Hard,2.5,115,4,0,2,0,0,1,4,2,0,Vegetarian,Dessert,Ayurvedic,Kidney-supporting punarnava ice cream
+842,Bhumyamalaki Ice Cream,Indian,"bhumyamalaki powder, milk, sugar, cream, lemon",5,360,Hard,2.3,110,4,0,2,2,0,1,4,2,0,Vegetarian,Dessert,Ayurvedic,Liver-protecting bhumyamalaki ice cream
+843,Kalmegh Ice Cream,Indian,"kalmegh extract, milk, sugar, cream, ginger",5,360,Hard,2,105,4,2,1,1,0,1,3,2,0,Vegetarian,Dessert,Ayurvedic,Bitter kalmegh ice cream
+844,Chirayata Ice Cream,Indian,"chirayata powder, milk, sugar, cream, mint",5,360,Hard,2.2,108,4,1,2,1,0,1,4,2,0,Vegetarian,Dessert,Ayurvedic,Digestive chirayata ice cream
+845,Kutki Ice Cream,Indian,"kutki powder, milk, sugar, cream, honey",5,360,Hard,2.4,112,4,1,3,1,0,1,3,3,0,Vegetarian,Dessert,Ayurvedic,Liver tonic kutki ice cream
+846,Bhringraj Ice Cream,Indian,"bhringraj extract, milk, sugar, cream, coconut",5,360,Hard,2.6,118,4,0,2,0,0,1,3,3,0,Vegetarian,Dessert,Ayurvedic,Hair-nourishing bhringraj ice cream
+847,Japa Kusuma Ice Cream,Indian,"hibiscus petals, milk, sugar, cream, rose water",5,360,Hard,3.1,125,4,0,3,1,0,1,4,3,0,Vegetarian,Dessert,Ayurvedic,Floral hibiscus ice cream
+848,Amalaki Ice Cream,Indian,"amla powder, milk, sugar, cream, honey",5,360,Hard,3.3,135,4,0,3,3,0,1,4,3,0,Vegetarian,Dessert,Ayurvedic,Vitamin C rich amalaki ice cream
+849,Bibhitaki Ice Cream,Indian,"bibhitaki powder, milk, sugar, cream, cardamom",5,360,Hard,2.8,122,4,0,2,1,0,1,3,3,0,Vegetarian,Dessert,Ayurvedic,Cleansing bibhitaki ice cream
+850,Haritaki Ice Cream,Indian,"haritaki powder, milk, sugar, cream, ginger",5,360,Hard,2.5,115,4,1,2,2,0,1,3,2,0,Vegetarian,Dessert,Ayurvedic,Digestive haritaki ice cream
+851,Bael Sherbet,Indian,"bael pulp, sugar, water, black salt, mint",5,30,Easy,4.2,180,4,0,3,1,2,1,4,1,0,Vegetarian,Drink,North India,Cooling bael fruit drink
+852,Aam Panna,Indian,"raw mangoes, sugar, mint, black salt, water",5,20,Easy,4.6,160,4,0,3,3,2,1,4,1,0,Vegetarian,Drink,North India,Green mango summer drink
+853,Kokum Sherbet,Indian,"kokum, sugar, water, black salt, mint",5,15,Easy,4.3,120,4,0,2,4,2,1,4,1,0,Vegetarian,Drink,Konkan,Purple kokum cooling drink
+854,Sattu Drink,Indian,"roasted gram flour, water, lemon, salt, mint",5,10,Easy,4.1,200,4,1,1,2,2,2,4,1,0,Vegetarian,Drink,Bihar,Protein-rich gram flour drink
+855,Falooda,Indian,"basil seeds, milk, sugar, vermicelli, ice cream",6,30,Medium,4.7,320,2,0,5,0,0,1,2,5,0,Vegetarian,Dessert,Mughlai,Layered milk dessert drink
+856,Rose Falooda,Indian,"basil seeds, milk, rose syrup, vermicelli, kulfi",6,30,Medium,4.6,340,2,0,5,0,0,1,2,5,0,Vegetarian,Dessert,Mughlai,Rose-flavored falooda
+857,Kulfi Falooda,Indian,"basil seeds, milk, sugar, vermicelli, kulfi, nuts",7,30,Medium,4.8,380,2,0,5,0,0,1,2,5,0,Vegetarian,Dessert,North India,Kulfi-topped falooda
+858,Mango Falooda,Indian,"basil seeds, milk, mango, vermicelli, ice cream",6,30,Medium,4.5,350,2,0,5,0,0,1,3,5,0,Vegetarian,Dessert,Modern Indian,Mango-flavored falooda
+859,Chocolate Falooda,Indian,"basil seeds, milk, chocolate, vermicelli, ice cream",6,30,Medium,4.4,400,2,0,5,0,0,1,2,5,0,Vegetarian,Dessert,Fusion,Chocolate falooda
+860,Pista Falooda,Indian,"basil seeds, milk, pistachio, vermicelli, kulfi",6,30,Medium,4.6,370,2,0,4,0,0,1,2,5,0,Vegetarian,Dessert,Mughlai,Pistachio falooda
+861,Kesar Falooda,Indian,"basil seeds, milk, saffron, vermicelli, kulfi",6,30,Medium,4.7,360,2,0,4,0,0,1,2,5,0,Vegetarian,Dessert,Mughlai,Saffron falooda
+862,Malai Falooda,Indian,"basil seeds, cream, milk, vermicelli, kulfi",6,30,Medium,4.5,390,2,0,4,0,0,1,2,5,0,Vegetarian,Dessert,North India,Cream falooda
+863,Dry Fruit Falooda,Indian,"basil seeds, milk, mixed nuts, vermicelli, kulfi",7,30,Medium,4.4,420,2,0,4,0,0,1,2,5,0,Vegetarian,Dessert,North India,Mixed nuts falooda
+864,Coconut Falooda,Indian,"basil seeds, coconut milk, vermicelli, coconut ice cream",6,30,Medium,4.3,350,2,0,4,0,0,1,3,4,0,Vegetarian,Dessert,South India,Coconut falooda
+865,Strawberry Falooda,Indian,"basil seeds, milk, strawberries, vermicelli, ice cream",6,30,Medium,4.2,330,2,0,5,1,0,1,4,4,0,Vegetarian,Dessert,Fusion,Strawberry falooda
+866,Vanilla Falooda,Indian,"basil seeds, milk, vanilla, vermicelli, ice cream",6,30,Medium,4.1,320,2,0,4,0,0,1,2,4,0,Vegetarian,Dessert,Fusion,Vanilla falooda
+867,Coffee Falooda,Indian,"basil seeds, milk, coffee, vermicelli, ice cream",6,30,Medium,4,340,2,0,3,0,0,1,2,4,0,Vegetarian,Dessert,Fusion,Coffee falooda
+868,Tea Falooda,Indian,"basil seeds, milk, tea, vermicelli, ice cream",6,30,Medium,3.9,310,2,1,3,0,0,1,2,4,0,Vegetarian,Dessert,Fusion,Tea-flavored falooda
+869,Cardamom Falooda,Indian,"basil seeds, milk, cardamom, vermicelli, kulfi",6,30,Medium,4.3,330,2,1,4,0,0,1,2,4,0,Vegetarian,Dessert,South India,Cardamom falooda
+870,Cinnamon Falooda,Indian,"basil seeds, milk, cinnamon, vermicelli, ice cream",6,30,Medium,4.1,325,2,1,3,0,0,1,2,3,0,Vegetarian,Dessert,North India,Cinnamon spiced falooda
+871,Nutmeg Falooda,Indian,"basil seeds, milk, nutmeg, vermicelli, kulfi",6,30,Medium,4,315,2,1,3,0,0,1,2,3,0,Vegetarian,Dessert,Mughlai,Nutmeg falooda
+872,Clove Falooda,Indian,"basil seeds, milk, cloves, vermicelli, ice cream",6,30,Medium,3.8,305,2,2,3,0,0,1,2,3,0,Vegetarian,Dessert,North India,Clove-spiced falooda
+873,Star Anise Falooda,Indian,"basil seeds, milk, star anise, vermicelli, kulfi",6,30,Medium,3.7,300,2,1,3,0,0,1,2,3,0,Vegetarian,Dessert,South India,Star anise falooda
+874,Fennel Falooda,Indian,"basil seeds, milk, fennel, vermicelli, ice cream",6,30,Medium,3.9,320,2,1,3,0,0,1,3,3,0,Vegetarian,Dessert,North India,Fennel seed falooda
+875,Black Pepper Falooda,Indian,"basil seeds, milk, black pepper, vermicelli, kulfi",6,30,Medium,3.6,295,2,3,2,0,0,1,2,3,0,Vegetarian,Dessert,Kerala,Spicy pepper falooda
+876,Ginger Falooda,Indian,"basil seeds, milk, ginger, vermicelli, ice cream",6,30,Medium,3.8,310,2,3,2,0,0,1,3,3,0,Vegetarian,Dessert,North India,Ginger-spiced falooda
+877,Turmeric Falooda,Indian,"basil seeds, milk, turmeric, vermicelli, kulfi",6,30,Medium,3.4,285,2,2,2,0,0,1,2,3,0,Vegetarian,Dessert,South India,Golden turmeric falooda
+878,Mint Falooda,Indian,"basil seeds, milk, mint, vermicelli, ice cream",6,30,Medium,4.2,290,2,1,3,0,0,1,4,3,0,Vegetarian,Dessert,North India,Refreshing mint falooda
+879,Basil Falooda,Indian,"basil seeds, milk, basil leaves, vermicelli, kulfi",6,30,Medium,3.8,285,2,1,2,0,0,1,4,3,0,Vegetarian,Dessert,Modern Indian,Basil-infused falooda
+880,Lemongrass Falooda,Indian,"basil seeds, milk, lemongrass, vermicelli, ice cream",6,30,Medium,3.9,275,2,0,3,2,0,1,4,3,0,Vegetarian,Dessert,South India,Citrusy lemongrass falooda
+881,Curry Leaf Falooda,Indian,"basil seeds, milk, curry leaves, vermicelli, kulfi",6,30,Medium,3.5,280,2,2,2,0,0,1,4,2,0,Vegetarian,Dessert,South India,Aromatic curry leaf falooda
+882,Orange Blossom Falooda,Indian,"basil seeds, milk, orange blossom water, vermicelli, kulfi",6,30,Medium,4.1,315,2,0,4,1,0,1,3,4,0,Vegetarian,Dessert,Mughlai,Floral orange blossom falooda
+883,Jasmine Falooda,Indian,"basil seeds, milk, jasmine essence, vermicelli, ice cream",6,30,Medium,4,305,2,0,3,0,0,1,3,4,0,Vegetarian,Dessert,South India,Fragrant jasmine falooda
+884,Lavender Falooda,Indian,"basil seeds, milk, lavender, vermicelli, kulfi",6,30,Medium,3.7,295,2,0,3,0,0,1,3,3,0,Vegetarian,Dessert,Fusion,Calming lavender falooda
+885,Chamomile Falooda,Indian,"basil seeds, milk, chamomile, vermicelli, ice cream",6,30,Medium,3.6,290,2,0,2,0,0,1,3,3,0,Vegetarian,Dessert,Fusion,Soothing chamomile falooda
+886,Elderflower Falooda,Indian,"basil seeds, milk, elderflower, vermicelli, kulfi",6,30,Medium,3.8,300,2,0,3,0,0,1,3,3,0,Vegetarian,Dessert,Fusion,Delicate elderflower falooda
+887,Hibiscus Falooda,Indian,"basil seeds, milk, hibiscus, vermicelli, ice cream",6,30,Medium,3.9,285,2,0,3,2,0,1,4,3,0,Vegetarian,Dessert,Modern Indian,Tart hibiscus falooda
+888,Marigold Falooda,Indian,"basil seeds, milk, marigold petals, vermicelli, kulfi",6,30,Medium,3.5,280,2,0,2,0,0,1,3,3,0,Vegetarian,Dessert,Traditional Indian,Floral marigold falooda
+889,Chrysanthemum Falooda,Indian,"basil seeds, milk, chrysanthemum, vermicelli, ice cream",6,30,Medium,3.4,275,2,0,2,0,0,1,3,2,0,Vegetarian,Dessert,East Asian-Indian,Mild chrysanthemum falooda
+890,Lotus Falooda,Indian,"basil seeds, milk, lotus essence, vermicelli, kulfi",6,30,Medium,3.7,290,2,0,3,0,0,1,3,3,0,Vegetarian,Dessert,Traditional Indian,Sacred lotus falooda
+891,Magnolia Falooda,Indian,"basil seeds, milk, magnolia essence, vermicelli, ice cream",6,30,Medium,3.6,285,2,0,2,0,0,1,3,3,0,Vegetarian,Dessert,Fusion,Delicate magnolia falooda
+892,Peony Falooda,Indian,"basil seeds, milk, peony petals, vermicelli, kulfi",6,30,Medium,3.5,280,2,0,2,0,0,1,3,2,0,Vegetarian,Dessert,Fusion,Elegant peony falooda
+893,Orchid Falooda,Indian,"basil seeds, milk, orchid essence, vermicelli, ice cream",6,30,Medium,3.8,295,2,0,3,0,0,1,3,3,0,Vegetarian,Dessert,Exotic,Exotic orchid falooda
+894,Gardenia Falooda,Indian,"basil seeds, milk, gardenia essence, vermicelli, kulfi",6,30,Medium,3.7,290,2,0,3,0,0,1,3,3,0,Vegetarian,Dessert,Fusion,Fragrant gardenia falooda
+895,Tuberose Falooda,Indian,"basil seeds, milk, tuberose essence, vermicelli, ice cream",6,30,Medium,3.9,300,2,0,3,0,0,1,3,4,0,Vegetarian,Dessert,Traditional Indian,Intensely fragrant tuberose falooda
+896,Mogra Falooda,Indian,"basil seeds, milk, mogra essence, vermicelli, kulfi",6,30,Medium,4.1,305,2,0,3,0,0,1,3,4,0,Vegetarian,Dessert,Traditional Indian,Sweet mogra jasmine falooda
+897,Chameli Falooda,Indian,"basil seeds, milk, chameli essence, vermicelli, ice cream",6,30,Medium,4,300,2,0,3,0,0,1,3,4,0,Vegetarian,Dessert,Traditional Indian,Aromatic chameli falooda
+898,Rajnigandha Falooda,Indian,"basil seeds, milk, tuberose essence, vermicelli, kulfi",6,30,Medium,3.8,295,2,0,3,0,0,1,3,4,0,Vegetarian,Dessert,Traditional Indian,Night-blooming rajnigandha falooda
+899,Harsingar Falooda,Indian,"basil seeds, milk, night jasmine, vermicelli, ice cream",6,30,Medium,3.7,290,2,0,2,0,0,1,3,3,0,Vegetarian,Dessert,Traditional Indian,Delicate harsingar falooda
+900,Parijat Falooda,Indian,"basil seeds, milk, parijat essence, vermicelli, kulfi",6,30,Medium,3.6,285,2,0,2,0,0,1,3,3,0,Vegetarian,Dessert,Traditional Indian,Divine parijat falooda
+901,Kewda Falooda,Indian,"basil seeds, milk, kewda water, vermicelli, ice cream",6,30,Medium,4.2,310,2,0,3,0,0,1,3,4,0,Vegetarian,Dessert,Mughlai,Fragrant kewda falooda
+902,Gulkand Falooda,Indian,"basil seeds, milk, rose petal jam, vermicelli, kulfi",6,30,Medium,4.4,340,2,0,5,0,0,1,2,4,0,Vegetarian,Dessert,Mughlai,Sweet rose petal falooda
+903,Murabba Falooda,Indian,"basil seeds, milk, fruit preserve, vermicelli, ice cream",6,30,Medium,4.1,350,2,0,5,0,0,1,3,4,0,Vegetarian,Dessert,North India,Fruit preserve falooda
+904,Honey Falooda,Indian,"basil seeds, milk, honey, vermicelli, kulfi",6,30,Medium,4.3,330,2,0,4,0,0,1,2,4,0,Vegetarian,Dessert,Traditional Indian,Natural honey falooda
+905,Jaggery Falooda,Indian,"basil seeds, milk, jaggery, vermicelli, ice cream",6,30,Medium,4.2,320,2,0,4,0,0,1,2,3,0,Vegetarian,Dessert,Traditional Indian,Organic jaggery falooda
+906,Maple Falooda,Indian,"basil seeds, milk, maple syrup, vermicelli, kulfi",6,30,Medium,3.9,335,2,0,4,0,0,1,2,4,0,Vegetarian,Dessert,Fusion,Maple syrup falooda
+907,Agave Falooda,Indian,"basil seeds, milk, agave nectar, vermicelli, ice cream",6,30,Medium,3.8,315,2,0,3,0,0,1,2,3,0,Vegetarian,Dessert,Fusion,Agave-sweetened falooda
+908,Stevia Falooda,Indian,"basil seeds, milk, stevia, vermicelli, kulfi",6,30,Medium,3.5,250,2,0,2,0,0,1,2,3,0,Vegetarian,Dessert,Modern Indian,Sugar-free stevia falooda
+909,Date Syrup Falooda,Indian,"basil seeds, milk, date syrup, vermicelli, ice cream",6,30,Medium,4,325,2,0,4,0,0,1,2,3,0,Vegetarian,Dessert,Middle Eastern-Indian,Date syrup falooda
+910,Coconut Sugar Falooda,Indian,"basil seeds, milk, coconut sugar, vermicelli, kulfi",6,30,Medium,3.9,315,2,0,3,0,0,1,2,3,0,Vegetarian,Dessert,South India,Coconut sugar falooda
+911,Palm Jaggery Falooda,Indian,"basil seeds, milk, palm jaggery, vermicelli, ice cream",6,30,Medium,4.1,320,2,0,4,0,0,1,2,3,0,Vegetarian,Dessert,South India,Palm jaggery falooda
+912,Brown Sugar Falooda,Indian,"basil seeds, milk, brown sugar, vermicelli, kulfi",6,30,Medium,3.8,310,2,0,3,0,0,1,2,3,0,Vegetarian,Dessert,Modern Indian,Brown sugar falooda
+913,Raw Sugar Falooda,Indian,"basil seeds, milk, raw sugar, vermicelli, ice cream",6,30,Medium,3.7,305,2,0,3,0,0,1,2,3,0,Vegetarian,Dessert,Modern Indian,Unrefined sugar falooda
+914,Muscovado Falooda,Indian,"basil seeds, milk, muscovado sugar, vermicelli, kulfi",6,30,Medium,3.9,318,2,0,4,0,0,1,2,3,0,Vegetarian,Dessert,Fusion,Muscovado sugar falooda
+915,Demerara Falooda,Indian,"basil seeds, milk, demerara sugar, vermicelli, ice cream",6,30,Medium,3.8,312,2,0,3,0,0,1,2,3,0,Vegetarian,Dessert,Fusion,Demerara sugar falooda
+916,Turbinado Falooda,Indian,"basil seeds, milk, turbinado sugar, vermicelli, kulfi",6,30,Medium,3.6,308,2,0,3,0,0,1,2,3,0,Vegetarian,Dessert,Fusion,Turbinado sugar falooda
+917,Castor Sugar Falooda,Indian,"basil seeds, milk, castor sugar, vermicelli, ice cream",6,30,Medium,3.7,300,2,0,3,0,0,1,2,3,0,Vegetarian,Dessert,Modern Indian,Fine castor sugar falooda
+918,Icing Sugar Falooda,Indian,"basil seeds, milk, icing sugar, vermicelli, kulfi",6,30,Medium,3.5,295,2,0,3,0,0,1,2,3,0,Vegetarian,Dessert,Modern Indian,Powdered sugar falooda
+919,Confectioner's Falooda,Indian,"basil seeds, milk, confectioner's sugar, vermicelli, ice cream",6,30,Medium,3.4,290,2,0,3,0,0,1,2,3,0,Vegetarian,Dessert,Modern Indian,Confectioner's sugar falooda
+920,Superfine Falooda,Indian,"basil seeds, milk, superfine sugar, vermicelli, kulfi",6,30,Medium,3.6,298,2,0,3,0,0,1,2,3,0,Vegetarian,Dessert,Modern Indian,Superfine sugar falooda
+921,Crystal Sugar Falooda,Indian,"basil seeds, milk, crystal sugar, vermicelli, ice cream",6,30,Medium,3.5,296,2,0,3,0,0,1,2,3,0,Vegetarian,Dessert,Modern Indian,Crystal sugar falooda
+922,Khichuri,Indian,"rice, moong dal, turmeric, ghee, cumin seeds, bay leaves, salt",7,30,Easy,4.3,280,4,0,0,0,2,2,2,2,0,Vegetarian,Lunch,Bengal,Comfort food rice and lentil porridge
+923,Bhoger Khichuri,Indian,"gobindobhog rice, moong dal, ghee, sugar, salt, bay leaves",6,45,Medium,4.5,320,4,0,2,0,2,2,2,3,0,Vegetarian,Lunch,Bengal,Sweet festival khichuri
+924,Masoor Dal,Indian,"red lentils, onions, tomatoes, ginger, garlic, turmeric, cumin",7,25,Easy,4.2,180,4,1,0,1,2,3,3,1,0,Vegetarian,Lunch,Pan-Indian,Red lentil curry
+925,Cholar Dal,Indian,"chana dal, coconut, ginger, green chilies, bay leaves, ghee",6,45,Medium,4.4,220,4,1,1,0,2,2,2,3,0,Vegetarian,Lunch,Bengal,Bengali split chickpea dal
+926,Mug Dal,Indian,"moong dal, onions, ginger, green chilies, turmeric, cumin, ghee",7,20,Easy,4.1,160,4,1,0,0,2,2,3,2,0,Vegetarian,Lunch,Bengal,Green gram lentil curry
+927,Motor Dal,Indian,"yellow peas, onions, ginger, garlic, turmeric, cumin, coriander",7,60,Medium,4,200,4,1,0,0,2,2,2,1,0,Vegetarian,Lunch,Bengal,Yellow pea curry
+928,Kalai Dal,Indian,"black gram, onions, ginger, garlic, turmeric, cumin, mustard oil",7,45,Medium,4.3,240,4,2,0,0,2,3,2,2,0,Vegetarian,Lunch,Bengal,Black gram lentil curry
+929,Arhar Dal,Indian,"toor dal, onions, tomatoes, ginger, garlic, turmeric, cumin",7,30,Easy,4.2,180,4,1,0,1,2,2,3,1,0,Vegetarian,Lunch,Pan-Indian,Pigeon pea lentil curry
+930,Kabuli Chana,Indian,"white chickpeas, onions, tomatoes, ginger, garlic, garam masala, cumin",7,120,Hard,4.4,280,4,2,0,1,2,3,2,2,1,Vegetarian,Lunch,North India,White chickpea curry
+931,Kala Chana,Indian,"black chickpeas, onions, tomatoes, ginger, garlic, garam masala, cumin",7,120,Hard,4.3,270,4,2,0,1,2,3,2,2,1,Vegetarian,Lunch,North India,Black chickpea curry
+932,Rajma Masala,Indian,"kidney beans, onions, tomatoes, ginger, garlic, garam masala, cream",8,150,Medium,4.5,340,4,2,0,1,2,4,2,3,1,Vegetarian,Lunch,Punjab,Rich kidney bean curry
+933,Chana Masala,Indian,"chickpeas, onions, tomatoes, ginger, garlic, garam masala, amchur",8,90,Medium,4.4,260,4,2,0,2,2,3,3,2,1,Vegetarian,Lunch,North India,Spiced chickpea curry
+934,Dal Tadka,Indian,"toor dal, onions, tomatoes, ginger, garlic, cumin, mustard seeds",7,25,Easy,4.3,170,4,2,0,1,2,2,3,2,0,Vegetarian,Lunch,Pan-Indian,Tempered lentil curry
+935,Dal Fry,Indian,"mixed lentils, onions, tomatoes, ginger, garlic, cumin, coriander",8,30,Easy,4.2,190,4,2,0,1,2,3,3,2,0,Vegetarian,Lunch,Pan-Indian,Fried spiced lentils
+936,Sambhar Onion,Indian,"toor dal, onions, tamarind, sambar powder, curry leaves, mustard seeds",6,40,Medium,4.3,160,4,2,1,3,2,2,3,1,0,Vegetarian,Soup,South India,Onion sambar
+937,Moong Dal Tadka,Indian,"moong dal, onions, ginger, garlic, cumin, mustard seeds, ghee",7,20,Easy,4.2,150,4,1,0,0,2,2,3,2,0,Vegetarian,Lunch,Pan-Indian,Tempered green gram dal
+938,Urad Dal,Indian,"black gram, onions, ginger, garlic, turmeric, cumin, butter",7,45,Medium,4.3,220,4,2,0,0,2,3,2,3,0,Vegetarian,Lunch,North India,Whole black gram curry
+939,Mixed Dal,Indian,"assorted lentils, onions, tomatoes, ginger, garlic, turmeric, cumin",8,35,Medium,4.2,200,4,2,0,1,2,3,3,2,0,Vegetarian,Lunch,Pan-Indian,Mixed lentil curry
+940,Panchratna Dal,Indian,"five lentils, onions, tomatoes, ginger, garlic, panch phoron, ghee",9,40,Medium,4.4,220,4,2,0,1,2,3,3,2,0,Vegetarian,Lunch,Bengal,Five-lentil mixture
+941,Hing Jeera Aloo,Indian,"potatoes, asafoetida, cumin seeds, turmeric, green chilies, coriander",6,20,Easy,4.1,180,4,1,0,0,2,2,3,1,0,Vegetarian,Side Dish,North India,Asafoetida cumin potatoes
+942,Jeera Aloo,Indian,"potatoes, cumin seeds, turmeric, green chilies, coriander, ghee",6,15,Easy,4.3,170,4,1,0,0,2,2,3,1,0,Vegetarian,Side Dish,North India,Cumin-flavored potatoes
+943,Dum Aloo Bengali,Indian,"baby potatoes, onions, ginger, garlic, yogurt, poppy seeds, ghee",7,45,Medium,4.4,280,4,2,1,1,2,2,2,3,2,Vegetarian,Dinner,Bengal,Bengali style dum aloo
+944,Aloo Methi,Indian,"potatoes, fenugreek leaves, onions, ginger, garlic, turmeric, cumin",7,25,Easy,4.2,200,4,1,0,0,2,2,4,1,0,Vegetarian,Side Dish,North India,Potatoes with fenugreek
+945,Aloo Palak,Indian,"potatoes, spinach, onions, ginger, garlic, turmeric, cumin",7,20,Easy,4.3,180,4,1,0,0,2,2,4,2,0,Vegetarian,Side Dish,North India,Potatoes with spinach
+946,Aloo Shimla Mirch,Indian,"potatoes, bell peppers, onions, ginger, garlic, turmeric, cumin",7,20,Easy,4.1,160,4,1,0,0,2,2,3,1,0,Vegetarian,Side Dish,North India,Potatoes with bell peppers
+947,Aloo Baingan,Indian,"potatoes, eggplant, onions, ginger, garlic, turmeric, cumin",7,25,Easy,4.2,190,4,1,0,0,2,2,3,1,0,Vegetarian,Side Dish,North India,Potatoes with eggplant
+948,Aloo Matar,Indian,"potatoes, green peas, onions, ginger, garlic, turmeric, cumin",7,20,Easy,4.3,190,4,1,1,0,2,2,3,1,0,Vegetarian,Side Dish,North India,Potatoes with green peas
+949,Aloo Cauliflower,Indian,"potatoes, cauliflower, onions, ginger, garlic, turmeric, cumin",7,25,Easy,4.2,170,4,1,0,0,2,2,3,1,0,Vegetarian,Side Dish,North India,Potatoes with cauliflower
+950,Stuffed Karela,Indian,"bitter gourd, onions, potatoes, fennel powder, turmeric, amchur",6,45,Medium,4,150,4,2,1,2,2,1,2,1,0,Vegetarian,Side Dish,North India,Stuffed bitter gourd
+951,Bharwa Bhindi,Indian,"okra, onions, fennel powder, coriander powder, turmeric, amchur",6,25,Medium,4.2,140,4,2,1,2,2,2,3,1,0,Vegetarian,Side Dish,North India,Stuffed okra
+952,Stuffed Capsicum,Indian,"bell peppers, potatoes, onions, spices, paneer, peas",7,30,Medium,4.3,220,4,1,0,0,2,3,3,2,0,Vegetarian,Dinner,North India,Stuffed bell peppers
+953,Bharwa Baingan,Indian,"baby eggplant, onions, peanuts, sesame seeds, tamarind, jaggery, spices",8,40,Medium,4.1,200,4,2,2,3,2,2,2,2,0,Vegetarian,Side Dish,Maharashtra,Stuffed baby eggplant
+954,Stuffed Lauki,Indian,"bottle gourd, moong dal, onions, ginger, garlic, spices",7,45,Medium,4,160,4,1,0,0,2,2,3,1,0,Vegetarian,Dinner,North India,Stuffed bottle gourd
+955,Bharwa Tinda,Indian,"round gourds, potatoes, onions, spices, ginger, garlic",7,35,Medium,3.9,140,4,1,0,0,2,2,3,1,0,Vegetarian,Side Dish,North India,Stuffed round gourds
+956,Stuffed Parwal,Indian,"pointed gourd, potatoes, paneer, onions, ginger, garlic, spices",8,30,Medium,4.1,180,4,1,0,0,2,3,3,1,0,Vegetarian,Side Dish,North India,Stuffed pointed gourd
+957,Methi Matar Malai,Indian,"fenugreek leaves, green peas, cream, onions, ginger, garlic, spices",7,25,Medium,4.4,220,4,1,1,0,2,2,4,4,0,Vegetarian,Dinner,North India,Fenugreek peas in cream
+958,Palak Matar,Indian,"spinach, green peas, onions, ginger, garlic, turmeric, cumin",7,20,Easy,4.2,150,4,1,1,0,2,2,4,2,0,Vegetarian,Side Dish,North India,Spinach with green peas
+959,Gajar Matar,Indian,"carrots, green peas, onions, ginger, garlic, turmeric, cumin",7,20,Easy,4.1,130,4,1,2,0,2,2,3,1,0,Vegetarian,Side Dish,North India,Carrots with green peas
+960,Arbi Masala,Indian,"taro root, onions, tomatoes, ginger, garlic, red chili powder, turmeric",7,30,Medium,4,180,4,2,0,1,2,2,2,1,0,Vegetarian,Side Dish,North India,Spiced taro root
+961,Arbi Fry,Indian,"taro root, turmeric, red chili powder, coriander powder, oil",5,25,Easy,4.1,200,4,2,0,0,2,2,2,1,0,Vegetarian,Side Dish,North India,Fried taro root
+962,Kaddu Ki Sabzi,Indian,"pumpkin, onions, ginger, garlic, turmeric, cumin, jaggery",7,25,Easy,4.2,120,4,1,2,0,2,2,3,1,0,Vegetarian,Side Dish,North India,Sweet pumpkin curry
+963,Lauki Ki Sabzi,Indian,"bottle gourd, onions, ginger, garlic, turmeric, cumin, tomatoes",7,20,Easy,4,100,4,1,0,1,2,2,3,1,0,Vegetarian,Side Dish,North India,Bottle gourd curry
+964,Turai Ki Sabzi,Indian,"ridge gourd, onions, ginger, garlic, turmeric, cumin, tomatoes",7,20,Easy,4.1,90,4,1,0,1,2,2,3,1,0,Vegetarian,Side Dish,North India,Ridge gourd curry
+965,Gilki Ki Sabzi,Indian,"sponge gourd, onions, ginger, garlic, turmeric, cumin",6,15,Easy,3.9,80,4,1,0,0,2,2,3,1,0,Vegetarian,Side Dish,North India,Sponge gourd curry
+966,Nenua Ki Sabzi,Indian,"bottle gourd, onions, ginger, garlic, turmeric, red chili powder",6,20,Easy,4,85,4,1,0,0,2,2,3,1,0,Vegetarian,Side Dish,North India,Bottle gourd preparation
+967,Chana Saag,Indian,"chickpea leaves, onions, ginger, garlic, turmeric, mustard oil",6,15,Easy,4.1,70,4,1,0,0,2,2,4,1,0,Vegetarian,Side Dish,Punjab,Chickpea greens
+968,Bathua Saag,Indian,"chenopodium leaves, onions, ginger, garlic, turmeric, mustard oil",6,15,Easy,4,60,4,1,0,0,2,2,4,1,0,Vegetarian,Side Dish,North India,Lamb's quarter greens
+969,Cholai Saag,Indian,"amaranth leaves, onions, ginger, garlic, turmeric, mustard oil",6,10,Easy,4.1,65,4,1,0,0,2,3,4,1,0,Vegetarian,Side Dish,North India,Amaranth greens
+970,Poi Saag,Indian,"poi leaves, onions, ginger, garlic, turmeric, mustard oil",6,10,Easy,4,55,4,1,0,0,2,2,4,1,0,Vegetarian,Side Dish,Bengal,Poi greens (Basella)
+971,Lal Saag,Indian,"red amaranth, onions, ginger, garlic, turmeric, mustard oil",6,12,Easy,4.1,70,4,1,0,0,2,3,4,1,0,Vegetarian,Side Dish,Bengal,Red amaranth greens
+972,Dhania Saag,Indian,"coriander leaves, onions, ginger, garlic, turmeric, mustard oil",6,10,Easy,4.2,50,4,1,0,0,2,2,4,1,0,Vegetarian,Side Dish,North India,Coriander greens
+973,Pudina Saag,Indian,"mint leaves, onions, ginger, garlic, turmeric, mustard oil",6,10,Easy,4.1,45,4,1,0,0,2,2,4,1,0,Vegetarian,Side Dish,North India,Mint greens curry
+974,Methi Saag,Indian,"fenugreek leaves, onions, ginger, garlic, turmeric, mustard oil",6,15,Easy,4.3,75,4,1,0,0,2,2,4,1,0,Vegetarian,Side Dish,North India,Fenugreek greens
+975,Mixed Saag,Indian,"mixed greens, onions, ginger, garlic, turmeric, mustard oil",6,20,Easy,4.2,80,4,1,0,0,2,2,4,1,0,Vegetarian,Side Dish,North India,Mixed green vegetables
+976,Saag Paneer,Indian,"spinach, paneer, onions, ginger, garlic, cream, garam masala",7,25,Medium,4.5,280,4,2,0,0,2,3,4,4,0,Vegetarian,Dinner,North India,Spinach with cottage cheese
+977,Saag Chicken,Indian,"mustard greens, chicken, onions, ginger, garlic, spices",7,45,Medium,4.4,350,4,2,0,0,2,3,4,2,2,Non-Vegetarian,Dinner,Punjab,Chicken with greens
+978,Saag Gosht,Indian,"mustard greens, mutton, onions, ginger, garlic, spices",7,75,Hard,4.3,420,4,2,0,0,2,4,4,2,2,Non-Vegetarian,Dinner,Punjab,Mutton with mustard greens
+979,Sarson Ka Saag Makki Roti,Indian,"mustard greens, maize flour, onions, ginger, garlic, butter",6,60,Medium,4.6,350,2,2,0,0,2,2,4,3,0,Vegetarian,Dinner,Punjab,Classic combination meal
+980,Rajma Chawal,Indian,"kidney beans, rice, onions, tomatoes, ginger, garlic, spices",8,120,Medium,4.5,450,4,2,0,1,2,3,2,2,4,Vegetarian,Lunch,North India,Kidney beans with rice
+981,Kadhi Chawal,Indian,"gram flour, yogurt, rice, ginger, green chilies, cumin, mustard seeds",8,45,Medium,4.4,380,4,1,1,2,2,2,4,3,4,Vegetarian,Lunch,North India,Yogurt curry with rice
+982,Dal Chawal,Indian,"lentils, rice, onions, tomatoes, ginger, garlic, turmeric",7,35,Easy,4.3,320,4,1,0,1,2,2,3,2,4,Vegetarian,Lunch,Pan-Indian,Lentils with rice
+983,Chole Chawal,Indian,"chickpeas, rice, onions, tomatoes, ginger, garlic, spices",8,90,Medium,4.4,400,4,2,0,1,2,3,3,2,4,Vegetarian,Lunch,North India,Chickpeas with rice
+984,Aloo Jeera Rice,Indian,"potatoes, basmati rice, cumin, onions, ginger, turmeric",6,25,Easy,4.2,280,4,1,0,0,2,2,3,1,4,Vegetarian,Lunch,North India,Cumin potato rice
+985,Ghee Rice,Indian,"basmati rice, ghee, whole spices, cashews, raisins, onions",6,25,Easy,4.4,320,4,0,1,0,2,2,2,3,4,Vegetarian,Lunch,South India,Clarified butter rice
+986,Saffron Rice,Indian,"basmati rice, saffron, ghee, cashews, raisins, cardamom",6,30,Medium,4.5,300,4,0,1,0,2,2,2,3,4,Vegetarian,Lunch,Mughlai,Aromatic saffron rice
+987,Mint Rice,Indian,"basmati rice, mint leaves, ginger, green chilies, cashews",5,20,Easy,4.3,260,4,1,0,0,2,2,4,2,4,Vegetarian,Lunch,South India,Fresh mint rice
+988,Coriander Rice,Indian,"basmati rice, coriander leaves, ginger, green chilies, cashews",5,20,Easy,4.2,250,4,1,0,0,2,2,4,2,4,Vegetarian,Lunch,South India,Fresh coriander rice
+989,Spinach Rice,Indian,"basmati rice, spinach, onions, ginger, garlic, cumin",6,25,Easy,4.1,240,4,1,0,0,2,2,4,2,4,Vegetarian,Lunch,South India,Spinach flavored rice
+990,Curry Leaf Rice,Indian,"basmati rice, curry leaves, mustard seeds, urad dal, cashews",5,15,Easy,4.4,220,4,0,0,0,2,2,3,1,4,Vegetarian,Lunch,South India,Aromatic curry leaf rice
+991,Sesame Rice,Indian,"basmati rice, sesame seeds, red chilies, curry leaves, ghee",5,20,Easy,4.2,280,4,1,0,0,3,2,3,2,4,Vegetarian,Lunch,South India,Nutty sesame rice
+992,Peanut Rice,Indian,"basmati rice, peanuts, red chilies, curry leaves, turmeric",5,20,Easy,4.3,300,4,1,0,0,3,2,3,2,4,Vegetarian,Lunch,South India,Crunchy peanut rice
+993,Mixed Vegetable Rice,Indian,"basmati rice, mixed vegetables, ginger, green chilies, cumin",6,30,Medium,4.2,270,4,1,0,0,2,2,3,2,4,Vegetarian,Lunch,South India,Vegetable flavored rice
+994,Cabbage Rice,Indian,"basmati rice, cabbage, mustard seeds, curry leaves, coconut",5,20,Easy,4.1,230,4,1,0,0,2,2,3,2,4,Vegetarian,Lunch,South India,Cabbage spiced rice
+995,Beetroot Rice,Indian,"basmati rice, beetroot, ginger, green chilies, cashews",5,25,Easy,4,240,4,1,1,0,2,2,3,2,4,Vegetarian,Lunch,South India,Colorful beetroot rice
+996,Carrot Rice,Indian,"basmati rice, carrots, ginger, green chilies, cashews",5,20,Easy,4.1,250,4,1,2,0,2,2,3,2,4,Vegetarian,Lunch,South India,Sweet carrot rice
+997,Beans Rice,Indian,"basmati rice, green beans, coconut, curry leaves, mustard seeds",5,25,Easy,4.2,240,4,1,0,0,2,2,3,2,4,Vegetarian,Lunch,South India,Green beans rice
+998,Ridge Gourd Rice,Indian,"basmati rice, ridge gourd, coconut, curry leaves, mustard seeds",5,20,Easy,4,220,4,1,0,0,2,2,3,2,4,Vegetarian,Lunch,South India,Ridge gourd spiced rice
+999,Drumstick Rice,Indian,"basmati rice, drumsticks, coconut, curry leaves, tamarind",5,25,Easy,4.1,230,4,1,0,2,2,2,3,2,4,Vegetarian,Lunch,South India,Drumstick flavored rice
+1000,Festival Thali,Indian,"various dishes, rice, bread, sweets, pickles, yogurt",12,180,Hard,4.8,800,1,3,3,3,3,4,4,3,3,Vegetarian,Lunch,Pan-Indian,Complete festive meal platter with multiple courses
+1001,Hyderabadi Chicken Biryani,Indian,"rice; chicken; fried onions; saffron; yogurt; mint; coriander; ghee; whole spices mix",8,60,Hard,4.8,520,0,5,1,0,1,4,3,3,3,5,Non-Vegetarian,Lunch Hyderabadi,"Classic layered rice biryani with marinated chicken cooked on dum."
+1002,Lucknowi Chicken Biryani,Indian,"rice, chicken, kewra water, rose water, onions, yogurt, cardamom, ghee, ginger, garlic",8,55,Hard,4.6,510,0,5,1,0,1,4,3,2,3,4,Non-Vegetarian,Lunch Awadhi,"Fragrant biryani with mild spices and floral aroma from kewra and rose water."
+1003,Kolkata Chicken Biryani,Indian,"rice, chicken, potatoes, eggs, yogurt, nutmeg, cloves, ghee, ginger, garlic",7,50,Medium,4.5,490,0,4,1,0,1,3,3,2,2,4,Non-Vegetarian,Lunch Bengali,"Biryani with rice, potatoes, and eggs inspired by Nawabi influence of Kolkata."
+1004,Malabar Chicken Biryani,Indian,"rice, chicken, onions, coconut oil, raisins, cashews, fennel, curry leaves, ginger, garlic",7,55,Hard,4.7,530,0,5,1,0,1,4,3,3,3,5,Non-Vegetarian,Lunch Kerala,"Rich and aromatic rice biryani cooked with Kerala spices."
+1005,Ambur Chicken Biryani,Indian,"rice, chicken, curd, dried chili paste, mint leaves, coriander, ghee, ginger, garlic",7,45,Medium,4.5,500,0,4,1,0,1,5,3,2,2,4,Non-Vegetarian,Lunch Tamil Nadu,"Traditional South Indian biryani made with fiery dried chili paste."
+1006,Dindigul Chicken Biryani,Indian,"rice, chicken, curd, lemon juice, cloves, cinnamon, green chili, ginger, garlic",7,40,Medium,4.4,480,0,4,1,0,1,4,3,2,2,4,Non-Vegetarian,Lunch Tamil Nadu,"Tangy rice biryani made with strong spice blend."
+1007,Ambur Mutton Biryani,Indian,"rice, mutton, curd, dried chili paste, mint leaves, coriander, ghee, ginger, garlic",8,55,Hard,4.7,540,0,5,1,0,1,5,3,3,3,5,Non-Vegetarian,Lunch Tamil Nadu,"Fiery biryani variant from Ambur made with tender mutton pieces."
+1008,Hyderabadi Egg Biryani,Indian,"rice, boiled eggs, fried onions, mint, saffron, ghee, whole spices, ginger, garlic",6,40,Medium,4.3,450,0,3,1,0,1,3,3,2,2,3,Vegetarian,Lunch Hyderabadi,"Layered rice biryani prepared with spiced boiled eggs."
+1009,Paneer Biryani,Indian,"rice, paneer, yogurt, onions, mint, garam masala, ghee, ginger, garlic",6,35,Medium,4.4,430,0,3,1,0,1,3,3,2,2,3,Vegetarian,Lunch North Indian,"Soft paneer cubes layered with rice and mild spices."
+1010,Mushroom Biryani,Indian,"rice, mushrooms, onions, tomatoes, mint, coriander, garam masala, ghee, ginger, garlic",6,30,Easy,4.2,410,0,3,1,0,1,3,3,2,2,3,Vegetarian,Lunch Pan-Indian,"Quick aromatic rice biryani made with mushrooms and herbs."
+1011,Chicken Dum Biryani,Indian,"rice, chicken, onions, ginger, garlic, whole spices, ghee",7,45,Medium,4.4,480,0,4,1,0,1,4,3,2,2,4,Non-Vegetarian,Lunch Pan-Indian,"Simple chicken and rice dish cooked with aromatic spices."
+1012,Chicken Tahari,Indian,"rice, chicken, potatoes, tomatoes, green peas, garam masala, ghee, ginger, garlic",6,40,Medium,4.3,460,0,3,1,0,1,3,3,2,2,3,Non-Vegetarian,Lunch North Indian,"Simpler one-pot rice dish similar to biryani but lighter."
+1013,Chicken Dum Pulao,Indian,"rice, chicken, onions, yogurt, mint, saffron, ghee, ginger, garlic",7,50,Medium,4.5,470,0,4,1,0,1,3,3,2,2,4,Non-Vegetarian,Lunch Pan-Indian,"Flavorful dum-cooked rice pulao similar to biryani in texture."
+1014,Chicken Kebab Biryani,Indian,"rice, chicken kebabs, fried onions, mint, yogurt, ghee, saffron, ginger, garlic",8,60,Hard,4.7,520,0,5,1,0,1,4,3,3,3,5,Non-Vegetarian,Lunch Fusion,"Biryani combining grilled kebabs with aromatic rice."
+1015,Hyderabadi Veg Biryani,Indian,"rice, carrots, beans, peas, potatoes, mint, saffron, ghee, whole spices, ginger, garlic",7,45,Medium,4.5,440,0,4,1,0,1,3,3,2,2,4,Vegetarian,Lunch Hyderabadi,"Fragrant vegetarian biryani with layered rice and vegetables."
+1016,South Indian Egg Rice,Indian,"rice, egg, curry leaves, mustard seeds, onion, green chili, turmeric, ghee",6,30,Easy,4.4,410,0,3,1,0,1,3,3,2,3,4,Non-Vegetarian,Lunch SouthIndian,"Spicy rice tossed with tempered curry leaves and scrambled eggs."
+1017,Egg Pulao,Indian,"basmati rice, egg, garam masala, onion, ghee, coriander, mint",7,35,Medium,4.6,450,0,4,1,0,1,3,3,3,3,4,Non-Vegetarian,Lunch NorthIndian,"Fragrant rice cooked with boiled eggs and mild spices."
+1018,Egg Biryani,Indian,"basmati rice, egg, fried onions, saffron, biryani masala, mint, coriander, ghee",8,45,Medium,4.7,480,0,5,1,0,1,4,3,3,3,5,Non-Vegetarian,Lunch Hyderabadi,"Layered biryani with spiced boiled eggs and aromatic rice."
